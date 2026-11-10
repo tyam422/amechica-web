@@ -46,7 +46,7 @@ draft: false
 
 イリノイ州の公立・私立の学校に初めて入るときは（国外からの転入も含みます）、入学前1年以内の健康診断と、州が定める予防接種の証明が必要です。健康診断は、州指定の用紙「Certificate of Child Health Examination」に記入するのが基本です。州外・国外からの転入では、イリノイ州の要件に相当する用紙を、イリノイの学校へ<strong>初めて入るときだけ</strong>受け付ける、と行政規則にあります。「診察をした」という一文だけでは足りません。
 
-日本の母子手帳は大切な原本ですが、この州の用紙の代わりになるとは限りません。出発前に、母子手帳のコピーと、<strong>日本の医師に英語で書いてもらった予防接種の記録</strong>（ワクチン名と接種日）を用意し、到着後は小児科医に州の用紙へ転記してもらうのが確実です。不足があれば追加接種が必要になることもあります。入学の流れは「[入学手続き・予防接種・提出書類](/topics/school-enrollment-and-vaccinations/)」、主治医の探し方は「[主治医（PCP）の探し方と新患予約](/topics/finding-a-pcp/)」を見てください。イリノイ州の住所の証明（賃貸契約など）は、到着後に揃えます。
+日本の母子手帳は大切な原本ですが、この州の用紙の代わりになるとは限りません。出発前に、母子手帳のコピーと、<strong>日本の医師に英語で書いてもらった予防接種の記録</strong>（ワクチン名と接種日）を用意し、到着後は小児科医に州の用紙へ転記してもらうのが確実です。記録がないと、すべての予防接種を一からやり直すことになった例もあります。米国疾病対策センター（CDC）も、書面の記録がない接種は原則として受けていないものとして扱い、年齢に応じた接種スケジュールを始めるよう案内しています。不足があれば追加接種が必要になることもあります。入学の流れは「[入学手続き・予防接種・提出書類](/topics/school-enrollment-and-vaccinations/)」、主治医の探し方は「[主治医（PCP）の探し方と新患予約](/topics/finding-a-pcp/)」を見てください。イリノイ州の住所の証明（賃貸契約など）は、到着後に揃えます。
 
 ## 学校の在学・成績証明
 
@@ -120,6 +120,7 @@ draft: false
 - [Personal Importation（米国食品医薬品局 FDA）](https://www.fda.gov/industry/import-basics/personal-importation)
 - [よくある質問（自動車安全運転センター）](https://www.jsdc.or.jp/qa/tabid/126/Default.aspx)
 - [Certification of Driving History（自動車安全運転センター）](https://www.jsdc.or.jp/en/tabid/144/Default.aspx)
+- [Timing and Spacing of Immunobiologics（CDC、記録がない場合の扱い）](https://www.cdc.gov/vaccines/hcp/imz-best-practices/timing-spacing-immunobiologics.html)
 - [77 Ill. Adm. Code 665.150（健康診断の用紙、国外からの転入）](https://ilga.gov/commission/jcar/admincode/077/077006650B01500R.html)
 - [77 Ill. Adm. Code 665.230（入学時の予防接種）](https://www.ilga.gov/commission/jcar/admincode/077/077006650B02300R.html)
 - [105 ILCS 5/27-8.1（健康診断・予防接種）](https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=010500050K27-8.1)
