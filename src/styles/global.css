@@ -409,6 +409,97 @@ main {
   font-size: 0.92rem;
 }
 
+/* Article prose: headings, lists, checklist and callout boxes */
+.prose h2 {
+  margin: 2.4rem 0 0.8rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.prose h3 {
+  font-size: 1.05rem;
+  margin: 1.6rem 0 0.5rem;
+}
+
+.prose ul,
+.prose ol {
+  margin: 0 0 1em;
+  padding-left: 1.4em;
+}
+
+.prose li + li {
+  margin-top: 0.3em;
+}
+
+.checklist,
+.callout {
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 1rem 1.2rem;
+  margin: 1.4rem 0 1.6rem;
+  box-shadow: var(--shadow);
+}
+
+.checklist {
+  border-left: 4px solid var(--accent);
+}
+
+.checklist__title,
+.callout__title {
+  font-weight: 700;
+  color: var(--accent);
+  margin: 0 0 0.5rem;
+}
+
+.prose .checklist ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.checklist li {
+  position: relative;
+  padding-left: 1.7em;
+}
+
+.checklist li::before {
+  content: "";
+  position: absolute;
+  left: 0.1em;
+  top: 0.38em;
+  width: 0.95em;
+  height: 0.95em;
+  border: 2px solid var(--accent);
+  border-radius: 3px;
+  background: #fff;
+}
+
+.callout {
+  background: var(--accent-soft);
+}
+
+.prose .callout p:last-child {
+  margin-bottom: 0;
+}
+
+.callout strong {
+  font-family: system-ui, sans-serif;
+}
+
+.disclaimer {
+  background: var(--warn-bg);
+  border-radius: 10px;
+  padding: 0.8rem 1rem;
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+  margin: 2rem 0 0;
+}
+
+.prose p.disclaimer:last-child {
+  margin-bottom: 0;
+}
+
 @media (max-width: 640px) {
   html,
   body {
