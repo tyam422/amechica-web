@@ -1,0 +1,59 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import {
+  GROUPS,
+  groupPath,
+  isPublished,
+  topicPath,
+  topicsInGroup,
+} from "../lib/groups";
+
+const allTopics = (await getCollection("topics")).filter((topic) => isPublished(topic));
+---
+
+<BaseLayout
+  title="amechica — アメリカ生活シカゴ郊外"
+  description="会社の転勤などで初めて米国に来る日本人向けの、シカゴ郊外を例にした生活案内です。"
+  current="home"
+>
+  <section class="hero">
+    <p class="hero__kicker">アメリカ生活シカゴ郊外</p>
+    <h1>初めての米国生活を、日本語で。</h1>
+    <p class="lead">
+      amechica（アメリカ生活シカゴ郊外）は、会社の転勤などで初めて米国に来る日本人向けの案内サイトです。スーパーはどこへ行けばよいか、といったところからの説明を、日本語でまとめています。
+    </p>
+    <p>
+      店や役場、学区など場所が絡む話はシカゴ郊外（イリノイ州）の例を出しますが、仕組みの多くは米国全般に通じます。各トピックには解説に加え、後から公開する
+      YouTube 動画への案内を置く予定です。
+    </p>
+  </section>
+
+  {
+    GROUPS.map((group) => {
+      const topics = topicsInGroup(allTopics, group.name);
+      if (topics.length === 0) return null;
+      return (
+        <section class="group-block" id={group.slug} aria-labelledby={`group-${group.slug}`}>
+          <div class="group-block__head">
+            <h2 id={`group-${group.slug}`}>{group.name}</h2>
+            <a class="group-block__more" href={groupPath(group.slug)}>
+              このグループを見る
+            </a>
+            <p>{group.description}</p>
+          </div>
+          <ul class="topic-list">
+            {topics.map((topic) => (
+              <li>
+                <a href={topicPath(topic.id)}>
+                  <span class="topic-list__title">{topic.data.title}</span>
+                  <span class="topic-list__desc">{topic.data.description}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      );
+    })
+  }
+</BaseLayout>

@@ -1,0 +1,59 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import {
+  GROUPS,
+  getGroupBySlug,
+  isPublished,
+  topicPath,
+  topicsInGroup,
+  type GroupSlug,
+} from "../../lib/groups";
+
+export async function getStaticPaths() {
+  return GROUPS.map((group) => ({
+    params: { slug: group.slug },
+  }));
+}
+
+const { slug } = Astro.params;
+const group = getGroupBySlug(slug as GroupSlug);
+if (!group) {
+  throw new Error(`Unknown group: ${slug}`);
+}
+
+const allTopics = (await getCollection("topics")).filter((topic) => isPublished(topic));
+const topics = topicsInGroup(allTopics, group.name);
+---
+
+<BaseLayout
+  title={`${group.name} — amechica`}
+  description={group.description}
+>
+  <nav class="crumb" aria-label="パンくずリスト">
+    <ol>
+      <li><a href="/">ホーム</a></li>
+      <li aria-current="page">{group.name}</li>
+    </ol>
+  </nav>
+  <header class="group-block__head" style="margin-bottom: 1.2rem;">
+    <h1>{group.name}</h1>
+    <p>{group.description}</p>
+  </header>
+  {
+    topics.length > 0 ? (
+      <ul class="topic-list">
+        {topics.map((topic) => (
+          <li>
+            <a href={topicPath(topic.id)}>
+              <span class="topic-list__title">{topic.data.title}</span>
+              <span class="topic-list__desc">{topic.data.description}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    ) : (
+      <p>このグループのトピックはまだありません。</p>
+    )
+  }
+</BaseLayout>

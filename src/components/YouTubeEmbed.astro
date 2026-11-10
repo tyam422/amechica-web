@@ -1,0 +1,53 @@
+---
+interface Props {
+  youtubeId?: string;
+  title: string;
+}
+
+const { youtubeId, title } = Astro.props;
+---
+
+{
+  youtubeId ? (
+    <div class="yt-lite" data-youtube-id={youtubeId}>
+      <button type="button" class="yt-lite__button" aria-label={`${title}の動画を再生`}>
+        <img
+          src={`https://i.ytimg.com/vi/${youtubeId}/hqdefault.jpg`}
+          alt=""
+          width="480"
+          height="360"
+          loading="lazy"
+        />
+        <span class="yt-lite__play" aria-hidden="true" />
+      </button>
+    </div>
+  ) : (
+    <div class="yt-placeholder">
+      <p>このトピックの動画は準備中です。</p>
+    </div>
+  )
+}
+
+{
+  youtubeId && (
+    <script>
+      function loadPlayer(root: HTMLElement) {
+        const id = root.dataset.youtubeId;
+        if (!id) return;
+        const iframe = document.createElement("iframe");
+        iframe.src = `https://www.youtube-nocookie.com/embed/${id}?autoplay=1`;
+        iframe.title = "YouTube video player";
+        iframe.allow =
+          "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share";
+        iframe.allowFullscreen = true;
+        iframe.referrerPolicy = "strict-origin-when-cross-origin";
+        root.replaceChildren(iframe);
+      }
+
+      document.querySelectorAll<HTMLElement>(".yt-lite").forEach((root) => {
+        const button = root.querySelector("button");
+        button?.addEventListener("click", () => loadPlayer(root), { once: true });
+      });
+    </script>
+  )
+}

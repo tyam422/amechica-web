@@ -1,0 +1,40 @@
+---
+import type { CollectionEntry } from "astro:content";
+import BaseLayout from "./BaseLayout.astro";
+import YouTubeEmbed from "../components/YouTubeEmbed.astro";
+import {
+  formatDate,
+  getGroupByName,
+  groupPath,
+} from "../lib/groups";
+
+interface Props {
+  topic: CollectionEntry<"topics">;
+}
+
+const { topic } = Astro.props;
+const group = getGroupByName(topic.data.group);
+if (!group) {
+  throw new Error(`Unknown group: ${topic.data.group}`);
+}
+
+const title = `${topic.data.title} — amechica`;
+---
+
+<BaseLayout title={title} description={topic.data.description} ogType="article">
+  <article class="article">
+    <nav class="crumb" aria-label="パンくずリスト">
+      <ol>
+        <li><a href="/">ホーム</a></li>
+        <li><a href={groupPath(group.slug)}>{group.name}</a></li>
+        <li aria-current="page">{topic.data.title}</li>
+      </ol>
+    </nav>
+    <h1>{topic.data.title}</h1>
+    <p class="meta">更新日：{formatDate(topic.data.updated)}</p>
+    <YouTubeEmbed youtubeId={topic.data.youtubeId} title={topic.data.title} />
+    <div class="prose">
+      <slot />
+    </div>
+  </article>
+</BaseLayout>

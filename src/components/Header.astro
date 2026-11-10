@@ -1,0 +1,20 @@
+---
+interface Props {
+  current?: "home" | "about" | "other";
+}
+
+const { current = "other" } = Astro.props;
+---
+
+<header class="site-header">
+  <div class="site-header__inner">
+    <a class="wordmark" href="/">
+      <span class="wordmark__name">amechica</span>
+      <span class="wordmark__tag">アメリカ生活シカゴ郊外</span>
+    </a>
+    <nav class="nav" aria-label="主な案内">
+      <a href="/" aria-current={current === "home" ? "page" : undefined}>ホーム</a>
+      <a href="/about/" aria-current={current === "about" ? "page" : undefined}>このサイトについて</a>
+    </nav>
+  </div>
+</header>

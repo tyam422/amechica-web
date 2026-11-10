@@ -1,0 +1,27 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+
+# generated types and content store
+.astro/
+
+# logs and environment
+logs/
+*.log
+npm-debug.log*
+.env
+.env.*
+!.env.example
+
+# editor and OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# optional local tooling
+.vercel/
+.netlify/

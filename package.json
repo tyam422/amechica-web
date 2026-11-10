@@ -1,0 +1,21 @@
+{
+  "name": "amechica-web",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "description": "amechica.com — a Japanese-language static guide to everyday life in the Chicago suburbs for people moving from Japan to the U.S.",
+  "scripts": {
+    "dev": "astro dev --port 4321 --host",
+    "start": "astro dev --port 4321 --host",
+    "build": "astro build",
+    "preview": "astro preview --port 4321 --host",
+    "astro": "astro"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.4",
+    "astro": "^7.4.8"
+  }
+}
