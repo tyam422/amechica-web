@@ -72,7 +72,7 @@ Yield（ゆずれ）の標識は、完全停止が必ず必要とは限りませ
 
 シートベルトは、運転者と同乗者に義務がある案内です。子どもは、年齢に応じた拘束装置が別にあります。飲酒運転の血中アルコール濃度の上限、薬物を含む運転、学校区や工事区の罰則は、Rules of the Road と条文を見てください。この記事では、数値を書き写して「いまも同じ」と保証しません。最新の公式テキストを見てください。
 
-U ターンの可否は、交差点や中央分離の切れ目ごとに、標識と条文で決まります。一方通行の逆走、交差点内での停止（格子の表示があるときは特に）も、よくある違反です。有料道路（I-PASS など）の使い方は、このサイトの初回の地図では別テーマとして残しています。使うときは、公式の料金と口座の案内を見てください。
+U ターンの可否は、交差点や中央分離の切れ目ごとに、標識と条文で決まります。一方通行の逆走、交差点内での停止（格子の表示があるときは特に）も、よくある違反です。有料道路（I-PASS など）の使い方は、この記事では扱いません。使うときは、公式の料金と口座の案内を見てください。
 
 <div class="callout">
 <p class="callout__title">確認するときの英語の例</p>
@@ -96,13 +96,13 @@ U ターンの可否は、交差点や中央分離の切れ目ごとに、標識
 - 灯火を点けて路肩に停まる緊急車両や作業車には、Move Over（625 ILCS 5/11-907）
 - 詳細は、州務省の Rules of the Road と Vehicle Code を優先する
 
-<p class="disclaimer">※この記事は一般的な情報をまとめたもので、交通違反や事故についての法律上のアドバイスではありません。信号、停止、スクールバス、携帯電話、速度、罰則は、条文と標識、改正当時によって違います。実際の判断は、Illinois Vehicle Code、州務省の Rules of the Road、その場の標識と警察官の指示に必ず従ってください。この記事は、運転試験の代わりではありません。</p>
+<p class="disclaimer">※この記事は一般的な情報をまとめたもので、交通違反や事故についての法律上のアドバイスではありません。信号、停止、スクールバス、携帯電話、速度、罰則は、条文と標識、改正の時期によって違います。実際の判断は、Illinois Vehicle Code、州務省の Rules of the Road、その場の標識と警察官の指示に必ず従ってください。この記事は、運転試験の代わりではありません。</p>
 
 ## 参考リンク
 
 - [Rules of the Road（イリノイ州務省）](https://www.ilsos.gov/publications/handbooks/pdf_publications/dsd_a112.pdf)
 - [Distracted Driving（イリノイ州務省）](https://www.ilsos.gov/departments/drivers/traffic-safety/distracted.html)
-- [Illinois State Police：Frequently Asked Questions](https://www.ilsos.gov/departments/police/faq.html)
+- [Illinois Secretary of State Police：Frequently Asked Questions](https://www.ilsos.gov/departments/police/faq.html)
 - [625 ILCS 5/11-306（信号と赤での右折）](https://www.ilga.gov/documents/legislation/ilcs/documents/062500050K11-306.htm)
 - [625 ILCS 5/11-1414（スクールバス）](https://www.ilga.gov/documents/legislation/ilcs/documents/062500050K11-1414.htm)
 - [625 ILCS 5/12-610.2（運転中の携帯電話）](https://www.ilga.gov/Documents/legislation/ilcs/documents/062500050K12-610.2.htm)
