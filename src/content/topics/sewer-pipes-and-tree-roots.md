@@ -5,6 +5,7 @@ group: "住まい・家のメンテナンス"
 order: 2
 updated: 2026-11-10
 draft: false
+youtubeId: "pu3jydXOZqo"
 ---
 
 古い住宅では粘土製の下水管（clay sewer pipe）が使われていることがあり、木の根が入り込んで詰まりや逆流の原因になります。日本の住宅配管ではあまり意識しない、持ち家・古い賃貸で出やすい話です。シカゴ近郊では、家の排水はまず私設管（lateral / service line）を通り、道路の下などの地区の下水管へつながります。Metropolitan Water Reclamation District of Greater Chicago（MWRD）の公式案内では、水は家から私設管を通って通りの下水管へ入り、その地区の管は村や市が維持し、より大きな MWRD の管へ流れて処理場へ向かう、と説明されています。サンプポンプの地下水の浸水とは、原因が違うことがあります。「[地下室のサンプポンプ](/topics/sump-pump/)」、調理の油の捨て方は「[ごみの収集日の調べ方](/topics/garbage-pickup-days/)」、工事の許可は「[家の工事と村の許可](/topics/village-permits/)」も見てください。
