@@ -40,7 +40,6 @@ draft: false
 
 したがって、<strong>連邦の規則だけを見ると、非米国人はパスポート番号などで口座を開ける余地があります</strong>。一方、FDICの消費者向け案内では、開設時に社会保障番号または個人納税者識別番号（ITIN）の入力を求める流れが示されています。オンラインでは特に、番号を求められることがよくあります。銀行ごとの方針は違い、番号がないと断られることも、パスポートとビザ、I-94 で進めることもありえます。納税者番号を申請中で、まだ届いていない人向けの手続きを置いている銀行もあります（同規則）。開けるかは、その銀行に先に確認してください。ITINは、口座開設だけを理由には発行されない、と内国歳入庁（IRS）は案内しています。詳細は社会保障番号の記事を見てください。
 
-
 本人確認のほか、次のような書類を求められることがあります（FDIC）。
 
 - 有効期限内のパスポート（外国のパスポートを受け付ける銀行もあります）
@@ -101,7 +100,7 @@ FDICに加盟している銀行の預金は、銀行が破綻した場合でも�
 <p><strong>I would like to open a checking account.</strong><br>（当座預金を開きたいです。）</p>
 <p><strong>I don’t have a Social Security number yet. Can I open an account with my passport and I-94?</strong><br>（社会保障番号はまだありません。パスポートと I-94 で口座を開けますか？）</p>
 <p><strong>Here are my passport, visa, I-94, and a letter from my employer. This is my current U.S. address.</strong><br>（パスポート、ビザ、I-94、勤務先の手紙です。いまの米国の住所はこちらです。）</p>
-<p><strong>What is the monthly fee, and how can I avoid it? I would like to opt out of debit card overdraft coverage.</strong><br>（月額手数料はいくらで、どうすれば免れますか？デビットカードの当座貸越は希望しません。）</p>
+<p><strong>What is the monthly fee, and how can I avoid it? I would like to opt out of debit card overdraft coverage.</strong><br>（月額手数料はいくらで、どうすれば避けられますか？デビットカードの当座貸越は希望しません。）</p>
 <p><strong>Could I have the routing number and account number for direct deposit?</strong><br>（直接入金用の routing number と口座番号を教えてください。）</p>
 </div>
 
