@@ -5,7 +5,7 @@ group: "住まい・家のメンテナンス"
 order: 4
 updated: 2026-11-10
 draft: false
-youtubeId: "dH1MKEa0QPw"
+youtubeId: "WNW1GSu5fpw"
 ---
 
 強制暖房の炉（furnace）は、フィルター（filter）を定期的に替えます。替え忘れると暖房効率が落ち、故障にもつながります。日本の個別エアコン中心の暮らしでは、まず存在に気づきにくい作業です。シカゴ郊外の一戸建てでは、地下室や納戸の炉、または大きな吸気口の近くに、長方形のフィルターが入っていることがよくあります。セントラル方式の冷暖房の全体、サーモスタットの切り替え、一酸化炭素の警報は「[暖房とエアコン（central air）の基本](/topics/heating-and-air-conditioning/)」を見てください。大きな炉の交換そのものに村の許可が要ることは「[家の工事と村の許可](/topics/village-permits/)」も関係します。サイズのインチ表示は「[単位の違い](/topics/us-units-and-measurements/)」も参考になります。
