@@ -5,6 +5,7 @@ group: "車・運転"
 order: 1
 updated: 2026-11-10
 draft: false
+youtubeId: "Wc2ohxO8_KA"
 ---
 
 アメリカでは、運転免許証は州が発行します。イリノイ州の住民になった人は、有効な日本の免許証でしばらく運転できる場合がありますが、その期間は限られています。転勤で家を借りて住み始めるなら、<strong>到着後すぐ</strong>に、イリノイ州の運転免許証（driver's license）の準備を始めましょう。運転の習慣の違いは、「[日本と違う運転の習慣](/topics/driving-differences-from-japan/)」でも説明しています。

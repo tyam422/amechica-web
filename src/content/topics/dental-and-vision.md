@@ -5,6 +5,7 @@ group: "医療"
 order: 5
 updated: 2026-11-10
 draft: false
+youtubeId: "5AwKRpElyZk"
 ---
 
 歯科（dental）と眼科（vision）は、医療保険とは別プランであることがよくあります。日本のように「保険証があれば歯科も同じ」と思っていると、予約の段階で戸惑います。日本の公的医療保険では、歯科も同じ保険で診てもらえるのが一般的です。米国の勤務先では、医療保険（medical）のほかに、歯科と眼科を別の保険として選ぶ案内が多いです。医療保険の用語やネットワークの確認は「[医療保険の用語（deductible / copay / in-network）](/topics/health-insurance-terms/)」、加入の時期は「[渡米前に確認する医療保険](/topics/health-insurance-before-arrival/)」、主治医は「[主治医（PCP）の探し方と新患予約](/topics/finding-a-pcp/)」、処方箋の流れは「[薬局と処方箋（prescription）](/topics/pharmacies-and-prescriptions/)」を見てください。子どもの学校提出用の歯科・視力の検査は「[入学手続き・予防接種・提出書類](/topics/school-enrollment-and-vaccinations/)」にあります。
