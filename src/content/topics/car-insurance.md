@@ -12,7 +12,7 @@ draft: false
 <div class="checklist">
 <p class="checklist__title">車を持つ前にやること</p>
 <ul>
-<li>イリノイ州で免許を持つ保険会社・代理店か、州保険庁または NAIC の検索で確認する</li>
+<li>イリノイ州で免許を持つ保険会社・代理店かを、州保険庁または NAIC の検索で確認する</li>
 <li>同じ補償条件で、複数の見積もり（書面）を比較する</li>
 <li>法律の最低額だけでなく、自分に必要な補償の上限を考える</li>
 <li>ローンやリースがあるときは、貸し手が求める車両保険（collision / comprehensive）を確認する</li>
