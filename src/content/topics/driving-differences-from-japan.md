@@ -5,6 +5,7 @@ group: "車・運転"
 order: 5
 updated: 2026-11-10
 draft: false
+youtubeId: "kweMuWfq7jA"
 ---
 
 右側通行、赤信号での右折、一時停止の交わり、スクールバスの停止など、日本と違う操作が最初の事故や違反につながりやすいです。免許の切替や試験は「[イリノイ州の運転免許証](/topics/illinois-drivers-license/)」、保険は「[自動車保険（car insurance）](/topics/car-insurance/)」、速度の単位は「[単位の違い（華氏・マイル・ポンド）](/topics/us-units-and-measurements/)」、冬の路面は「[冬の運転と車の備え](/topics/winter-driving/)」、子どもの座席は「[子どものカーシート](/topics/child-car-seats/)」を見てください。詳細な規則は、州務省の Rules of the Road と、Illinois Vehicle Code（625 ILCS 5）が優先します。この記事は、試験の代わりになるものではありません。
