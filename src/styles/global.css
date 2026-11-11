@@ -417,6 +417,43 @@ main {
   margin: 0;
 }
 
+.yt-embed {
+  margin: 0 0 1.6rem;
+}
+
+.yt-embed__caption {
+  margin: 0 0 0.55rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.yt-embed__frame {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: #111;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.yt-embed__frame iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.yt-embed__link {
+  margin: 0.55rem 0 0;
+  font-size: 0.9rem;
+}
+
+.yt-embed__link a {
+  overflow-wrap: anywhere;
+}
+
 .page-404 {
   text-align: left;
   max-width: var(--content);

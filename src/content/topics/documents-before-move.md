@@ -3,6 +3,7 @@ title: "渡米前に揃える書類"
 description: "出生・婚姻・予防接種・成績証明など、日本でしか取れない書類は出発前に用意します。米国の学校や役所では、英訳や認証が求められることがあります。"
 group: "渡米前"
 order: 1
+youtubeId: "GT84Hn2YwVY"
 updated: 2026-11-10
 draft: false
 ---
