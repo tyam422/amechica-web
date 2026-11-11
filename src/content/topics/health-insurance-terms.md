@@ -5,6 +5,7 @@ group: "医療"
 order: 2
 updated: 2026-11-10
 draft: false
+youtubeId: "AtZn3BoZIJo"
 ---
 
 自己負担控除（deductible）、受診時の自己負担（copay）、ネットワーク内（in-network）と外（out-of-network）、保険料（premium）、自己負担上限（out-of-pocket maximum）など、日本語にない概念が多く、知らないと請求額で戸惑います。日本の公的保険の「窓口3割」とは考え方が違います。金額はプランごとに違うので、勤務先から渡される給付と負担の概要（Summary of Benefits and Coverage, SBC）で確認してください。渡米前の加入の時期や家族の手続きは「[渡米前に確認する医療保険](/topics/health-insurance-before-arrival/)」、主治医の探し方は「[主治医（PCP）の探し方と新患予約](/topics/finding-a-pcp/)」を見てください。
