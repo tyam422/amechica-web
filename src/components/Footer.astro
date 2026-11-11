@@ -1,11 +1,17 @@
 ---
 const year = new Date().getFullYear();
+const path = Astro.url.pathname;
 ---
 
 <footer class="site-footer">
   <div class="site-footer__inner">
     <p>amechica（アメリカ生活シカゴ郊外）</p>
     <p>初めて米国に来る日本人向けの、シカゴ郊外を例にした生活案内です。</p>
+    <nav class="footer-nav" aria-label="サイト情報">
+      <a href="/about/" aria-current={path.startsWith("/about") ? "page" : undefined}>このサイトについて</a>
+      <a href="/privacy/" aria-current={path.startsWith("/privacy") ? "page" : undefined}>プライバシーポリシー</a>
+      <a href="/contact/" aria-current={path.startsWith("/contact") ? "page" : undefined}>お問い合わせ</a>
+    </nav>
     <p>© {year} amechica</p>
   </div>
 </footer>

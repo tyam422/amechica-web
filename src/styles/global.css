@@ -197,6 +197,24 @@ main {
   margin: 0 0 0.35rem;
 }
 
+.footer-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1.15rem;
+  margin: 0.75rem 0 0.9rem;
+}
+
+.footer-nav a {
+  color: var(--ink-soft);
+  text-decoration: none;
+}
+
+.footer-nav a:hover,
+.footer-nav a[aria-current="page"] {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
 .hero {
   background: var(--paper);
   border: 1px solid var(--line);

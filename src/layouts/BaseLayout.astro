@@ -12,6 +12,11 @@ interface Props {
 
 const { title, description, current = "other", ogType = "website" } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
+const rawGaId = import.meta.env.PUBLIC_GA_ID;
+const gaId =
+  typeof rawGaId === "string" && /^G-[A-Z0-9]+$/i.test(rawGaId.trim())
+    ? rawGaId.trim()
+    : undefined;
 ---
 
 <!doctype html>
@@ -33,6 +38,21 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
+    {
+      gaId && (
+        <>
+          <script async src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`}></script>
+          <script define:vars={{ gaId }}>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+              dataLayer.push(arguments);
+            }
+            gtag("js", new Date());
+            gtag("config", gaId);
+          </script>
+        </>
+      )
+    }
   </head>
   <body>
     <a class="skip-link" href="#content">本文へスキップ</a>
