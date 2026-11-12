@@ -6,6 +6,7 @@ order: 2
 updated: 2026-11-10
 draft: false
 youtubeId: "CHDTGZ_hcOc"
+youtubeUploadDate: "2026-11-11T15:31:15-08:00"
 ---
 
 学期の区切り、夏休みの長さ、成績の出し方、保護者の関わり方など、仕組みの違いを先に知っておくと、入学後の戸惑いが減ります。入学の書類は「[入学手続き・予防接種・提出書類](/topics/school-enrollment-and-vaccinations/)」、学区の選び方は「[学区で住む場所を選ぶ](/topics/choosing-home-by-school-district/)」、日本語の補習は「[日本語補習校（ホシュウコウ）](/topics/hoshuko/)」、未就学は「[保育園・プリスクールの探し方](/topics/daycare-and-preschool/)」を見てください。ここでは、よく違う点を、公式の枠組みに沿って整理します。学校ごと、学区ごとの差は大きいので、通う学校のハンドブックと学年暦を優先してください。全国で一つに揃っているわけではありません。

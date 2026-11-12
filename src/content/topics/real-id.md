@@ -6,6 +6,7 @@ order: 8
 updated: 2026-11-10
 draft: false
 youtubeId: "swxCECpSlA0"
+youtubeUploadDate: "2026-11-11T09:19:24-08:00"
 ---
 
 飛行機の国内線の保安検査や、一部の連邦施設に入るとき、州の運転免許証や身分証明書は、REAL ID（リアルID）の基準を満たすものか、パスポートなど別の認められる身分証明が必要です。これは連邦の基準で、カードそのものは各州が発行します。イリノイ州では、州務省（Secretary of State）の Driver Services（いわゆる DMV）で申請します。運転そのものの試験や、日本の免許からの切替は「[イリノイ州の運転免許証](/topics/illinois-drivers-license/)」を見てください。社会保障番号は「[社会保障番号（SSN）](/topics/social-security-number/)」を見てください。

@@ -6,6 +6,7 @@ order: 6
 updated: 2026-11-10
 draft: false
 youtubeId: "Ux2MkT-sDNE"
+youtubeUploadDate: "2026-11-11T15:27:02-08:00"
 ---
 
 分譲地などでは HOA（Homeowners Association）があり、外観、駐車、ごみ出し、改修にルールがあることがあります。会費（HOA fee / assessment）や違反時の連絡もあり、日本の管理組合とも少し違います。すべての住宅地にあるわけではありません。コンドミニアム（区分所有）と、一戸建ての分譲地（common interest community）では、適用されるイリノイ州の法律の名前が違うことがあります。一戸建ての組合には Common Interest Community Association Act（CICAA, 765 ILCS 160）、コンドには Condominium Property Act（765 ILCS 605）が案内されます。どちらの法律が当てはまるか、その家に組合があるかは、文書と仲介、必要なら専門家で確認してください。購入や賃貸の前に、文書を取り寄せられるかを確認してください。「[賃貸か購入か](/topics/renting-vs-buying/)」「[家の工事と村の許可](/topics/village-permits/)」、雪かきは「[歩道の除雪ルール](/topics/sidewalk-snow-removal/)」、ごみは「[ごみの収集日の調べ方](/topics/garbage-pickup-days/)」も見てください。

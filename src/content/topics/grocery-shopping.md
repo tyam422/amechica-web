@@ -6,6 +6,7 @@ order: 1
 updated: 2026-11-10
 draft: false
 youtubeId: "lI7FewRWUdg"
+youtubeUploadDate: "2026-11-11T17:10:09-08:00"
 ---
 
 スーパー（grocery store）の業態が分かれ、同じ「食料品店」でも品揃えも価格帯も違います。日本の「近所のスーパーへ行けば一通り揃う」感覚だけでは、最初の買い物で迷いやすいです。値札は税抜きが普通で、2026 年 1 月 1 日以降、イリノイ州は食料品（groceries）への州の消費税を廃止しました。一方、その場で食べる調理済みの食品や、炭酸飲料、キャンディ、酒などは、高い方の税率の対象になることがあります。シカゴ近郊の多くは Regional Transportation Authority（RTA）の区域内にあり、IDOR は、RTA 区域内の食料品への地方税は廃止されていない、と案内しています。店の住所の税率は、IDOR の Tax Rate Finder で確認してください。詳細は「[消費税（sales tax）は表示価格に含まれない](/topics/sales-tax/)」、日系の店は「[シカゴ郊外の日系スーパー（例：Mitsuwa Arlington Heights）](/topics/japanese-grocery-stores/)」、単位は「[単位の違い（華氏・マイル・ポンド）](/topics/us-units-and-measurements/)」を見てください。この記事は、特定のチェーンを勧めるものではありません。価格や営業時間は書きません。

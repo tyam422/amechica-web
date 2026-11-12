@@ -6,6 +6,7 @@ order: 5
 updated: 2026-11-10
 draft: false
 youtubeId: "gDiR9284Wgc"
+youtubeUploadDate: "2026-11-11T19:42:52-08:00"
 ---
 
 米国では信用情報（credit history / credit score）が、カード、賃貸、時には保険にも影響します。転勤で来たばかりの人は履歴がほぼゼロのことが多く、作り方と扱いを知っておく必要があります。口座の開き方は「[銀行口座の開設](/topics/opening-a-bank-account/)」、社会保障番号は「[社会保障番号（SSN）](/topics/social-security-number/)」、車の保険は「[自動車保険（car insurance）](/topics/car-insurance/)」、賃貸は「[借りるか買うか](/topics/renting-vs-buying/)」を見てください。信用情報の見方と、カードの扱いの説明は、消費者金融保護局（CFPB）と連邦取引委員会（FTC）の案内を基にします。この記事は、特定のカードや、目標の点数を勧めるものではありません。

@@ -6,6 +6,7 @@ order: 6
 updated: 2026-11-10
 draft: false
 youtubeId: "I7QubdJPwAY"
+youtubeUploadDate: "2026-11-11T08:51:57-08:00"
 ---
 
 勤務先の医療保険（health insurance）にいつから入れるか、家族も対象かで、到着直後に病院へ行けるかが変わります。保険証が届く前の受診についても、出発前に会社の人事（HR）へ確認しておきたい話です。用語の細かい定義は「[医療保険の用語（deductible / copay / in-network）](/topics/health-insurance-terms/)」で、主治医の探し方は「[主治医（PCP）の探し方と新患予約](/topics/finding-a-pcp/)」で扱います。保険料や自己負担の額はプランごとに違うので、この記事では金額の例は出しません。

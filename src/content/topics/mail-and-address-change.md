@@ -6,6 +6,7 @@ order: 6
 updated: 2026-11-10
 draft: false
 youtubeId: "qiOl1wlSjLs"
+youtubeUploadDate: "2026-11-11T09:05:05-08:00"
 ---
 
 保険証、銀行、学校、運転免許の窓口からの郵便が、米国での生活の手続きを動かします。郵便局は米国郵便公社（United States Postal Service, USPS）です。住所の書き方、郵便受けの使い方、転送の申し込みは、日本の郵便とは違う点があります。転送は一時的な手当てであり、差出人へ新住所を伝えることは自分の責任です（USPS）。渡米前の書類や在留届は「[渡米前に揃える書類](/topics/documents-before-move/)」を見てください。

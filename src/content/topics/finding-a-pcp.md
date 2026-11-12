@@ -6,6 +6,7 @@ order: 1
 updated: 2026-11-10
 draft: false
 youtubeId: "u65m7WY00G8"
+youtubeUploadDate: "2026-11-11T09:24:56-08:00"
 ---
 
 日本では、体調が悪くなったら近くのクリニックや病院にそのまま行けば診てもらえます。アメリカではそうはいきません。ふだんの診察は、自分の<strong>主治医（PCP: Primary Care Physician）</strong>に予約を取って受けるのが基本です。そして、初めての患者として登録する<strong>新患（new patient）予約</strong>は、何週間も先になることが珍しくありません。

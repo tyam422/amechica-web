@@ -6,6 +6,7 @@ order: 3
 updated: 2026-11-10
 draft: false
 youtubeId: "x71jARY4Jwk"
+youtubeUploadDate: "2026-11-11T10:09:24-08:00"
 ---
 
 転勤の滞在期間によって、購入（purchase）、リース（lease）、当面のレンタル（rental）の向き不向きが変わります。クレジットヒストリーがまだ無い人は、審査や保証で日本と違う壁に当たります。郊外では車が前提に近い一方、滞在年数が読みにくいと、買い方を急いで決めて後悔しやすいです。免許は「[イリノイ州の運転免許証](/topics/illinois-drivers-license/)」、保険は「[自動車保険（car insurance）](/topics/car-insurance/)」、信用情報は「[クレジットヒストリーとクレジットカード](/topics/credit-history-and-credit-cards/)」、税金の考え方は「[消費税（sales tax）は表示価格に含まれない](/topics/sales-tax/)」を見てください。この記事は、買い・借り・レンタルのどれかを勧めるものではありません。料金や金利の「相場」は書きません。

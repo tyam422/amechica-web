@@ -6,6 +6,7 @@ order: 2
 updated: 2026-11-10
 draft: false
 youtubeId: "8ftLFNxhjO4"
+youtubeUploadDate: "2026-11-11T22:46:14-08:00"
 ---
 
 勤務先の退職貯蓄（401(k)）は、日本の退職金や企業年金とは仕組みが違います。拠出、会社負担（match）、受け取りの考え方だけでも、案内を受けたときに迷いにくくなります。投資の推奨はせず、用語と仕組みの説明に留めます。給与からの天引きは「[給与明細の見方（pay stub / W-2）](/topics/pay-stubs-and-w2/)」、毎年の申告は「[確定申告（tax filing）](/topics/filing-taxes/)」、医療の貯蓄口座は「[医療保険の用語（deductible / copay / in-network）](/topics/health-insurance-terms/)」を見てください。勤務先が 401(k) を用意しているとは限りません。ある場合も、拠出の方法、会社負担、受け取りの条件は、そのプランの書類（Summary Plan Description など）が優先します。この記事は、加入や投資、拠出額を勧めるものではありません。

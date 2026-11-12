@@ -6,6 +6,7 @@ order: 5
 updated: 2026-11-10
 draft: false
 youtubeId: "FnX6NU-C1gc"
+youtubeUploadDate: "2026-11-11T08:50:48-08:00"
 ---
 
 日本の公立校は、市町村の中では学校による差が小さく感じられがちです。米国では、住む住所によって通う公立の学校が決まり、学区（school district）ごとに授業、支援、通学の仕方も違います。シカゴ郊外では、同じ村の中でも学区が分かれていることがよくあります。家や賃貸を決めてから学区を調べるのではなく、先に学区を見てください。日本の学校との日常の違いは「[日本の公立学校との違い](/topics/us-schools-vs-japan/)」を、住まいの探し方は「[日本からの住まい探し](/topics/finding-housing-from-japan/)」、賃貸と購入の比較は「[賃貸か購入か（renting vs buying）](/topics/renting-vs-buying/)」を見てください。この記事では、特定の学区を勧めたり、順位を付けたりはしません。

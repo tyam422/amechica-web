@@ -6,6 +6,7 @@ order: 3
 updated: 2026-11-10
 draft: false
 youtubeId: "TzgWm6gQEiM"
+youtubeUploadDate: "2026-11-11T09:53:54-08:00"
 ---
 
 軽い急な症状はアージェントケア（urgent care）、生命に関わる救急は ER（emergency room）と、行く先が分かれます。日本の「とにかく大きな病院へ」という発想だと、待ち時間も費用の感じ方も大きく違って戸惑います。命にかかわるときは、このページを読み終えず、すぐに [911](/topics/calling-911/) へかけてください。保険の用語やネットワークの確認は「[医療保険の用語（deductible / copay / in-network）](/topics/health-insurance-terms/)」、主治医の探し方は「[主治医（PCP）の探し方と新患予約](/topics/finding-a-pcp/)」を見てください。

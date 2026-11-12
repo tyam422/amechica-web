@@ -6,6 +6,7 @@ order: 4
 updated: 2026-11-10
 draft: false
 youtubeId: "sdamIZWquIA"
+youtubeUploadDate: "2026-11-11T10:02:00-08:00"
 ---
 
 多くの薬は医師の処方箋（prescription）が必要で、市販薬（over-the-counter）の並びも日本と違います。薬局（pharmacy）はスーパーやドラッグストア内にあることが多く、かかりつけ薬局を決める使い方になります。日本のように、診察した医院の窓口で薬をもらう、という流れではありません。保険の用語は「[医療保険の用語（deductible / copay / in-network）](/topics/health-insurance-terms/)」、主治医は「[主治医（PCP）の探し方と新患予約](/topics/finding-a-pcp/)」、急な体調不良の行き先は「[アージェントケア（urgent care）と救急（ER）](/topics/urgent-care-vs-er/)」を見てください。日本から薬を持っていくときの注意は「[荷物の選び方（電圧・薬・持っていくもの）](/topics/what-to-bring/)」にあります。

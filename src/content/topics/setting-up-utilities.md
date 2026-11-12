@@ -6,6 +6,7 @@ order: 3
 updated: 2026-11-10
 draft: false
 youtubeId: "E9x8eQLbo4g"
+youtubeUploadDate: "2026-11-11T09:00:43-08:00"
 ---
 
 日本のように、入居すれば水道（water）、電気（electricity）、ガス（gas）が自動で揃うとは限りません。シカゴ郊外では、それぞれ別の事業者に、入居日に間に合うよう自分で申し込むことが多くあります。誰が契約するかは賃貸契約や物件の案内で決まります。住まいの探し方は「[日本からの住まい探し](/topics/finding-housing-from-japan/)」を見てください。インターネットと携帯電話は別の手続きなので、「[インターネットと携帯電話](/topics/internet-and-phone/)」で扱います。

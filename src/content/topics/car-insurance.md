@@ -6,6 +6,7 @@ order: 2
 updated: 2026-11-10
 draft: false
 youtubeId: "xPHr65sZtu0"
+youtubeUploadDate: "2026-11-11T10:07:56-08:00"
 ---
 
 車を持つのなら自動車保険（car insurance）が必要で、補償の種類や保険料の決まり方が日本の任意保険・自賠責の感覚とは違います。運転者の追加や、借りた車の扱いもよくある疑問です。イリノイ州では、登録して運転する車に、対人・対物の賠償責任保険（liability）が法律で求められます（625 ILCS 5/7-601、州保険庁、州務省）。日本の自賠責のような「最低限の強制保険」と、任意の対物・車両保険が分かれている感覚のままだと、何が必須で何が任意かが分かりにくいです。免許は「[イリノイ州の運転免許証](/topics/illinois-drivers-license/)」、車の手配は「[車の購入・リース・レンタル](/topics/buying-or-leasing-a-car/)」、信用情報は「[クレジットヒストリーとクレジットカード](/topics/credit-history-and-credit-cards/)」、子どもの座席は「[子どものカーシート](/topics/child-car-seats/)」を見てください。

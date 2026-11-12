@@ -22,6 +22,7 @@ const topics = defineCollection({
     group: groupName,
     order: z.number().int(),
     youtubeId: z.string().optional(),
+    youtubeUploadDate: z.string().optional(),
     updated: z.coerce.date(),
     draft: z.boolean().default(false),
   }),

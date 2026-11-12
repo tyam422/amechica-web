@@ -4,6 +4,7 @@ description: "出生・婚姻・予防接種・成績証明など、日本でし
 group: "渡米前"
 order: 1
 youtubeId: "GT84Hn2YwVY"
+youtubeUploadDate: "2026-11-11T08:36:33-08:00"
 updated: 2026-11-10
 draft: false
 ---

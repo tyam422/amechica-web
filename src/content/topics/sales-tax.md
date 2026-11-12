@@ -6,6 +6,7 @@ order: 4
 updated: 2026-11-10
 draft: false
 youtubeId: "vAim7CQxMmI"
+youtubeUploadDate: "2026-11-11T18:49:47-08:00"
 ---
 
 店の値札は税抜きで、会計時に消費税（sales tax）が加わるのが普通です。税率は州や郡、品目で違い、日本の内税表示に慣れていると、レジで金額が変わって戸惑います。食料品の買い方は「[食料品はどこで買うか](/topics/grocery-shopping/)」、チップは「[チップ（tipping）の習慣](/topics/tipping/)」、車の税は「[車の購入・リース・レンタル](/topics/buying-or-leasing-a-car/)」、確定申告は「[確定申告の基本（federal / state）](/topics/filing-taxes/)」も見てください。この記事では、特定の村の合計税率は書きません。イリノイ州の正しい率は、住所と品目、時点を入れて、Illinois Department of Revenue（IDOR）の Tax Rate Finder（MyTax Illinois）で確認してください。

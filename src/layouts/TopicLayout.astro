@@ -32,7 +32,12 @@ const title = `${topic.data.title} — amechica`;
     </nav>
     <h1>{topic.data.title}</h1>
     <p class="meta">更新日：{formatDate(topic.data.updated)}</p>
-    <YouTubeEmbed youtubeId={topic.data.youtubeId} title={topic.data.title} />
+    <YouTubeEmbed
+      youtubeId={topic.data.youtubeId}
+      title={topic.data.title}
+      description={topic.data.description}
+      uploadDate={topic.data.youtubeUploadDate ?? topic.data.updated.toISOString()}
+    />
     <div class="prose">
       <slot />
     </div>

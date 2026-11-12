@@ -6,6 +6,7 @@ order: 6
 updated: 2026-11-10
 draft: false
 youtubeId: "zMEli4ApNzo"
+youtubeUploadDate: "2026-11-11T20:08:13-08:00"
 ---
 
 気温は華氏（Fahrenheit）、距離はマイル（mile）、体重や食品はポンド（pound）やオンス（ounce）が基本です。天気、車、料理、子どもの成長記録で毎日出てくるため、初期のつまずきになりやすいです。食品の買い方は「[食料品はどこで買うか](/topics/grocery-shopping/)」、道路の速度は「[日本の運転とのちがい](/topics/driving-differences-from-japan/)」、暖房の設定は「[暖房とエアコン](/topics/heating-and-air-conditioning/)」、フィルターの寸法は「[暖房炉のフィルター交換](/topics/furnace-filters/)」を見てください。米国で日常的に使うのは、国際単位系（メートル法）ではなく、米国慣用単位（U.S. customary units）です。公式の定義と換算は、NIST（米国国立標準技術研究所）などの案内にあります。この記事の換算は、定義の確認用であり、すべての現場の表示を保証するものではありません。生活上の「何度に設定すべき」「何マイルが安全」といった勧めは書きません。

@@ -6,6 +6,7 @@ order: 2
 updated: 2026-11-10
 draft: false
 youtubeId: "cBe50BgKbEU"
+youtubeUploadDate: "2026-11-11T17:40:12-08:00"
 ---
 
 米、醤油、和菓子、日本の調味料などは、日系スーパーで揃うことが多くあります。シカゴ郊外の例として、アーリントンハイツのミツワ（Mitsuwa Marketplace Arlington Heights）や、エルクグローブビレッジのテンスケ（Tensuke Market）など、公式サイトで所在が確認できる店があります。日常のスーパーとの使い分けを案内します。通常の食料品店は「[食料品はどこで買うか](/topics/grocery-shopping/)」、日本から食品を持っていく話は「[荷物の選び方（電圧・薬・持っていくもの）](/topics/what-to-bring/)」、消費税は「[消費税（sales tax）は表示価格に含まれない](/topics/sales-tax/)」、単位は「[単位の違い（華氏・マイル・ポンド）](/topics/us-units-and-measurements/)」を見てください。ここに挙げる店名は、公式サイトがある例であり、特定の店を勧めるものではありません。営業時間、在庫、価格は、買い物の前に公式サイトで確認し、この記事では書きません。

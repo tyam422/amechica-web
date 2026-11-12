@@ -6,6 +6,7 @@ order: 1
 updated: 2026-11-10
 draft: false
 youtubeId: "9dWWzDy0PuU"
+youtubeUploadDate: "2026-11-11T22:01:58-08:00"
 ---
 
 連邦（federal）とイリノイ州など州（state）の所得税の申告（tax filing）があります。駐在の1年目は、日本の税との関係や、家族の扱いでも疑問が出やすいです。具体的な期限や控除額は、その年の公式情報と専門家の案内で確認します。給与の記録は「[給与明細の見方（pay stub / W-2）](/topics/pay-stubs-and-w2/)」、退職貯蓄は「[401(k)の基本](/topics/401k-basics/)」、持ち家の税は「[固定資産税（property tax）](/topics/property-tax/)」、社会保障番号は「[社会保障番号（SSN）](/topics/social-security-number/)」を見てください。この記事は、申告の要否や税額を判定するものではありません。居住者か非居住者か、条約の適用、日本での申告の要否は、その年の公式案内と、資格のある専門家に確認してください。

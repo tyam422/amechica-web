@@ -6,6 +6,7 @@ order: 4
 updated: 2026-11-10
 draft: false
 youtubeId: "o4u4bpcFE3c"
+youtubeUploadDate: "2026-11-11T10:10:47-08:00"
 ---
 
 年齢や身長に応じたチャイルドシートやブースターの規則は、州法と連邦の安全案内の両方を確認します。日本の基準や、日本で使っていた座席をそのまま使えるかどうかも、よくある疑問です。イリノイ州の児童乗客保護法（Child Passenger Protection Act、625 ILCS 25）と、全米道路交通安全局（NHTSA）の推奨は、重なる部分と、違う部分があります。法律の最低ラインと、安全の推奨を混同しないでください。運転の基本は「[日本の運転とのちがい](/topics/driving-differences-from-japan/)」、保険で座席が壊れたときの交換は「[自動車保険（car insurance）](/topics/car-insurance/)」、単位は「[単位の違い（華氏・マイル・ポンド）](/topics/us-units-and-measurements/)」を見てください。この記事は、特定の製品を勧めるものではありません。

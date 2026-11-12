@@ -6,6 +6,7 @@ order: 1
 updated: 2026-11-10
 draft: false
 youtubeId: "mwXIoKYrU34"
+youtubeUploadDate: "2026-11-11T14:43:47-08:00"
 ---
 
 公立校に入れるには、住所証明、予防接種（vaccination）の記録、健康診断などの提出が求められます。日本の記録の英訳や、こちらで追加接種が必要かどうかは、入学前に確認します。学区で住む場所を決める話は「[学区で住む場所を選ぶ](/topics/choosing-home-by-school-district/)」、日本で取る書類は「[渡米前に揃える書類](/topics/documents-before-move/)」、小児科は「[主治医（PCP）の探し方と新患予約](/topics/finding-a-pcp/)」、歯科と視力は「[歯科・眼科は別の保険が多い](/topics/dental-and-vision/)」、現地校の日常の違いは「[アメリカの学校と日本の学校のちがい](/topics/us-schools-vs-japan/)」を見てください。必要な書類と期限は、州の最低ラインに加え、学区ごとに案内が上乗せされることがあります。必ず、入る学区の公式ページと、その年度の州の案内で確認してください。
