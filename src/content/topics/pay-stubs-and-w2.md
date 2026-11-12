@@ -5,6 +5,7 @@ group: "役所・税金"
 order: 4
 updated: 2026-11-10
 draft: false
+youtubeId: "Yk0XmRBTvEg"
 ---
 
 給与明細（pay stub）には、税、社会保障、医療保険、401(k)などの控除が並びます。年末の W-2 は確定申告の基本資料です。日本の給与明細と項目が違うため、最初に読み方を知っておくと安心です。申告は「[確定申告（tax filing）](/topics/filing-taxes/)」、退職貯蓄は「[401(k)の基本](/topics/401k-basics/)」、医療保険の天引きは「[医療保険の用語（deductible / copay / in-network）](/topics/health-insurance-terms/)」、番号は「[社会保障番号（SSN）](/topics/social-security-number/)」を見てください。明細の用語は、勤務先や給与計算の会社で表記が違います。分からない行は、人事または給与の担当に、その行の意味を聞いてください。この記事は、手取りが正しいかどうか、W-4 をどう書くかを判定するものではありません。
