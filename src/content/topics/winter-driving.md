@@ -5,6 +5,7 @@ group: "冬の生活・悪天候"
 order: 2
 updated: 2026-11-10
 draft: false
+youtubeId: "mj_w5IQ7C-g"
 ---
 
 雪や凍結した道での運転、車の冬用の備え、自宅の駐車スペースの除雪は、郊外生活では避けて通れません。日本の一部地域より「自分で道を確保する」比重が大きいです。歩道は「[歩道の除雪ルール](/topics/sidewalk-snow-removal/)」、運転の基本は「[日本の運転とのちがい](/topics/driving-differences-from-japan/)」、子ども用シートは「[子ども用シート（car seat）](/topics/child-car-seats/)」、保険は「[自動車保険（car insurance）](/topics/car-insurance/)」、緊急時は「[緊急通報（911）](/topics/calling-911/)」を見てください。冬用タイヤの装着を、イリノイ州がすべての車に義務づけているわけではありません。道路の状態は、出発前に公式の情報で確認してください。
