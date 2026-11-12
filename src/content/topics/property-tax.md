@@ -5,6 +5,7 @@ group: "役所・税金"
 order: 3
 updated: 2026-11-10
 draft: false
+youtubeId: "nolejegykNI"
 ---
 
 持ち家では固定資産税（property tax）が、月々の住宅費に大きく乗ることがあります。日本の固定資産税より負担感が強い地域も多く、学区や村のサービスとの関係も、購入前に知っておきたい話です。購入と賃貸の比較は「[借りるか買うか](/topics/renting-vs-buying/)」、学区は「[学区で住む場所を選ぶ](/topics/choosing-home-by-school-district/)」、毎年の所得税は「[確定申告（tax filing）](/topics/filing-taxes/)」、組合費は「[HOA](/topics/hoa/)」を見てください。イリノイ州の固定資産税は、主に郡や課税区が賦課する地方税です。税率や請求の日程は、郡によって違います。この記事では、どの村が安いかを比べたり、額の目安を書いたりしません。
