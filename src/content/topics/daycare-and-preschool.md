@@ -5,6 +5,7 @@ group: "子ども・学校"
 order: 4
 updated: 2026-11-10
 draft: false
+youtubeId: "HMTk4zU0HIU"
 ---
 
 認可の有無、空き、待機、費用は、引越しが決まった段階から調べ始めた方が安全です。シカゴ郊外では、乳児の枠や、終日預かりの人気施設に空きが出るまで待つことがよくあります。日本の「市区町村の窓口に申し込めば順番が来る」認可保育所とは、探し方も、空きの決まり方も違います。2026 年 7 月 1 日から、イリノイ州の保育の認可、保育料の補助（Child Care Assistance Program, CCAP）、就学前の公的プログラム（Preschool for All など）は、Illinois Department of Early Childhood（IDEC）が所管しています。以前は DCFS、IDHS、ISBE などに分かれていた案内が、一つの州機関にまとまった、と IDEC は説明しています。幼稚園（kindergarten）以降の公立校は「[入学手続き・予防接種・提出書類](/topics/school-enrollment-and-vaccinations/)」、学区は「[学区で住む場所を選ぶ](/topics/choosing-home-by-school-district/)」、小児科は「[主治医（PCP）の探し方と新患予約](/topics/finding-a-pcp/)」を見てください。乳幼児の預け先は、学区の幼稚園とは別の手続であることが多いです。この記事では、待機の長さも利用料も書きません。
