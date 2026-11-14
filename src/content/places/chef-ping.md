@@ -69,18 +69,18 @@ AAA の店舗情報に「Parking: On-site」（敷地内に駐車場あり）と
 | カテゴリ（公式の表記） | 料理の例（公式メニューより） |
 | --- | --- |
 | Soups | 雲香湯 Wonton Soup、酸辣湯 Hot n' Sour Soup、蛋花湯 Egg Drop Soup、花蛤湯 Clam Soup for Two |
-| Appetizers | 鍋貼・蒸餃 Pot Stickers、春卷 Egg Roll、蝦餃 Shrimp Dumpling、蟹角 Crab Rangoon、醬鴨 Mandarin Soy Duck、夫妻肺片 Fu Chi Fae Pian |
+| Appetizers | 鍋貼・蒸餃 Pot Stickers、春卷 Egg Roll、蝦餃 Shrimp Dumpling、Crab Rangoon、醬鴨 Mandarin Soy Duck、夫妻肺片 Fu Chi Fae Pian |
 | Gan Pong Family（干烹） | Ping's Chicken Wing、Gan Pong Scallop、Gan Pong Shrimp、Gan Pong Squid |
 | Kung-Pao Family（宮保） | Kung Pao Shrimp、Kung Pao Chicken、Kung Pao Beef ほか |
 | Curry Family | Thai Curry Shrimp、Thai Curry Chicken、Thai Curry Vegetable |
 | Sweet-Sour Family | Sweet & Sour Shrimp／Chicken／Pork |
 | Salt & Pepper Family（椒鹽） | Salt & Pepper Tofu、Prawns、Shrimp、Smelt、Fish Strips、Squid |
-| Seafood | 干燒蝦 Szechwan Prawn、水煮魚片 Szechwan Fish Casserole、核桃蝦 Walnut Shrimp、蝦龍糊 Shrimp in Lobster Sauce ほか |
+| Seafood | 干燒蝦 Szechwan Prawn、水煮魚片 Szechwan Fish Casserole、Walnut Shrimp、蝦龍糊 Shrimp in Lobster Sauce ほか |
 | Fresh Catch from the Sea | ロブスター、カニ、丸ごとの魚（Red Snapper、Pike または Flounder）。公式メニューには、ロブスターとカニは店内の水槽から出すと書かれています。価格は時価（MP） |
 | Pork | 木須肉 Mo-Shu Pork、魚香肉絲 Yu-Shang Pork、回鍋肉 Twice Cooked Pork ほか |
 | Beef | 葱爆牛 Mongolian Beef、湘鄉牛 Hunan Beef、水煮牛肉 Spicy Beef Stew、鐵板牛柳 Beef on the Hot Plate ほか |
 | Fowl | 北京鴨 Peking Duck、胖胖雞 Pong Pong Chicken、左公雞 General Tao's Chicken、香酥鴨 Crispy Duck ほか |
-| Vegetables | 土豆絲 Shredded Potato、魚香茄子 Szechwan Eggplant、乾扁四季豆 Szechwan String Bean、麻婆豆腐 Lady Mao's Bean Curd ほか |
+| Vegetables | 土豆絲 Shredded Potato、魚香茄子 Szechwan Eggplant、干扁四季豆 Szechwan String Bean、麻婆豆腐 Lady Mao's Bean Curd ほか |
 | Old Time Favorite From Home（家鄉菜） | 兩張皮 Summer Salad、八寶菜 8 Treasure、葱爆海參 Sea Cucumber n' Scallion、梅菜扣肉 Pork w. Preserved Vegetables ほか |
 | Noodle & Rice | 炸醬麵 Noodle in Black Bean Sauce、三鮮炸醬麵 Seafood Peking Noodle、炒碼麵 Ping's Noodle Soup、炒粉絲 Chop Chae ほか |
 | Fried Rice | 什錦炒飯 Combination Fried Rice、揚州炒飯 Young Chow Fried Rice、菠蘿炒飯 Pineapple Fried Rice ほか |
