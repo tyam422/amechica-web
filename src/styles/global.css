@@ -638,3 +638,29 @@ main {
   color: var(--ink-soft);
   background: var(--accent-soft);
 }
+
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0 0 1.2rem;
+  font-size: 0.9rem;
+  background: var(--paper);
+}
+
+.prose th,
+.prose td {
+  border: 1px solid var(--line);
+  padding: 0.45rem 0.6rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.prose th {
+  background: var(--accent-soft);
+}
+
+.prose .table-wrap,
+.prose table {
+  display: block;
+  overflow-x: auto;
+}
