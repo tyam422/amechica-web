@@ -14,6 +14,7 @@ draft: true
 ---
 
 <!-- 事実のみを書く（感想・評価・おすすめは書かない）。 -->
+<!-- forU+・カード・forU・ベネフィットカード・Weekly Ad は 2026-11-14 にボックスのブラウザで jewelosco.com を開いて確認（foldins/jewel-osco-browser-2026-11-14.md）。 -->
 <!-- 公式：local.jewelosco.com の店舗ページ（店舗番号 3216）・薬局のページ、jewelosco.com の FAQ・forU のページ、albertsonscompanies.com を 2026-11-14 に curl で確認。祝日の時間は店舗ページのデータ（holidayHours）。 -->
 
 ## 概要
@@ -70,8 +71,10 @@ Jewel-Osco は、シカゴ周辺に多い大手のスーパーのチェーンで
 | EBT（SNAP）。SNAP の対象の商品 | ○ | ○ |
 | EBT Cash（TANF） | ○ | 一部の州だけ |
 | FSA・HSA・HRA のカード | ○ | ○ |
-| 医療保険などのベネフィットカード | ○（NationsBenefits、&more、FIS、Solutran、OTC Network など） | &more・OTC Network |
+| 医療保険などのベネフィットカード（Medicare Advantage・Medicaid など） | ○（Evermore、S3 Network、Filtered Spend、NationsBenefits、OTC Network、Fresh Connect、&more、FIS、Solutran） | &more・OTC Network |
 | 現金、WIC、Jewel-Osco のギフトカード、Jewel-Osco Pay、個人の小切手 | ○（店だけ） | × |
+
+ベネフィットカードの対象の商品は保険のプランで決まります。SNAP・EBT を使う場合は、先に SNAP・EBT のカードを使います（公式サイトの「Benefit card」のページ）。
 
 ### 公式サイト
 
@@ -110,32 +113,50 @@ Jewel-Osco は、シカゴ周辺に多い大手のスーパーのチェーンで
 
 ## 価格帯
 
-値段は商品ごとに違います。店舗ページから、この店の Weekly Ad（週の広告）を見られます。
+値段は商品ごとに違います。公式サイトの Weekly Ad（週の広告）は水曜から次の火曜までの 1 週間ごとです（この店の Weekly Ad、2026年11月14日に確認）。
 
 ### Jewel-Osco forU（無料の会員）
 
-公式サイトの「Program Details」によります。
+公式サイトの forU のページ（2026年11月14日に確認）によります。
 
 | 項目 | 内容 |
 | --- | --- |
 | 登録 | 無料。店のレジで電話番号を入れるか、ウェブサイト・アプリで登録します |
-| 特典 | 毎週の会員向けのセール、誕生日の特典（最大 $10）、毎月 1 つ無料の商品（最大 $10）、登録すると $25 以上の買い物で $5 引き |
-| ポイント | 食料品 $1 で 1 ポイント、ギフトカード $1 で 2 ポイント、薬局（自己負担の分）$1 で 1 ポイント |
-| ポイントの使い方 | 100 ポイントで次の買い物が $1 引き、または食料品の割引（例：300 ポイントで $4 引き） |
-| ポイントの期限 | 貯めた月の次の月の終わりまで（forU+ の会員は期限なし） |
-| ガソリンの割引 | Jewel-Osco の地域ではガソリンの割引は使えません |
+| 特典 | 毎週の会員向けのセール、誕生日の特典（最大 $10）、毎月 1 つ無料の商品（最大 $10）、新しい会員は登録から 21日以内の $25 以上の買い物で $5 引き、テキストの登録で 500 ポイント |
+| ポイントがたまるもの | 食料品 $1 で 1 ポイント、ギフトカード $1 で 2 ポイント、薬局（自己負担の分）$1 で 1 ポイント。先に forU のアカウントをつなげておけば、Instacart・DoorDash・Uber での注文もたまります |
+| ポイントがたまらないもの | お酒、たばこ、ガソリン、宝くじ、切手、マネーオーダー、液体の乳製品、デポジット、税金、手数料など |
+| ポイントの使い方 | 100 ポイントで次の買い物が自動で $1 引き。または特典（例：300 ポイントで $4 引き、1,000 ポイントで $15 引き）や無料の商品と交換 |
+| ポイントの期限 | 貯めた月の次の月の終わりまで（例：1月の分は 2月末まで）。forU+ の会員は期限なし |
+| ガソリンの割引 | Jewel-Osco の地域では使えません |
+| 問い合わせ | 1-877-258-2799 |
 
 ### Jewel-Osco forU+（有料）
 
-Albertsons Companies のサイト（2026年10月22日）と公式サイトの店舗ページによると、forU+ は年 $39 の有料の会員です。
+公式サイトの forU+ のページ（2026年11月14日に確認）によります。
 
-- $30 以上の注文の当日配達が無料（回数の制限なし）
-- Flash（最短 30分の配達）が 1 回 $2、Flash の受け取りが無料
-- ポイントの期限がなくなります
+| 項目 | 内容 |
+| --- | --- |
+| 料金 | 年 $39（年払いだけ。自動で更新） |
+| 無料体験 | 14日（カードの登録が必要。キャンセルしないと有料に変わります。1 アカウントに 1 回） |
+| 配達 | 税別 $30 以上の注文の当日配達が無料（お酒・たばこ・液体の乳製品は $30 に含まれません）。$30 未満は手数料がかかります |
+| Flash | 配達 1 回 $2（最大 35 点、最短 30分、一部の地域）、受け取りは無料 |
+| ポイント | 会員の間はポイントの期限なし。会員が終わると、終わった月の次の月の終わりまで |
+| 対象外 | DoorDash・Instacart・Uber Eats での注文、Vine & Cellar、Marketplace、処方薬の注文・配達 |
+| 家族 | 1 アカウントに 1 つ。つなげた家族のアカウントと共有できます |
+| 返金 | 15日以内に注文なしでキャンセルした場合だけ全額返金。それ以外は返金なしで、期間の終わりまで使えます |
+| 問い合わせ | 1-855-767-2545 |
 
 ### Jewel-Osco forU American Express Card
 
-公式サイトの店舗ページによると、jewelosco.com での買い物は 5%、店・薬局・ガソリン・外食は 3%、そのほかは 1% のキャッシュバックがあるクレジットカードです。条件は公式サイトで確認してください。
+公式サイトのカードのページ（2026年11月14日に確認）によります。審査があります。
+
+| 項目 | 内容 |
+| --- | --- |
+| キャッシュバック | オンライン・アプリの食料品（配達・受け取り）5%、店・薬局 3%、そのほか 1% |
+| 年会費 | $0 |
+| 新しいカード | 最初の 90日に Albertsons Companies の店以外で $1,000 使うと $50 のステートメントクレジット |
+| 金利（APR） | 21.24%〜34.24%（変動） |
+| 発行 | First Electronic Bank（American Express のライセンス）、Imprint Payments, Inc. が管理 |
 
 ## オンライン注文・受け取り・配達
 
@@ -144,7 +165,7 @@ Albertsons Companies のサイト（2026年10月22日）と公式サイトの店
 | 方法 | 内容 |
 | --- | --- |
 | DriveUp & Go | オンラインで注文して、店で受け取ります。受け取りの日の 20:00 までに受け取らないとキャンセルになります |
-| 配達（Grocery Delivery） | 注文は $30 以上。配達料がかかる場合があります（forU+ の会員は $30 以上で無料） |
+| 配達（Grocery Delivery） | 配達料がかかる場合があります。$30 未満の注文は手数料がかかる場合があります（forU+ の会員は $30 以上で無料） |
 | Flash | 最短 30分の配達・受け取り（一部の地域、最大 35 点） |
 | Schedule & Save | 定期的に注文すると 5% 引き |
 | 時間 | 配達・受け取りは、ほとんどの地域で毎日 8:00〜21:00 |
@@ -189,6 +210,11 @@ Pace の時刻表データ（2026年11月1日〜）では、店の近くの Barr
 - [Jewel-Osco – Schaumburg の店の一覧](https://local.jewelosco.com/il/schaumburg.html)
 - [Jewel-Osco – Online Shopping FAQs](https://www.jewelosco.com/faq/online-shopping.html)
 - [Jewel-Osco – forU Program Details](https://www.jewelosco.com/foru/program-details.html)
+- [Jewel-Osco – forU](https://www.jewelosco.com/foru-guest.html)
+- [Jewel-Osco – forU+](https://www.jewelosco.com/foruplus.html)
+- [Jewel-Osco – forU American Express Card](https://www.jewelosco.com/rewards/partners/foru-amex-credit-card)
+- [Jewel-Osco – Benefit card](https://www.jewelosco.com/benefit-card.html)
+- [Jewel-Osco – Weekly Ad](https://www.jewelosco.com/weeklyad)
 - [Jewel-Osco – Fresh Guarantee（返品）](https://www.jewelosco.com/lp/fresh-guarantee.html)
 - [Albertsons Companies – Save Time and Money with Albertsons for U+（2026年10月22日）](https://www.albertsonscompanies.com/newsroom/blog/blog-details/2026/Save-Time-and-Money-with-Albertsons-for-U/default.aspx)
 - [Pace – Route Timetable Data Services（時刻表データ）](https://www.pacebus.com/route-timetable-data-services)
