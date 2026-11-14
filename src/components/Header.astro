@@ -4,6 +4,7 @@ interface Props {
 }
 
 const { current = "other" } = Astro.props;
+const placesEnabled = import.meta.env.DEV; // 紹介 section: dev only until ready
 ---
 
 <header class="site-header">
@@ -14,6 +15,7 @@ const { current = "other" } = Astro.props;
     </a>
     <nav class="nav" aria-label="主な案内">
       <a href="/" aria-current={current === "home" ? "page" : undefined}>ホーム</a>
+      {placesEnabled && <a href="/places/">紹介</a>}
       <a href="/about/" aria-current={current === "about" ? "page" : undefined}>このサイトについて</a>
     </nav>
   </div>

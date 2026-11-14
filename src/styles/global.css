@@ -573,3 +573,68 @@ main {
     padding: 0.8rem 0.95rem;
   }
 }
+
+/* 紹介（places） */
+.place-filter {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  gap: 0.6rem 1.2rem;
+  margin: 0 0 1rem;
+  font-size: 0.92rem;
+  color: var(--ink-soft);
+}
+
+.place-filter label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.place-filter select {
+  font: inherit;
+  color: var(--ink);
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 0.35rem 0.6rem;
+  min-width: 11rem;
+}
+
+.place-filter__count {
+  margin: 0 0 0.4rem;
+}
+
+.place-list li[hidden] {
+  display: none;
+}
+
+.place-info {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0;
+  margin: 0 0 1.6rem;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  overflow: hidden;
+  font-size: 0.95rem;
+}
+
+.place-info dt,
+.place-info dd {
+  margin: 0;
+  padding: 0.55rem 1rem;
+  border-top: 1px solid var(--line);
+}
+
+.place-info dt:first-of-type,
+.place-info dt:first-of-type + dd {
+  border-top: 0;
+}
+
+.place-info dt {
+  font-weight: 650;
+  color: var(--ink-soft);
+  background: var(--accent-soft);
+}

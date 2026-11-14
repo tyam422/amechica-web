@@ -28,4 +28,26 @@ const topics = defineCollection({
   }),
 });
 
-export const collections = { topics };
+// 紹介（places）: one store / restaurant / outing per page. Facts only.
+// draft: true entries are shown only in `npm run dev`, never in the production build.
+const places = defineCollection({
+  loader: glob({ base: "./src/content/places", pattern: "**/*.md" }),
+  schema: z.object({
+    name: z.string(),
+    nameJa: z.string().default(""),
+    category: z.string().default(""),
+    city: z.string().default(""),
+    address: z.string().default(""),
+    hours: z.string().default(""),
+    parking: z.string().default(""),
+    payment: z.string().default(""),
+    website: z.string().default(""),
+    youtubeId: z.string().optional(),
+    youtubeUploadDate: z.string().optional(),
+    order: z.number().int(),
+    updated: z.coerce.date(),
+    draft: z.boolean().default(true),
+  }),
+});
+
+export const collections = { topics, places };

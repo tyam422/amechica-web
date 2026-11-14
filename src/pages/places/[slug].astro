@@ -1,0 +1,21 @@
+---
+import { getCollection, render } from "astro:content";
+import PlaceLayout from "../../layouts/PlaceLayout.astro";
+import { PLACES_ENABLED, isPlacePublished } from "../../lib/places";
+
+export async function getStaticPaths() {
+  if (!PLACES_ENABLED) return [];
+  const places = (await getCollection("places")).filter((place) => isPlacePublished(place));
+  return places.map((place) => ({
+    params: { slug: place.id },
+    props: { place },
+  }));
+}
+
+const { place } = Astro.props;
+const { Content } = await render(place);
+---
+
+<PlaceLayout place={place}>
+  <Content />
+</PlaceLayout>

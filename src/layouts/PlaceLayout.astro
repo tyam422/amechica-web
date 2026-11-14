@@ -1,0 +1,78 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import YouTubeEmbed from "../components/YouTubeEmbed.astro";
+import { formatDate } from "../lib/groups";
+import type { PlaceEntry } from "../lib/places";
+
+interface Props {
+  place: PlaceEntry;
+}
+
+const { place } = Astro.props;
+const d = place.data;
+const heading = d.nameJa ? `${d.nameJa}（${d.name}）` : d.name;
+const description = `${d.name}${d.city ? `（${d.city}）` : ""}の基本情報。`;
+const blank = "—";
+const mapUrl = d.address
+  ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(d.address)}`
+  : undefined;
+---
+
+<BaseLayout title={`${heading} — amechica`} description={description} ogType="article">
+  <article class="article">
+    <nav class="crumb" aria-label="パンくずリスト">
+      <ol>
+        <li><a href="/">ホーム</a></li>
+        <li><a href="/places/">紹介</a></li>
+        <li aria-current="page">{heading}</li>
+      </ol>
+    </nav>
+    <h1>{heading}</h1>
+    <p class="meta">
+      {d.category || "カテゴリ未設定"}{d.city ? `・${d.city}` : ""}　更新日：{formatDate(d.updated)}
+    </p>
+    {d.youtubeId && (
+      <YouTubeEmbed
+        youtubeId={d.youtubeId}
+        title={heading}
+        description={description}
+        uploadDate={d.youtubeUploadDate ?? d.updated.toISOString()}
+      />
+    )}
+    <dl class="place-info">
+      <dt>名称</dt>
+      <dd>{d.name}</dd>
+      <dt>カテゴリ</dt>
+      <dd>{d.category || blank}</dd>
+      <dt>市</dt>
+      <dd>{d.city || blank}</dd>
+      <dt>住所</dt>
+      <dd>
+        {d.address || blank}
+        {mapUrl && (
+          <>
+            {" "}
+            （<a href={mapUrl} target="_blank" rel="noopener">地図</a>）
+          </>
+        )}
+      </dd>
+      <dt>営業時間</dt>
+      <dd>{d.hours || blank}</dd>
+      <dt>駐車場</dt>
+      <dd>{d.parking || blank}</dd>
+      <dt>支払い方法</dt>
+      <dd>{d.payment || blank}</dd>
+      <dt>公式サイト</dt>
+      <dd>
+        {d.website ? (
+          <a href={d.website} target="_blank" rel="noopener">{d.website}</a>
+        ) : (
+          blank
+        )}
+      </dd>
+    </dl>
+    <div class="prose">
+      <slot />
+    </div>
+  </article>
+</BaseLayout>

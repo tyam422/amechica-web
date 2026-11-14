@@ -9,6 +9,7 @@ import {
   topicsInGroup,
 } from "../lib/groups";
 
+const placesEnabled = import.meta.env.DEV; // 紹介 section: dev only until ready
 const allTopics = (await getCollection("topics")).filter((topic) => isPublished(topic));
 ---
 
@@ -55,5 +56,19 @@ const allTopics = (await getCollection("topics")).filter((topic) => isPublished(
         </section>
       );
     })
+  }
+
+  {
+    placesEnabled && (
+      <section class="group-block" id="places" aria-labelledby="group-places">
+        <div class="group-block__head">
+          <h2 id="group-places">紹介（準備中・ローカルのみ）</h2>
+          <a class="group-block__more" href="/places/">
+            一覧を見る
+          </a>
+          <p>シカゴ郊外の店・レストラン・お出かけ先を、1か所ずつ紹介します。</p>
+        </div>
+      </section>
+    )
   }
 </BaseLayout>

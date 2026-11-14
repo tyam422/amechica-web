@@ -1,0 +1,102 @@
+---
+// /places/ index. A rest route (instead of index.astro) so the page is
+// generated only in dev while the section is unfinished.
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import {
+  PLACES_ENABLED,
+  isPlacePublished,
+  placePath,
+  sortPlaces,
+  uniqueValues,
+} from "../../lib/places";
+
+export async function getStaticPaths() {
+  return PLACES_ENABLED ? [{ params: { index: undefined } }] : [];
+}
+
+const places = sortPlaces(
+  (await getCollection("places")).filter((place) => isPlacePublished(place)),
+);
+const categories = uniqueValues(places, "category");
+const cities = uniqueValues(places, "city");
+---
+
+<BaseLayout
+  title="紹介 — amechica"
+  description="シカゴ郊外の店・レストラン・お出かけ先を、1か所ずつ事実ベースで紹介します。"
+>
+  <nav class="crumb" aria-label="パンくずリスト">
+    <ol>
+      <li><a href="/">ホーム</a></li>
+      <li aria-current="page">紹介</li>
+    </ol>
+  </nav>
+  <header class="group-block__head" style="margin-bottom: 1.2rem;">
+    <h1>紹介</h1>
+    <p>シカゴ郊外の店・レストラン・お出かけ先を、1か所ずつ紹介します。</p>
+  </header>
+
+  <form class="place-filter" aria-label="絞り込み" onsubmit="return false">
+    <label>
+      カテゴリ
+      <select name="category">
+        <option value="">すべて</option>
+        {categories.map((c) => <option value={c}>{c}</option>)}
+      </select>
+    </label>
+    <label>
+      市
+      <select name="city">
+        <option value="">すべて</option>
+        {cities.map((c) => <option value={c}>{c}</option>)}
+      </select>
+    </label>
+    <p class="place-filter__count" aria-live="polite"><span data-count>{places.length}</span> 件</p>
+  </form>
+
+  {
+    places.length > 0 ? (
+      <ul class="topic-list place-list">
+        {places.map((place) => (
+          <li data-category={place.data.category} data-city={place.data.city}>
+            <a href={placePath(place.id)}>
+              <span class="topic-list__title">
+                {place.data.nameJa ? `${place.data.nameJa}（${place.data.name}）` : place.data.name}
+              </span>
+              <span class="topic-list__desc">
+                {[place.data.category, place.data.city].filter((v) => v).join("・") || "—"}
+              </span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    ) : (
+      <p>まだ掲載はありません。</p>
+    )
+  }
+  <p class="place-empty" hidden>条件に合う場所はありません。</p>
+
+  <script>
+    const form = document.querySelector<HTMLFormElement>(".place-filter");
+    const items = [...document.querySelectorAll<HTMLLIElement>(".place-list li")];
+    const count = document.querySelector("[data-count]");
+    const empty = document.querySelector<HTMLElement>(".place-empty");
+    function apply() {
+      if (!form) return;
+      const category = (form.elements.namedItem("category") as HTMLSelectElement).value;
+      const city = (form.elements.namedItem("city") as HTMLSelectElement).value;
+      let shown = 0;
+      for (const li of items) {
+        const ok =
+          (!category || li.dataset.category === category) && (!city || li.dataset.city === city);
+        li.hidden = !ok;
+        if (ok) shown++;
+      }
+      if (count) count.textContent = String(shown);
+      if (empty) empty.hidden = shown !== 0;
+    }
+    form?.addEventListener("change", apply);
+    apply();
+  </script>
+</BaseLayout>
