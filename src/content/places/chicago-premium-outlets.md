@@ -14,11 +14,11 @@ draft: true
 ---
 
 <!-- 事実のみを書く（感想・評価・おすすめは書かない）。 -->
-<!-- 公式：premiumoutlets.com の About・Hours・トップページを 2026-11-14 に WebFetch で確認（curl は PerimeterX で 307）。店の一覧（Stores）・レストラン（Dining）・イベント（Events）・Deals の中身は WebFetch でも読めなかった。 -->
+<!-- 公式：premiumoutlets.com の About・Hours・トップページを 2026-11-14 に WebFetch で確認。店の一覧（Stores）・レストランの絞り込み・イベント（its-a-holiday-thing）・Nike の店のページは、2026-11-14 に box のブラウザで公式サイトを読んだ内容（foldins/chicago-premium-outlets-browser-2026-11-14.md）。 -->
 
 ## 概要
 
-Chicago Premium Outlets は、オーロラ（Aurora）にある屋外型のアウトレットモールです。Simon（Simon Property Group）が運営しています。公式サイトの About ページによると、シカゴのダウンタウンから車で約 40分のところにあり、160 を超える店があります。暖炉（fireplaces）、アート作品、子どもの遊び場、池（reflecting pond）があります。
+Chicago Premium Outlets は、オーロラ（Aurora）にある屋外型のアウトレットモールです。Simon（Simon Property Group）が運営しています。公式サイトの About ページによると、シカゴのダウンタウンから車で約 40分のところにあり、160 を超える店があります（トップページの表示は「165+ STORES」）。暖炉（fireplaces）、アート作品、子どもの遊び場、池（reflecting pond）があります。
 
 ## 基本情報
 
@@ -71,11 +71,11 @@ Chicago Premium Outlets は、オーロラ（Aurora）にある屋外型のア�
 公式サイトの About ページによります。
 
 - 駐車場は無料です（「Parking is free」）。
-- 「UpFront PLUS Parking」：Nike と Saks OFF 5TH の近くにある有料の駐車場で、1 回 $7 です。混む週末や祝日に、Nike、Saks OFF 5TH、Vince、Tumi などの入口の近くに停められます。
+- 「UpFront PLUS Parking」：Nike と Saks OFF 5TH の近くにある有料の駐車場で、1 回 $7 です。混む週末や祝日に、Nike、Saks OFF 5TH、Vince、Tumi などの入口の近くに停められます（About ページの説明。今の店の一覧に Saks OFF 5TH と Vince は載っていません）。
 - 軍人・退役軍人用の駐車スペースが、モールの南側、池の近くにあります。
 - タクシー・Uber・Lyft の乗り降りの場所は、西の入口の adidas の近くです。
 
-電気自動車（EV）の充電器があるかどうかは、今の公式の情報を見つけられませんでした。店舗に確認してください。
+電気自動車（EV）の充電器は、公式サイトの About ページの設備の一覧に載っていません。店舗に確認してください。
 
 ### 支払い方法
 
@@ -87,17 +87,44 @@ Chicago Premium Outlets は、オーロラ（Aurora）にある屋外型のア�
 
 ## 店・レストラン
 
-### 主な店
+### 店の数・主な店
 
-公式サイトの About ページには、Athleta、BOSS Outlet、Kate Spade New York、Nike Factory Outlet、Polo Ralph Lauren、Columbia Factory Store が挙がっています。About ページの設備の説明には、Saks OFF 5TH、Vince、Tumi、adidas、Talbots の名前もあります。
+公式サイトの Stores のページ（2026年11月14日）には「Viewing 165 results」と出ています。この中には、フードコート、遊び場、管理事務所、UpFront Parking など、店ではないものも入っています。About ページでは「160 を超える店」です。どの店も 1 階（Main Level）です。
 
-公式サイトのトップページ（2026年11月14日）の会員向けのクーポン・キャッシュバックの案内には、Cole Haan Outlet、American Eagle、Johnston & Murphy Factory Store、Lindt Chocolate、Kate Spade Outlet、Movado Company Store、Yankee Candle、The Cosmetics Company Store の名前が出ています。
+公式サイトの店の一覧から、主な店の例です（全部ではありません）。
 
-店の一覧（ディレクトリ）は、公式サイトの Stores のページで確認してください。
+| 種類 | 店（一部） |
+| --- | --- |
+| 服・ブランド | Athleta、BOSS Outlet、Polo Ralph Lauren Factory Store、Max Mara、Marc Jacobs、Michael Kors Outlet、Kate Spade New York Outlet、Coach Outlet、J.Crew Factory、Banana Republic Factory、Calvin Klein、Tommy Hilfiger、LACOSTE Outlet、Brooks Brothers Factory Store |
+| スポーツ・アウトドア | adidas Outlet Store、NIKE Factory Store、Under Armour Factory House、New Balance Factory Store、PUMA Outlet、The North Face Outlets、Columbia Factory Store、Merrell |
+| 靴・バッグ | UGG、Clarks、Cole Haan Outlet、HEYDUDE、Skechers、Samsonite、TUMI |
+| 化粧品 | Sephora、The Cosmetics Company Store、Bath & Body Works |
+| 家・雑貨 | Le Creuset、Pottery Barn Outlet、Lovesac、Yankee Candle |
+| 子ども | Carter's、Gap Outlet - Kids & Baby、Janie and Jack、Toys "R" Us、Babies 'R Us |
+| 日本・アジア関係 | MINISO（雑貨）、Sakura Japan（食事）、Mr. Hibachi Express（食事） |
+
+### 「Coming Soon」「Temporarily Closed」の店
+
+公式サイトの店の一覧（2026年11月14日）の表示です。
+
+| 表示 | 店 |
+| --- | --- |
+| Coming Soon（もうすぐ開店） | Claw King、Five Below |
+| Temporarily Closed（一時休業） | NIKE Factory Store（店のページにも「Store is temporarily closed」）、Dulces Clara |
+
+Nike Factory Store に行く前に、店に確認してください。
 
 ### レストラン
 
-公式サイトの About ページによると、フードコート「Market Hall」があります（ATM と自動販売機も Market Hall にあります）。入っている店は、公式サイトの Dining のページで確認してください。
+公式サイトの About ページによると、フードコート「Market Hall」があります。公式サイトの店の一覧を「Restaurant」で絞り込むと、次の店が出ます（2026年11月14日）。
+
+| 種類 | 店 |
+| --- | --- |
+| 食事 | Bowl Therapy、Charleys Philly Steaks、China Wok、GW Gyro & Wings、Kong Dog、Lavash Mediterranean Grill、Mr. Hibachi Express、Sakura Japan、Tacos la Canasta、Villa Fresh Italian Kitchen、Vendor Village |
+| 軽食・甘いもの | Auntie Anne's Pretzels（2 か所）、Churro Factory、Dippin' Dots、La Michoacana Premium Ice Cream、Le Macaron French Pastries、Mrs. Fields/TCBY |
+| コーヒー | Starbucks Coffee |
+
+ほかに、店の一覧には Fannie May Chocolates、Lindt Chocolate、Dulces Clara（一時休業）もあります。各店の時間は店に確認してください。
 
 ## 設備・サービス
 
@@ -112,9 +139,15 @@ Chicago Premium Outlets は、オーロラ（Aurora）にある屋外型のア�
 | ベビーカー | Kate Spade の外と Market Hall に、貸し出しの機械があります。料金は $10 |
 | 車いす | 無料。管理事務所（Suite 150、adidas の隣）で貸し出し |
 | 管理事務所 | Suite 150（adidas の近く） |
+| 自動販売機 | Market Hall、レストラン 2 か所、ほか 3 か所。Coca-Cola の自動販売機もあります |
+| バス停 | Pace 533 番。南西の入口、Talbots の近く |
+| 配車サービスの乗り降り | 西の入口、adidas の近く |
+| 軍人・退役軍人用の駐車場 | 南側、池の近く |
+| UpFront PLUS Parking | $7（上の「駐車場」） |
 | 警備・警察の詰所 | あり |
+| StormReady | アメリカ国立気象局の「StormReady」の認定 |
 
-Simon のギフトカード、ロッカー、ゲストサービスの窓口については、公式サイトで確認できませんでした。管理事務所か Shopping Line に確認してください。
+About ページの設備の一覧には、EV の充電器、ゲストサービスの窓口、ロッカーは載っていません。Simon のギフトカードは、サイト全体の下の「Buy Gift Cards」「Simon Giftcard Support」のリンクだけでした。くわしくは管理事務所か Shopping Line に確認してください。
 
 ## 価格帯
 
@@ -143,6 +176,21 @@ Simon+ について書いている第三者のサイト（CartRevolt、2026年11
 
 2026年11月27日（金）は 6:00〜21:00 です（公式サイトの Hours ページ）。オーロラ市のイベントのページにも、同じ時間でブラックフライデーが載っています。店ごとのセールは、各店か公式サイトの Deals のページで確認してください。
 
+### サンタとミセス・クロース（It's a Holiday Thing）
+
+公式サイトのイベント「It's a Holiday Thing at Chicago Premium Outlets」（2026年11月1日〜12月31日）によると、サンタとミセス・クロース（Strolling Santa and Mrs. Claus）がモールの中を歩いて回ります。
+
+| 日 | 時間 |
+| --- | --- |
+| 12月5日（土） | 13:00〜15:00 |
+| 12月6日（日） | 13:00〜15:00 |
+| 12月12日（土） | 13:00〜15:00 |
+| 12月13日（日） | 15:30〜17:30 |
+| 12月19日（土） | 13:00〜15:00 |
+| 12月20日（日） | 15:30〜17:30 |
+
+ほかのイベントは、2026年11月14日の時点では公式サイトに載っていませんでした。
+
 ## 行き方・アクセス
 
 ### 車
@@ -163,6 +211,10 @@ Simon+ について書いている第三者のサイト（CartRevolt、2026年11
 - [Chicago Premium Outlets 公式サイト（トップページ。Simon+ のクーポン・キャッシュバック）](https://www.premiumoutlets.com/outlet/chicago)
 - [Chicago Premium Outlets – Hours（営業時間・祝日の時間）](https://www.premiumoutlets.com/outlet/chicago/hours)
 - [Chicago Premium Outlets – About（電話・店の数・設備・駐車場・行き方）](https://www.premiumoutlets.com/outlet/chicago/about)
+- [Chicago Premium Outlets – Stores（店の一覧・Coming Soon・Temporarily Closed）](https://www.premiumoutlets.com/outlet/chicago/stores)
+- [Chicago Premium Outlets – Stores（Restaurant で絞り込み）](https://www.premiumoutlets.com/outlet/chicago/stores?&filter=store_type%7CstoreType%2F2)
+- [Chicago Premium Outlets – NIKE Factory Store](https://www.premiumoutlets.com/outlet/chicago/stores/nike-factory-store)
+- [Chicago Premium Outlets – It's a Holiday Thing（サンタとミセス・クロース）](https://www.premiumoutlets.com/outlet/chicago/stream/its-a-holiday-thing-at-chicago-6291456)
 - [Premium Outlets – VIP Shopper Club is now Simon+](https://www.premiumoutlets.com/vip)
 - [Simon+ – How do I join the Simon+ Rewards Program?](https://plussupport.simon.com/hc/en-us/articles/32793238648727-How-do-I-join-the-Simon-Rewards-Program)
 - [Simon+ – How do I receive In-store Cash Back?](https://plussupport.simon.com/hc/en-us/articles/32795919110935-How-do-I-receive-In-store-Cash-Back)
