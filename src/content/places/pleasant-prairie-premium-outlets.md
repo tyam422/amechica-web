@@ -14,7 +14,7 @@ draft: true
 ---
 
 <!-- 事実のみを書く（感想・評価・おすすめは書かない）。 -->
-<!-- 公式：premiumoutlets.com の トップ・Hours・About を 2026-11-14 に WebFetch で確認（curl は不可）。Stores・Dining・Events は WebFetch でもトップページと同じ内容しか返らなかった。 -->
+<!-- 公式：premiumoutlets.com の トップ・Hours・About を 2026-11-14 に WebFetch で確認（curl は不可）。Stores（店の一覧・Restaurant の絞り込み）・イベント・About の設備は、2026-11-14 に box のブラウザで公式サイトを読んだ内容（foldins/pleasant-prairie-browser-2026-11-14.md）。 -->
 
 ## 概要
 
@@ -87,7 +87,7 @@ Pleasant Prairie Premium Outlets は、ウィスコンシン州プレザント�
 屋外の駐車場です。公式サイトの About ページには、駐車料金は書かれていません。料金があるかどうかは店舗に確認してください。
 
 - 軍人・退役軍人用の駐車スペースが、それぞれの駐車場（parking plaza）に 4 台分あります（公式サイト）。
-- Tesla の充電器が、駐車場の北西の角、Nike Factory Store の近くにあります（公式サイト）。About ページには「モールの営業時間中に使えます」と「24時間使えます」の両方の書き方があります。店舗に確認してください。Tesla 以外の EV 充電器については、公式サイトに書かれていませんでした。
+- Tesla の充電器が、モールの北西側、Nike Factory Store の隣にあります。モールの営業時間中に使えます（公式サイトの About ページ）。Tesla 以外の EV 充電器については、公式サイトに書かれていませんでした。
 - 配車サービス（Uber・Lyft など）の乗り降りの場所があります（場所は公式サイトの地図）。
 
 ### 支払い方法
@@ -110,15 +110,32 @@ Pleasant Prairie Premium Outlets は、ウィスコンシン州プレザント�
 
 ## 店・レストラン
 
-### 主な店
+### 店の数・主な店
 
-公式サイトの About ページには、Tory Burch、Coach、kate spade new york、Nike Factory Store、Pandora Outlet、Starbucks、The North Face、UGG が挙がっています。公式サイトのトップページ（2026年11月14日）には、adidas Outlet Store、Converse、Levi's Outlet Store のほか、会員向けの特典の店として Aeropostale、Gap Factory、True Religion Outlet、Vera Bradley Factory Outlet、LOFT Outlet、Kate Spade Outlet、Yankee Candle が出ています。About ページの設備の説明には、Calvin Klein、Claire's、Beef Jerky Experience の名前もあります。
+公式サイトの Stores のページ（2026年11月14日）には「92 results」と出ています。この中には、フードコート（Food Court）と管理事務所（Management Office）も入っています。About ページでは「90 近い店」です。どの店も 1 階（Main Level）です。
 
-店の一覧（ディレクトリ）は、公式サイトの Stores のページで確認してください。
+公式サイトの店の一覧から、主な店の例です（全部ではありません）。
+
+| 種類 | 店（一部） |
+| --- | --- |
+| 服・ブランド | Tory Burch、Coach Outlet、Kate Spade New York Outlet、Michael Kors Outlet、Polo Ralph Lauren Factory Store、Calvin Klein、Tommy Hilfiger、LACOSTE Outlet、Brooks Brothers Factory Store、J.Crew Factory、Banana Republic Factory、lululemon |
+| スポーツ・アウトドア | adidas Outlet Store、NIKE Factory Store、Under Armour Factory House、New Balance Factory Store、PUMA Outlet、The North Face、Columbia Factory Store |
+| 靴・バッグ | UGG、Clarks、Cole Haan Outlet、Converse、Vans Outlet、Skechers、Samsonite、TUMI |
+| 化粧品・アクセサリー | Ulta Beauty、The Cosmetics Company Store、Bath & Body Works、Pandora Outlet |
+| 家・子ども | Le Creuset、Carter's、The Children's Place Outlet、Toys "R" Us |
+
+公式サイトの店の一覧では、Toys "R" Us は「Coming Soon（もうすぐ開店）」、Victoria's Secret Outlet は「Now Open（開店）」と表示されています。「Temporarily Closed（一時休業）」の店はありませんでした（2026年11月14日）。
 
 ### レストラン
 
-公式サイトの About ページによると、「Pavilion（Pavilion Eatery）」がフードコートです。公式サイトのトップページ（2026年11月14日）には、「Now Open: Auntie Anne's Pretzels」とあり、会員向けの特典の店として The Great Steak and Potato Company も出ています。About ページには Starbucks も挙がっています。ほかの店は、公式サイトの Dining のページで確認してください。
+公式サイトの About ページによると、「Pavilion」がフードコートです。公式サイトの店の一覧を「Restaurant」で絞り込むと、次の 8 店が出ます（2026年11月14日）。
+
+| 種類 | 店 |
+| --- | --- |
+| 食事 | Chinatown、Teriyaki Grill、The Great Steak and Potato Company、Villa Fresh Italian Kitchen |
+| 軽食・飲み物 | Auntie Anne's Pretzels、Churro Factory、Kung Fu Tea、Starbucks Coffee |
+
+各店の時間は店に確認してください。
 
 ## 設備・サービス
 
@@ -134,7 +151,11 @@ Pleasant Prairie Premium Outlets は、ウィスコンシン州プレザント�
 | 車いす | 無料。数に限りあり。警備（(262) 237-5183）に電話して借ります。写真つきの身分証明書が必要。貸し出しと返却は Pavilion Eatery の暖炉の近くのカウンター |
 | 自動販売機 | Coca-Cola の自動販売機が各所にあります |
 | 警備・警察の詰所 | あり。警備 (262) 237-5183 |
+| 配車サービスの乗り降り | あり（場所は公式サイトの地図） |
+| StormReady | アメリカ国立気象局の「StormReady」の認定 |
 | 軍人向けの割引 | 参加している店で軍の身分証明書を見せると割引があります（窓に星のマーク） |
+
+About ページの設備の一覧には、駐車料金（有料か無料か）、ゲストサービスの窓口は載っていません。Simon のギフトカードは、サイト全体の下のリンクだけでした。くわしくは Shopping Line（(262) 857-2101）か管理事務所に確認してください。
 
 ## 価格帯
 
@@ -158,7 +179,8 @@ Pleasant Prairie Premium Outlets は、ウィスコンシン州プレザント�
 
 - ブラックフライデー（2026年11月27日）は 6:00〜21:00 です（公式サイトの Hours ページ）。
 - 公式サイトのトップページ（2026年11月14日）には「Tis the Season for Making Memories」「Gifting Made Easy」という年末の案内があります。
-- イベントの日時（サンタなど）は、公式サイトの Events のページで確認してください。
+- 公式サイトのイベント「It's a Holiday Thing at Pleasant Prairie PO」は 2026年10月26日〜12月31日です。サンタの日時などは、2026年11月14日の時点では公式サイトに載っていませんでした。店舗に確認してください。
+- 公式サイトの News & Events のページには、店ごとのキャンペーン（Perfumania、Jockey の寄付の受け付け、Crocs）が載っています。
 
 ## 行き方・アクセス
 
@@ -178,6 +200,10 @@ Pleasant Prairie Premium Outlets は、ウィスコンシン州プレザント�
 - [Pleasant Prairie Premium Outlets 公式サイト（トップページ。Simon+ の特典）](https://www.premiumoutlets.com/outlet/pleasant-prairie)
 - [Pleasant Prairie Premium Outlets – Hours（営業時間・祝日・冬時間）](https://www.premiumoutlets.com/outlet/pleasant-prairie/hours)
 - [Pleasant Prairie Premium Outlets – About（電話・店の数・設備・行き方）](https://www.premiumoutlets.com/outlet/pleasant-prairie/about)
+- [Pleasant Prairie Premium Outlets – Stores（店の一覧・Coming Soon）](https://www.premiumoutlets.com/outlet/pleasant-prairie/stores)
+- [Pleasant Prairie Premium Outlets – Stores（Restaurant で絞り込み）](https://www.premiumoutlets.com/outlet/pleasant-prairie/stores?filter=store_type%7CstoreType%2F2)
+- [Pleasant Prairie Premium Outlets – It's a Holiday Thing](https://www.premiumoutlets.com/outlet/pleasant-prairie/stream/its-a-holiday-thing-at-pleasant-prairie-po-6291696)
+- [Pleasant Prairie Premium Outlets – News & Events](https://www.premiumoutlets.com/outlet/pleasant-prairie/news-and-events)
 - [Premium Outlets – VIP Shopper Club is now Simon+](https://www.premiumoutlets.com/vip)
 - [Simon+ – How do I join the Simon+ Rewards Program?](https://plussupport.simon.com/hc/en-us/articles/32793238648727-How-do-I-join-the-Simon-Rewards-Program)
 - [Simon+ – How do I receive In-store Cash Back?](https://plussupport.simon.com/hc/en-us/articles/32795919110935-How-do-I-receive-In-store-Cash-Back)
