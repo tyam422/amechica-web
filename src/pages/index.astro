@@ -17,7 +17,8 @@ const topics = (await getCollection("topics"))
 // お店・スポット is not public yet: only listed in dev / PREVIEW_DRAFTS=1 builds.
 const places = PLACES_ENABLED
   ? (await getCollection("places"))
-      .filter((place) => isPlacePublished(place))
+      // Skip still-empty templates (no website filled in yet).
+      .filter((place) => isPlacePublished(place) && place.data.website !== "")
       .sort(
         (a, b) => b.data.updated.getTime() - a.data.updated.getTime() || a.data.order - b.data.order,
       )
