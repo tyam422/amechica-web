@@ -4,8 +4,8 @@ nameJa: ""
 category: "ショッピングモール"
 city: "Schaumburg"
 address: "5 Woodfield Mall, Schaumburg, IL 60173"
-hours: "月〜木 10:00〜20:00／金・土 10:00〜21:00／日 11:00〜18:00（モールの通常の時間。年末は特別な時間あり。店ごとに違う場合があります）"
-parking: "無料の平面駐車場（2026年11月の案内記事による。店舗に確認してください）"
+hours: "月〜木 10:00〜20:00／金・土 10:00〜21:00／日 11:00〜18:00（モールの通常の時間。公式サイトによる。年末は特別な時間あり。店ごとに違う場合があります）"
+parking: "無料の平面駐車場（2026年11月の案内記事による。モールに確認してください）"
 payment: "店ごとに違います（各店に確認してください）"
 website: "https://www.simon.com/mall/woodfield-mall"
 order: 14
@@ -14,25 +14,31 @@ draft: true
 ---
 
 <!-- 事実のみを書く（感想・評価・おすすめは書かない）。 -->
-<!-- 公式サイト（simon.com）はボット対策のため、このセッションでは直接読めなかった。公式の内容は、公式サイトを引用した資料と、モールが自分で出している案内（Apple Maps の「From the Business」など）で確認した。 -->
+<!-- 公式サイト（simon.com）は About ページとトップページだけブラウザで確認できた（2026-11-14）。祝日の営業時間・ゲストサービス・店の一覧（ディレクトリ）は公式では未確認。 -->
 
 ## 概要
 
 Woodfield Mall は、シャンバーグ（Schaumburg）にある屋内型のショッピングモールです。Simon（Simon Property Group）が運営しています。モールが Apple Maps に出している紹介文には「one of the largest shopping destinations in the U.S.」（アメリカでも最大級のショッピングの場所の一つ）で、店・レストラン・設備を合わせて 200万平方フィート（約 18万 6千平方メートル）を超える、と書かれています。イリノイ州の観光サイト（Enjoy Illinois）の掲載文には、「nearly 300 stores」（300 近い店とレストラン）と書かれています。
 
-Wikipedia によると、1971年 9月に開業し、百貨店などの大きな核店舗（anchor）は JCPenney、Macy's、Nordstrom、Primark の 4 つです。
+公式サイトの About ページによると、百貨店は Nordstrom、Macy's、JCPenney、Primark の 4 つです。Wikipedia によると、1971年 9月に開業しました。
 
 ## 基本情報
 
 ### 住所・地図
 
-5 Woodfield Mall, Schaumburg, IL 60173（Apple Maps の表記は「311 Woodfield Mall」）
+5 Woodfield Mall, Schaumburg, IL 60173（公式サイトの表記。Apple Maps では「311 Woodfield Mall」と表示されます）
 
-電話：(847) 330-1537（Apple Maps と Enjoy Illinois の表記）
+公式サイトの About ページに載っている電話番号です。
+
+| 窓口 | 電話番号 |
+| --- | --- |
+| Shopping Line（ショッピングの問い合わせ） | (847) 330-1537 |
+| Mall Management（モールの管理事務所） | (847) 330-0220 |
+| Mall Security（モールの警備） | (847) 330-1515 |
 
 ### 営業時間
 
-モールの通常の営業時間です。Enjoy Illinois の掲載と、2026年11月4日に公開された案内記事（Chicago Shopping。モールの公式ページをもとにしていると書かれています）で、同じ時間が載っています。
+モールの通常の営業時間です（公式サイトの About ページによる）。公式サイトのトップページでは、2026年11月14日（土）は「OPEN 10:00AM - 9:00PM」と表示されていました。
 
 | 曜日 | 時間 |
 | --- | --- |
@@ -40,7 +46,7 @@ Wikipedia によると、1971年 9月に開業し、百貨店などの大きな�
 | 金・土 | 10:00〜21:00 |
 | 日 | 11:00〜18:00 |
 
-2026年の感謝祭の週末は、同じ案内記事によると次のとおりです（モールの 2026年の祝日の営業時間のページによる、と書かれています）。
+2026年の感謝祭の週末は、2026年11月4日に公開された案内記事（Chicago Shopping）によると次のとおりです（モールの 2026年の祝日の営業時間のページによる、と書かれています）。公式サイトの祝日の営業時間のページは、このセッションでは直接読めていないため、公式サイトで確認してください。
 
 | 日 | 時間 |
 | --- | --- |
@@ -48,7 +54,7 @@ Wikipedia によると、1971年 9月に開業し、百貨店などの大きな�
 | 11月27日（金・ブラックフライデー） | 6:00〜21:00 |
 | 11月28日（土） | 8:00〜21:00 |
 
-12月の営業時間、クリスマスイブ、クリスマス当日、元日の時間は、公式サイトで確認してください。同じ案内記事には、「Mall hours aren't store hours」（モールの時間と店の時間は違う）、百貨店や大きな店は独自の時間で開くことが多い、と書かれています。行きたい店がある場合は、その店の時間を確認してください。
+12月の営業時間、クリスマスイブ、クリスマス当日、元日の時間は、公式サイトで確認してください。Chicago Shopping の記事には、「Mall hours aren't store hours」（モールの時間と店の時間は違う）、百貨店や大きな店は独自の時間で開くことが多い、と書かれています。行きたい店がある場合は、その店の時間を確認してください。
 
 ### 駐車場
 
@@ -68,32 +74,34 @@ Wikipedia によると、1971年 9月に開業し、百貨店などの大きな�
 
 ### 核店舗（百貨店など）
 
-| 店 | 出典 |
+| 店 | 補足 |
 | --- | --- |
-| Nordstrom | Wikipedia、Enjoy Illinois |
-| Macy's | Wikipedia、Enjoy Illinois |
-| JCPenney | Wikipedia、Enjoy Illinois |
-| Primark | Wikipedia（2023年10月に旧 Sears の場所の上の階に開店） |
+| Nordstrom | |
+| Macy's | |
+| JCPenney | |
+| Primark | Wikipedia によると、2023年10月に旧 Sears の場所の上の階に開店 |
+
+（4 店とも公式サイトの About ページに載っています）
 
 ### 主な店
 
-Enjoy Illinois の掲載文には、Apple、Michael Kors、lululemon、Anthropologie、BOSS、Aritzia、Alo Yoga、H&M、Zara が挙がっています。掲載文に日付がないため、今出店している店は、公式サイトのディレクトリで確認してください。
+公式サイトの About ページには、Apple、Michael Kors、Alo、Aritzia、Kendra Scott、Uniqlo、Abercrombie & Fitch、Coach、Zara が挙がっています。このほかの店は、公式サイトのディレクトリ（店の一覧）で確認してください。
 
 ### レストラン
 
-Enjoy Illinois の掲載文によると、フルサービスのレストランが 8 店（Texas de Brazil、P.F. Chang's、Uncle Julio's、The Cheesecake Factory など）、ファストカジュアルの店が 30 店以上あります。フードコートの「Dining Pavilion」には 11 店が入っていて、Blaze Pizza、Chipotle、地元の Stan's Donuts & Coffee などがあります。今の店は公式サイトで確認してください。
+公式サイトの About ページによると、フルサービスのレストランが 8 店（Texas de Brazil、P.F. Chang's、Uncle Julio's、The Cheesecake Factory など）、ファストカジュアルの店が 30 店以上あります。フードコートの「Dining Pavilion」には 11 店が入っていて、Blaze Pizza、Chipotle、地元の Stan's Donuts & Coffee などがあります。ほかの店は公式サイトで確認してください。
 
 ### 遊び・体験
 
-Enjoy Illinois の掲載文には、Enterrium、60 to Escape（脱出ゲーム）、YuKids Island、Peppa Pig World of Play、The Improv Comedy Club（コメディクラブ）が挙がっています。
+公式サイトの About ページには、Enterrium、60 to Escape（脱出ゲーム）、Wondra、Yu Kids Island、Peppa Pig World of Play、The Improv Comedy Club（コメディクラブ）が挙がっています。
 
 子ども向けの屋内施設 Peppa Pig World of Play Chicago は、公式サイトによると、改装のため 2026年10月19日から休んでいて、11月27日に再開する予定です。
 
 ### サービス・設備
 
-Enjoy Illinois の掲載文には、「Signature Meet & Greet Service」、無料 Wi-Fi、バレーパーキング、子どもの遊び場（Children's Play Area）、トロリー（Trolley Transportation）が挙がっています。Apple Maps の店舗情報には、車いすで利用できること（Wheelchair Accessible）、エレベーター（Accessible Elevator）、Apple Pay・タッチ決済が表示されています。
+公式サイトの About ページには、「Signature Meet & Greet Service」（大人数の場合はモールの Marketing Department に連絡）、無料 Wi-Fi、子どもの遊び場（Children's Play Area）、トロリー（Trolley Transportation）が挙がっています。Apple Maps の店舗情報には、車いすで利用できること（Wheelchair Accessible）、エレベーター（Accessible Elevator）、Apple Pay・タッチ決済が表示されています。
 
-ゲストサービス（Simon Guest Services）、ベビーカーや車いすの貸し出し、ロッカー、Simon のギフトカードの販売について、今の場所や料金を確認できる情報は見つかりませんでした。公式サイトかモールに確認してください。
+ゲストサービス（Simon Guest Services）、ベビーカーや車いすの貸し出し、ロッカー、Simon のギフトカードの販売について、今の場所や料金を確認できる情報は見つかりませんでした。公式サイトで確認するか、Shopping Line（(847) 330-1537）に確認してください。
 
 ## 価格帯
 
@@ -103,7 +111,7 @@ Enjoy Illinois の掲載文には、「Signature Meet & Greet Service」、無�
 
 ### サンタクロースとの写真（2026年）
 
-モールが Apple Maps に出している案内（「From the Business」）によると、サンタクロースは 11月5日に来て、12月24日までいます。予約は whereissanta.com でできます。予約サイト（Where Is Santa）の案内は次のとおりです（2026年11月14日に確認）。
+モールが Apple Maps に出している案内（「From the Business」）によると、サンタクロースは 11月5日に来て、12月24日までいます。公式サイトのトップページに、サンタクロースとの写真の予約（RSVP）と、ホリデーイベントの案内へのリンクがあります。予約は whereissanta.com でできます。予約サイト（Where Is Santa）の案内は次のとおりです（2026年11月14日に確認）。
 
 | 項目 | 内容（予約サイトの表記） |
 | --- | --- |
@@ -150,11 +158,12 @@ Pace の時刻表データ（2026年11月1日〜）では、モールの「Woodf
 
 ## 参考リンク
 
-- [Woodfield Mall 公式サイト（Simon）](https://www.simon.com/mall/woodfield-mall)
+- [Woodfield Mall 公式サイト（Simon。2026年11月14日の営業時間、サンタクロースの予約・ホリデーイベントへのリンク）](https://www.simon.com/mall/woodfield-mall)
+- [Woodfield Mall 公式サイト – About（営業時間・電話番号・百貨店・店・レストラン・遊び・設備）](https://www.simon.com/mall/woodfield-mall/about)
 - [Apple Maps – Woodfield Mall（モールの紹介文・From the Business・設備）](https://maps.apple.com/place?place-id=I35769F7A91DEAA5F)
-- [Enjoy Illinois – Woodfield Mall（イリノイ州の観光サイト）](https://www.enjoyillinois.com/explore/listing/woodfield-mall/)
+- [Enjoy Illinois – Woodfield Mall（イリノイ州の観光サイト。店の数）](https://www.enjoyillinois.com/explore/listing/woodfield-mall/)
 - [Chicago Shopping – Black Friday 2026 in Chicago（2026年11月4日公開。営業時間・駐車場）](https://chicago-shopping.com/guides/chicago-black-friday-2026)
-- [Wikipedia – Woodfield Mall（開業年・核店舗）](https://en.wikipedia.org/wiki/Woodfield_Mall)
+- [Wikipedia – Woodfield Mall（開業年・Primark の開店）](https://en.wikipedia.org/wiki/Woodfield_Mall)
 - [Where Is Santa – Woodfield Mall（サンタクロースとの写真の予約）](https://whereissanta.com/mall/0175)
 - [Daily Herald – Santa returns to Woodfield Mall（2026年11月5日）](https://www.dailyherald.com/20261105/news/santa-returns-to-woodfield-mall-to-usher-in-the-holiday-season/)
 - [Peppa Pig World of Play Chicago – Before You Visit（改装の案内）](https://www.peppapigworldofplay.com/chicago/plan-your-visit/before-you-visit/)
