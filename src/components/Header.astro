@@ -1,10 +1,12 @@
 ---
+import { PLACES_ENABLED } from "../lib/places";
+
 interface Props {
   current?: "home" | "about" | "other";
 }
 
 const { current = "other" } = Astro.props;
-const placesEnabled = import.meta.env.DEV; // 紹介 section: dev only until ready
+const placesEnabled = PLACES_ENABLED; // 紹介 section: dev / PREVIEW_DRAFTS=1 only
 ---
 
 <header class="site-header">

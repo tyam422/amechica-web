@@ -1,4 +1,5 @@
 import type { CollectionEntry } from "astro:content";
+import { SHOW_DRAFTS } from "./drafts";
 
 export const GROUPS = [
   {
@@ -80,7 +81,7 @@ export function topicPath(id: string) {
   return `/topics/${id}/`;
 }
 
-export function isPublished(topic: TopicEntry, prod = import.meta.env.PROD) {
+export function isPublished(topic: TopicEntry, prod = !SHOW_DRAFTS) {
   return prod ? topic.data.draft !== true : true;
 }
 
