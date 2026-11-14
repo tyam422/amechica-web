@@ -664,3 +664,50 @@ main {
   display: block;
   overflow-x: auto;
 }
+
+/* ホーム: section cards */
+.home-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  gap: 1rem;
+  margin: 0 0 2.4rem;
+}
+
+.home-cards--single {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.home-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  padding: 1.3rem 1.4rem;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--accent);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.home-card:hover {
+  background: var(--accent-soft);
+  color: var(--ink);
+}
+
+.home-card__title {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.home-card__desc {
+  color: var(--ink-soft);
+}
+
+.home-card__more {
+  margin-top: 0.4rem;
+  font-size: 0.9rem;
+  color: var(--accent);
+}

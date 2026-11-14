@@ -1,0 +1,65 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import {
+  GROUPS,
+  groupPath,
+  isPublished,
+  topicPath,
+  topicsInGroup,
+} from "../../lib/groups";
+
+const allTopics = (await getCollection("topics")).filter((topic) => isPublished(topic));
+---
+
+<BaseLayout
+  title="渡米ガイド — amechica"
+  description="会社の転勤などで初めて米国に来る日本人向けに、渡米前の準備から到着後の手続き、医療、車、住まい、子どもの学校、税金までを、シカゴ郊外を例に日本語でまとめた案内です。"
+  current="guide"
+>
+  <nav class="crumb" aria-label="パンくずリスト">
+    <ol>
+      <li><a href="/">ホーム</a></li>
+      <li aria-current="page">渡米ガイド</li>
+    </ol>
+  </nav>
+  <section class="hero">
+    <p class="hero__kicker">渡米ガイド</p>
+    <h1>引っ越し前後の手続きと生活情報</h1>
+    <p class="lead">
+      会社の転勤などで初めて米国に来る日本人向けに、渡米前の準備から、到着後の手続き、医療、車、住まい、子どもの学校、税金までを、テーマごとにまとめています。
+    </p>
+    <p>
+      店や役場、学区など場所が絡む話はシカゴ郊外（イリノイ州）の例を出しますが、仕組みの多くは米国全般に通じます。各トピックには、YouTube の解説動画への案内があります。
+    </p>
+  </section>
+
+  {
+    GROUPS.map((group) => {
+      const topics = topicsInGroup(allTopics, group.name);
+      if (topics.length === 0) return null;
+      return (
+        <section class="group-block" id={group.slug} aria-labelledby={`group-${group.slug}`}>
+          <div class="group-block__head">
+            <h2 id={`group-${group.slug}`}>{group.name}</h2>
+            <a class="group-block__more" href={groupPath(group.slug)}>
+              このグループを見る
+            </a>
+            <p>{group.description}</p>
+          </div>
+          <ul class="topic-list">
+            {topics.map((topic) => (
+              <li>
+                <a href={topicPath(topic.id)}>
+                  <span class="topic-list__title">{topic.data.title}</span>
+                  <span class="topic-list__desc">{topic.data.description}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      );
+    })
+  }
+
+</BaseLayout>

@@ -23,18 +23,19 @@ const cities = uniqueValues(places, "city");
 ---
 
 <BaseLayout
-  title="紹介 — amechica"
-  description="シカゴ郊外の店・レストラン・お出かけ先を、1か所ずつ事実ベースで紹介します。"
+  title="お店・スポット — amechica"
+  description="シカゴ郊外のお店・レストラン・お出かけ先の基本情報を、1か所ずつまとめています。"
+  current="places"
 >
   <nav class="crumb" aria-label="パンくずリスト">
     <ol>
       <li><a href="/">ホーム</a></li>
-      <li aria-current="page">紹介</li>
+      <li aria-current="page">お店・スポット</li>
     </ol>
   </nav>
   <header class="group-block__head" style="margin-bottom: 1.2rem;">
-    <h1>紹介</h1>
-    <p>シカゴ郊外の店・レストラン・お出かけ先を、1か所ずつ紹介します。</p>
+    <h1>お店・スポット</h1>
+    <p>シカゴ郊外のお店・レストラン・お出かけ先の基本情報を、1か所ずつまとめています。</p>
   </header>
 
   <form class="place-filter" aria-label="絞り込み" onsubmit="return false">

@@ -28,7 +28,7 @@ const topics = defineCollection({
   }),
 });
 
-// 紹介（places）: one store / restaurant / outing per page. Facts only.
+// お店・スポット（places）: one store / restaurant / outing per page. Facts only.
 // draft: true entries are shown only in `npm run dev`, never in the production build.
 const places = defineCollection({
   loader: glob({ base: "./src/content/places", pattern: "**/*.md" }),

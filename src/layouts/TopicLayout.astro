@@ -21,11 +21,12 @@ if (!group) {
 const title = `${topic.data.title} — amechica`;
 ---
 
-<BaseLayout title={title} description={topic.data.description} ogType="article">
+<BaseLayout title={title} description={topic.data.description} ogType="article" current="guide">
   <article class="article">
     <nav class="crumb" aria-label="パンくずリスト">
       <ol>
         <li><a href="/">ホーム</a></li>
+        <li><a href="/guide/">渡米ガイド</a></li>
         <li><a href={groupPath(group.slug)}>{group.name}</a></li>
         <li aria-current="page">{topic.data.title}</li>
       </ol>
