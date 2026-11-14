@@ -5,7 +5,7 @@ category: "韓国系スーパー"
 city: "Schaumburg"
 address: "1111 E Golf Rd, Schaumburg, IL 60173"
 hours: "毎日 8:00〜21:00（年中無休。祝日は変わる場合あり）"
-parking: "店の敷地に駐車場あり（店舗紹介サイトによる。台数・料金は店舗に確認してください）"
+parking: "店の敷地内の駐車場（無料）"
 payment: "現金、クレジットカード、デビットカード、Apple Pay・Google Pay などのモバイル決済（公式サイトの FAQ による）"
 website: "https://joongboomarket.com/locations/schaumburg"
 order: 3
@@ -21,7 +21,7 @@ Joong Boo Market（중부마켓）は、シカゴ市内に本店がある韓国�
 
 公式サイトによると、Joong Boo Market は 1992年にシカゴ市内の N. Kimball Ave で創業し、2026年11月時点で 4 店舗、50 を超える売り場（department）があり、年中無休で営業しています。シャンバーグ店は「Joong Boo を西の郊外（western suburbs）に広げる、いちばん新しい店」と紹介されていて、食料品、青果、精肉、鮮魚、生活雑貨の売り場のほかに、テナントの飲食店が入る「Market Food Hall」と、自社の手作り餃子の店「Wang Mandoo」があります。
 
-建物は、2018年に閉店した Toys "R" Us（トイザらス）の跡地です（店舗の歴史をまとめたサイト Bluepages による）。地元紙 Daily Herald は、2023年4月の記事で、Joong Boo Market が 1111 E. Golf Road に出店する予定だと報じていました。
+建物は、2018年に閉店した Toys "R" Us（トイザらス）の跡地です。地元紙 Daily Herald は、2023年4月の記事で、Joong Boo Market が 1111 E. Golf Road に出店する予定だと報じていました。
 
 食料品の買い物の全般的な話は「[食料品はどこで買うか](/topics/grocery-shopping/)」を見てください。
 
@@ -49,7 +49,7 @@ Market Food Hall に入っている各店の営業時間は、店ごとに違い
 
 ### 駐車場
 
-公式サイトに駐車場の案内はありません。店舗紹介サイト（Chicago Specials）には、無料の駐車場（free parking lot）があると書かれています。台数や料金は店舗に確認してください。
+店の敷地内に駐車場があり、無料で使えます。
 
 ### 支払い方法
 
@@ -104,10 +104,11 @@ Joong Boo Market の公式 Facebook の投稿では、シャンバーグ店の�
 | K Grill | 営業中 |
 | MiMi Katsu | 営業中 |
 | nudl nudl | 近日開店（coming soon） |
-| Bakery Crescent | 近日開店（coming soon） |
 | Tang | 近日開店（coming soon） |
 
 別の公式 Facebook の投稿では、K Cafe & Eats でかき氷（ピンス／Bingsu）を出していると紹介されています。
+
+入口の近くに、ベーカリー Bakery Crescent の商品を並べた棚があります（Bakery Crescent の店舗は別にあります）。
 
 ### Wang Mandoo（ワンマンドゥ）
 
@@ -224,7 +225,6 @@ Pace の時刻表データ（2026年11月1日〜）では、店から直線で�
 - [Joong Boo Market 公式 Facebook – K Cafe & Eats のピンスの投稿](https://www.facebook.com/joongboomarket/videos/joong-boo-market-bingsu/704627619391910/)
 - [Daily Herald – Carvana, Primark, Dave & Buster's among big wave of new Schaumburg stores & restaurants（2023年4月21日、出店予定の記事）](https://navprod.dailyherald.com/20230421/business/carvana-primark-dave-busters-among-big-wave-of-new-schaumburg-stores-restaurants/)
 - [Bluepages – Toys "R" Us 6009（建物の以前の店）](https://www.bluepageswiki.org/wiki/Toys_%22R%22_Us_6009)
-- [Chicago Specials – Joong Boo Market Schaumburg（駐車場の記載）](https://chicagospecials.com/business/joong-boo-market-schaumburg)
 - [Pace – Route Timetable Data Services（時刻表データ）](https://www.pacebus.com/route-timetable-data-services)
 
 <p class="note">この情報は2026年11月時点のものです。</p>

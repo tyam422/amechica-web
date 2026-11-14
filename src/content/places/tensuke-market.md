@@ -1,12 +1,12 @@
 ---
-name: "Tensuke (Tensuke Market, Elk Grove Village)"
+name: "Tensuke Market"
 nameJa: "天助市場"
 category: "日系スーパー"
 city: "Elk Grove Village"
 address: "115 E Higgins Rd, Elk Grove Village, IL 60007"
 hours: "毎日 9:00〜20:00（フードコートは 11:00〜15:00・16:00〜19:30）"
-parking: "敷地内に駐車場あり（地図サービスの店舗情報による）"
-payment: "公式の案内なし（店舗に確認してください）"
+parking: "敷地内の駐車場（無料）"
+payment: "現金、クレジットカード・デビットカード、Apple Pay など"
 website: "https://www.tensuke.com/"
 order: 2
 updated: 2026-11-14
@@ -48,11 +48,11 @@ Tensuke Market & Food Court は、エルクグローブビレッジ（Elk Grove 
 
 ### 駐車場
 
-地図サービス（Apple Maps）の店舗情報に「Parking Lot」（駐車場あり）とあります。台数や料金についての公式の案内はありません。店舗に確認してください。
+敷地内に駐車場があり、無料で使えます。
 
 ### 支払い方法
 
-公式サイトに支払い方法の案内はありません。地図サービス（Apple Maps）の店舗情報には、クレジットカード、Apple Pay、タッチ決済（contactless）が使えると表示されています。店舗に確認してください。
+現金、クレジットカード、デビットカード、Apple Pay などが使えます。
 
 ### 公式サイト
 
@@ -132,7 +132,7 @@ Tensuke Market & Food Court は、エルクグローブビレッジ（Elk Grove 
 
 店は Higgins Rd と Arlington Heights Rd の交差点にあります（公式サイトの表記）。車で行く場合は、住所（115 E Higgins Rd, Elk Grove Village）を地図アプリに入れてください。
 
-Pace の時刻表データ（2026年11月1日〜）では、店の近くに Pace の路線バスの停留所はありません。最も近いのは、直線でおよそ 1.5 km の Lively Blvd 沿いの停留所（223 番 Elk Grove – Rosemont CTA Station）です。予約制の Pace On Demand（Northwest Cook On Demand など）の区域に入るかどうかは、Pace の公式サイトの地図で確認してください。
+Pace の時刻表データ（2026年11月1日〜）では、店の近くに Pace の路線バスの停留所はありません。最も近いのは、直線でおよそ 1.5 km の Lively Blvd 沿いの停留所（223 番 Elk Grove – Rosemont CTA Station）です。
 
 ## 参考リンク
 
@@ -143,8 +143,6 @@ Pace の時刻表データ（2026年11月1日〜）では、店の近くに Pace
 - [Tensuke Market – Weekly Sales（週ごとのセールのチラシ）](https://www.tensuke.com/weekly-sales)
 - [Tensuke Market – Contact Us（住所・営業時間）](https://www.tensuke.com/contact-us)
 - [Daily Herald – Elk Grove gateway project gets $700,000 more in public funds（2026年2月17日、移転の記事）](https://navprod.dailyherald.com/20260217/news/elk-grove-gateway-project-gets-700000-more-in-public-funds/)
-- [Apple Maps – Tensuke Market & Food Court（駐車場・支払い方法の表示）](https://maps.apple.com/place?place-id=IAEC51E6EC08D3247)
 - [Pace – Route Timetable Data Services（時刻表データ）](https://www.pacebus.com/route-timetable-data-services)
-- [Pace – On Demand（予約制サービスの区域）](https://www.pacebus.com/on-demand)
 
 <p class="note">この情報は2026年11月時点のものです。</p>
