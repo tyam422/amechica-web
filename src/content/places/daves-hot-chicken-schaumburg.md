@@ -5,7 +5,7 @@ category: "レストラン"
 city: "Schaumburg"
 address: "1330 E Golf Rd, Unit A, Schaumburg, IL 60173"
 hours: "日〜木 10:30〜23:00、金・土 10:30〜24:00（公式サイト、2026年11月14日に確認）"
-parking: "公式サイトに駐車場の案内はありません"
+parking: "敷地内の駐車場（無料）"
 payment: "店のページでは Apple Pay、Google Pay。オンライン注文は American Express、Discover、Mastercard、Visa（公式サイト）"
 website: "https://restaurants.daveshotchicken.com/il/schaumburg/1330-e-golf-rd-unit-a-1471"
 order: 34
@@ -50,7 +50,7 @@ Dave's Hot Chicken は、ナッシュビル風のホットチキン（辛いフ�
 
 ### 駐車場
 
-公式サイトに駐車場の案内はありません（2026年11月14日）。
+敷地内の駐車場（無料）。
 
 ### 支払い方法
 

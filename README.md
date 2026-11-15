@@ -34,7 +34,7 @@ npm run preview
 - `src/content.config.ts` — collection schema
 - `src/lib/groups.ts` — group names, slugs, and short descriptions
 - `src/pages/` — routes (home, about, privacy, contact, 404, one page per group, one page per topic)
-- `public/robots.txt` and `public/favicon.svg`
+- `public/robots.txt`, `public/favicon-32.png`, `public/favicon-48.png`, `public/apple-touch-icon.png`, `public/icon-512.png` (logo icons)
 - `.env.example` — optional `PUBLIC_GA_ID` for Google Analytics 4; copy to `.env` locally and leave unset unless you have a measurement ID. Do not commit a real ID. The gtag snippet is rendered only when the variable is set.
 
 ## Add a topic
