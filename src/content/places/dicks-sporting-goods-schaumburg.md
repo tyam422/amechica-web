@@ -6,7 +6,7 @@ city: "Schaumburg"
 address: "601 N Martingale Road, Schaumburg, IL 60173"
 hours: "月〜土 9:00〜21:00、日 10:00〜19:00（公式サイト、2026年11月14日に確認）"
 parking: "公式サイトに駐車場の案内はありません"
-payment: "オンラインは Visa・Mastercard・American Express・Discover、ギフトカード、PayPal（公式サイト）。店では Apple Pay・Google Pay で Afterpay が使えます"
+payment: "店で使える支払い方法の公式の一覧はありません。オンラインは Visa・Mastercard・American Express・Discover、ギフトカード、PayPal（公式サイト）"
 website: "https://stores.dickssportinggoods.com/il/schaumburg/1660/"
 order: 36
 updated: 2026-11-14
@@ -14,7 +14,7 @@ draft: false
 ---
 
 <!-- 事実のみを書く（感想・評価・おすすめは書かない）。 -->
-<!-- 公式：stores.dickssportinggoods.com の店のページ（Store 1660。営業時間・休日の時間・イベントのデータ）を 2026-11-14 に curl で確認。www.dickssportinggoods.com は curl では 403 のため、Best Price Guarantee・Store Services・Payment Options・Afterpay のページは同じ日に WebFetch で確認。返品のページは読めなかったため、第三者のサイト（2026年10月20日に確認したもの）を書いた。ScoreCard+ は会社のプレスリリース（2026年7月1日）。 -->
+<!-- 公式：stores.dickssportinggoods.com の店のページ（Store 1660。営業時間・休日の時間・イベントのデータ）を 2026-11-14 に curl で確認。www.dickssportinggoods.com は curl では 403 のため、Best Price Guarantee・Store Services・Payment Options・Afterpay のページは同じ日に WebFetch で確認。返品（/s/return-policy）・店 1660 の予約のページ（/s/scheduling/s/1660）・ScoreCard（/ScoreCard）は、2026-11-14 にブラウザーで確認した。 -->
 
 ## 概要
 
@@ -77,9 +77,10 @@ DICK'S Sporting Goods は、スポーツ用品、スポーツウェア、靴、�
 
 ### 支払い方法
 
-- 公式の「Payment Options」のページ（2026年11月14日に確認）は、オンラインの支払いについてのページです。Visa、Mastercard、American Express、Discover、DICK'S Sporting Goods Mastercard、ギフトカード、PayPal が書かれています。アメリカの外で発行されたクレジットカードは、オンラインでは使えません。
+- 店で使える支払い方法の一覧は、公式サイトにありません（2026年11月14日）。
+- 公式の返品のページの返金のきまりには、現金、クレジットカード、デビットカード、DICK'S のギフトカード、DICK'S 以外のギフトカード、Affirm、AfterPay、Klarna、PayPal が出てきます。
+- 公式の「Payment Options」のページは、オンラインの支払いについてのページです。Visa、Mastercard、American Express、Discover、DICK'S Sporting Goods Mastercard、ギフトカード、PayPal が書かれています。アメリカの外で発行されたクレジットカードは、オンラインでは使えません。
 - 公式の Afterpay のページには、店では Afterpay Card をスマホのウォレットに入れて、Apple Pay か Google Pay で払うと書かれています。
-- 店で使える支払い方法の一覧は、公式サイトに見つかりませんでした（2026年11月14日）。
 
 ### 公式サイト
 
@@ -100,7 +101,7 @@ DICK'S Sporting Goods は、スポーツ用品、スポーツウェア、靴、�
 
 ### 店の中の体験
 
-公式サイトの店のページによります。予約は公式サイトの「Schedule Now」から行います。値段は店のページには書かれていません。
+公式サイトの店のページによる内容です。
 
 | 名前 | 内容 |
 | --- | --- |
@@ -108,6 +109,47 @@ DICK'S Sporting Goods は、スポーツ用品、スポーツウェア、靴、�
 | The Cage | HitTrax のバッティングケージ。野球、ソフトボール、ラクロス、サッカーから選べます。道具の試し打ちもできます |
 | ゴルフシミュレーター | TrackMan のシミュレーターのレンタル |
 | ゴルフレッスン | PGA・LPGA のプロなどによるレッスン。18 歳以下のジュニアのレッスンもあります |
+
+### 体験・サービスの値段（店 1660 の予約のページ）
+
+公式の予約のページ（2026年11月14日に確認）によります。ScoreCard+ の値段は、ScoreCard+ の会員の値段です。
+
+| 体験・サービス | 時間 | 値段 | ScoreCard+ |
+| --- | --- | --- | --- |
+| クライミングウォール | 15 分 | $10 | $8 |
+| クライミングウォール | 30 分 | $18 | $14 |
+| クライミングウォール 30 日パス | 30 日 | $60 | $48 |
+| HitTrax のケージ | 15 分 | $15 | $12 |
+| HitTrax のケージ | 30 分 | $25 | $20 |
+| HitTrax のケージ | 60 分 | $40 | $32 |
+| ゴルフシミュレーターのレンタル | 30 分 | $25 | $20 |
+| ゴルフシミュレーターのレンタル | 60 分 | $40 | $32 |
+| Youth on Course のシミュレーターのレンタル | 1 時間 | $5 | $4 |
+| ゴルフレッスン | 30 分 | $50 | $40 |
+| ゴルフクラブのフィッティング | 30 分 | $25 | $20 |
+| ゴルフクラブのフィッティング（Precision） | 60 分 | $50 | $40 |
+| バットのフィッティング | 30 分 | $20 | $16 |
+| バットのフィッティング（Precision） | 45 分 | $45 | $36 |
+
+- Youth on Course のレンタルは、前もって予約が必要で、ほかの人と一緒になることがあります。16 歳未満の会員には、親か保護者が付き添う必要があります。
+- バットのフィッティングの料金は先に払います。フィッティングで決めたバットを買うと、その料金は値段から引かれます。
+- 予約のページには、同意書（waiver）やクライミングの年齢のきまりは書かれていませんでした。
+
+### 誕生日パーティー
+
+公式の予約のページ（2026年11月14日に確認）によります。
+
+| 項目 | 内容 |
+| --- | --- |
+| 時間 | 2 時間 |
+| 値段 | $325（ScoreCard+ は $260） |
+| 内容 | HitTrax のケージ、クライミングウォール、ゴルフシミュレーターの 3 つのゾーン。または 2 つのゾーン＋Pack Wars（追加料金） |
+| 年齢 | 6 歳から |
+| 人数 | 20 人まで |
+| ついているもの | ホスト（担当のスタッフ）、おみやげ |
+| 食べ物 | 店からは出ません。持ち込みができます |
+| 問い合わせ | 予約のページの問い合わせ、または ExperienceSCH@dcsg.com |
+| キャンセル | 24 時間より前なら全額返金、24 時間を切ると返金なし |
 
 ### ゴルフのフィッティング・修理
 
@@ -143,15 +185,27 @@ DICK'S Sporting Goods は、スポーツ用品、スポーツウェア、靴、�
 
 ### ScoreCard（ポイントの会員）
 
+公式の ScoreCard のページ（2026年11月14日に確認）によります。
+
 | 会員 | 年会費 | 主な内容 |
 | --- | --- | --- |
-| ScoreCard | 無料 | $1 で 1 ポイント。300 ポイントで $10 の Reward。$49 以上で送料無料 |
-| ScoreCard Gold | 無料（1 年に $500 以上買うか、DICK'S のクレジットカードを使う） | 1 年に 1 回 $10 の Reward、1 回だけポイント 3 倍、専用の問い合わせ窓口 |
-| ScoreCard+ | 1 年 $99 | 1 年に $100 分の Reward（3 か月ごとに $25）、送料無料、店のサービス・体験が 20% 引き、1 年に 1 回サービス・体験が無料（$100 まで）、1 回だけポイント 3 倍 |
+| ScoreCard | 無料 | $1 で 1 ポイント。300 ポイントで $10 の Reward、そのあとは $5 ずつ。$49 以上で通常の配送が無料 |
+| ScoreCard Gold | 無料（DICK'S のクレジットカードを持っているか、1 年に $500 以上買う） | $10 のボーナス Reward、2 回目のポイント 3 倍 |
+| ScoreCard+ | 1 年 $99 | 下の表 |
 
-- 出典：ScoreCard の規約（公式サイト）、Store Services のページ（ScoreCard+ の $99・20% 引き・1 回無料）、DICK'S のプレスリリース（2026年7月1日）。
-- 規約によると、Reward にならなかったポイントは、もらってから 1 年で消えます。300 ポイントのあとは、$5 ずつ Reward になります。
-- プレスリリースによると、グローブのスチーム、ガットの張り替え、自転車の修理、ケージ、クライミングウォール、ゴルフシミュレーターなどのサービス・体験でも、ポイントをためたり Reward を使ったりできます。
+ScoreCard+ の内容です。年会費は自動で更新され、返金はありません。クレジットカードかデビットカードで払います。
+
+| 内容 | くわしく |
+| --- | --- |
+| ボーナス Reward | 1 年に $100（3 か月ごとに $25。90 日で期限が切れます） |
+| ポイント 3 倍 | 1 年に 1 回 |
+| 店のサービス・体験 | いつも 20% 引き。1 年に 1 回、1 つ無料（$100 まで） |
+| 配送 | 金額に関係なく無料 |
+| 返品 | レシートなしで返品できます |
+| 問い合わせ | 専用の窓口 |
+| 期間限定 | DICK'S のブランドで使える $100 分（$20 × 5。2026年12月31日まで） |
+
+- ScoreCard の規約によると、Reward にならなかったポイントは、もらってから 1 年で消えます。
 
 ### 値段合わせ（Best Price Guarantee）
 
@@ -164,27 +218,33 @@ DICK'S Sporting Goods は、スポーツ用品、スポーツウェア、靴、�
 
 ## 返品
 
-公式の返品のページは、2026年11月14日にこちらから読めませんでした。次は第三者のサイト（Receipt Reaper、2026年10月20日に確認したもの）の情報です。
+公式の返品のページ（2026年11月14日に確認）によります。年末の返品の延長は書かれていません。
 
-| 商品 | 返品の期間 |
+| 商品 | 返品の期間・きまり |
 | --- | --- |
 | ほとんどの商品 | 90 日（店で買ったものは買った日から、オンラインは発送の日から） |
 | 開けた Hyperice・Theragun | 30 日 |
-| 中古・デモ・整備品、Nike Adapt の靴 | 7 日（交換のみ） |
-| 自転車（使っていないもの。サイズ・色の確認のみ） | 24 時間 |
+| No Sweat Protection Plan | 30 日 |
+| 中古・デモ・整備品、Nike Adapt | 7 日以内に、同じ状態で交換のみ |
+| 自転車 | ふつうは返品できません。サイズ・色の確認のための 24 時間の猶予があります（使ったもの、タグを外したものは不可） |
+| 使ったバット | 返品できません（使っていない、元の包装のものだけ） |
 
-- 同じサイトによると、年末の返品の延長は公式の返品のページに書かれていません。商品は（靴も）きれいで、また売れる状態である必要があります。
-- 返金は、ほとんどの場合、払った方法に戻ります。DICK'S 以外のギフトカード、Affirm、Afterpay、Klarna、PayPal、または 2 つ以上の方法で払った場合は、DICK'S のギフトカードになります。
-- ギフトレシートでの返品は、ギフトカードか同じ値段の交換になります。オンラインの最初の送料は返金されません。
+- 購入の証明：注文番号、注文の確認メール、レシート、パックスリップ、返品のバーコード。または ScoreCard の会員か、買ったときのクレジットカード。
+- レシートがない場合：一番安かった売り値で、店のクレジットになります。身分証明書（アメリカかカナダの運転免許証、アメリカの州の ID、アメリカの軍の ID、アメリカのパスポート）が必要です。レシートの控えは、カスタマーサービス（1-877-846-9997）かチャットで頼めます。
+- 返金：現金、クレジットカード、デビットカード、DICK'S のギフトカードで払った場合は、払った方法に戻ります。DICK'S 以外のギフトカード、Affirm、AfterPay、Klarna、PayPal、交換、2 つ以上の方法で払った場合は、DICK'S のギフトカードになります。ギフトレシートは、ギフトカードか同じ値段の交換です。オンラインの送料は返金されません。
+- 返金までの日数：店では最大 14 営業日、郵送では届いてから 2〜3 週間。
+- 開けた・試した商品も、きれいでよい状態なら受け付けることがあります。電子機器は、元の箱と付属品が必要です。Rapsodo は店でだけ返品できます。
+- 開けると返品できないもの：アメフトのヘルメット、エアベッド、電動スクーター・電動自転車、フェイスカバー、マウスガード、アイスリンク、ポータブルトイレ、Whoop。
+- 返品できないもの（Final Sale）：トレーディングカード、注文で作ったもの・名入れ・取り寄せ、サイン入りのコレクション、中身がわからない商品（ブラインドボックスなど）、Final Sale と書かれた商品、燃料を使う商品、ギフトカード。
 
 ## イベント・季節のセール
 
-公式サイトの店のページのイベントのデータ（2026年11月14日に確認）によります。
+公式サイトの店のページのイベントのデータと、店 1660 の予約のページ（2026年11月14日に確認）によります。
 
 | イベント | 日にち | 値段 | 内容 |
 | --- | --- | --- | --- |
-| DICK'S House of Sport Turkey Trot | 2026年11月21日（土） | $0.00 | 店で行う 5K のラン・ウォーク。参加した人に $50 以上で $10 引きのクーポン。Nike のシューズの試し履き |
-| 40 Free Golf Lessons | 2026年9月5日〜12月31日 | $0.00 | 40 店目の House of Sport のオープンを記念した、店の PGA プロによる 30 分の無料レッスン（40 人分） |
+| DICK'S House of Sport Turkey Trot | 2026年11月21日（土） | 無料 | 店で行う 5K のラン・ウォーク。すべての年齢。参加した人に $50 以上で $10 引きのクーポン。Nike のシューズの試し履き |
+| 40 Free Golf Lessons | 2026年9月5日〜12月31日 | $0 | 40 店目の House of Sport のオープンを記念した、店の PGA プロによる 30 分の無料レッスン（40 人分） |
 
 - 店のページには、Black Friday、Cyber Week、年末のセール（2026 Holiday Deals）のリンクがあります。
 
@@ -216,8 +276,8 @@ Pace の時刻表のデータ（2026年11月1日〜12月19日）による、店�
 - [DICK'S – Afterpay Details](https://www.dickssportinggoods.com/s/faq/afterpay-details)
 - [DICK'S – ScoreCard Terms and Conditions](https://www.dickssportinggoods.com/s/scorecard/scorecard-terms-and-conditions)
 - [DICK'S – Return Policy](https://www.dickssportinggoods.com/s/return-policy)
-- [DICK'S のプレスリリース – ScoreCard+（PR Newswire、2026年7月1日）](https://www.prnewswire.com/news-releases/dicks-sporting-goods-is-enhancing-its-scorecard-loyalty-program-and-launching-scorecard-providing-athletes-with-new-ways-to-earn-rewards-302815263.html)
-- [第三者：Receipt Reaper – Dick's Sporting Goods return policy（2026年10月20日に確認したもの）](https://receiptreaper.com/dicks-return-policy/)
+- [DICK'S – 店 1660 の予約のページ（体験・サービス・誕生日パーティーの値段）](https://www.dickssportinggoods.com/s/scheduling/s/1660)
+- [DICK'S – ScoreCard](https://www.dickssportinggoods.com/ScoreCard)
 - [Village of Schaumburg – Woodfield Trolley](https://www.villageofschaumburg.com/government/transportation/woodfield-trolley)
 - [Pace – 時刻表データ](https://www.pacebus.com/route-timetable-data-services)
 - [OpenStreetMap（OSRM）のルート検索](https://map.project-osrm.org/)
