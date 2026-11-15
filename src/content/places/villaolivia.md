@@ -5,7 +5,7 @@ category: "季節のお出かけ"
 city: "Bartlett"
 address: "1401 W Lake St, Bartlett, IL 60103"
 hours: "冬のスポーツは 2026年12月18日〜2027年2月28日（天気による）。木 17:00〜21:00、金 17:00〜22:00、土 9:00〜22:00、日 9:00〜20:00。冬休み・休日は別の時間（Bartlett Park District の Winter 2027 Program Guide）"
-parking: "公式サイトで確認できませんでした（第三者の情報では無料）"
+parking: "敷地内の駐車場（無料）"
 payment: "公式サイトで確認できませんでした（店舗に確認してください）"
 website: "https://bartlettparks.org/villa-olivia/winter-sports/"
 order: 27
@@ -62,10 +62,7 @@ VillaOlivia（Villa Olivia）は、Bartlett にある Bartlett Park District（�
 
 ### 駐車場
 
-公式サイトで駐車場の情報は見つかりませんでした。
-
-- 第三者の情報（skiresort.it、2026年11月14日に確認）：無料の舗装された駐車場がある。
-- 工事会社 Featherstone の実績のページ（第三者の情報）：2012年の改修で 380 台の駐車場を作った。
+敷地内の駐車場（無料）。
 
 ### 支払い方法
 
@@ -242,8 +239,6 @@ Pace の時刻表のデータ（GTFS、2026年8月からのもの）によると
 - [Villa Olivia – Frequently Asked Questions（PDF、2025-26 シーズン）](https://bartlettparks.org/wp-content/uploads/2025/12/VO-Frequently-Asked-Questions-2025-26.pdf)
 - [FareHarbor – Villa Olivia の予約](https://fareharbor.com/embeds/book/villaolivia/items/758774/?full-items=yes&flow=1703207)
 - [Statusfy – Villa Olivia Winter Sports](https://statusfy.com/3315002060)
-- [skiresort.it – Villa Olivia（第三者の情報、2026年11月14日に確認）](https://www.skiresort.it/comprensorio-sciistico/villa-olivia-bartlett/alloggi-ski-in-ski-out/e4150/)
-- [Featherstone – Villa Olivia の改修（第三者の情報）](https://www.featherstoneinc.com/projects/bartlett-park-district-villaolivia/)
 - [Pace – Route Timetable Data Services（時刻表データ）](https://www.pacebus.com/route-timetable-data-services)
 
 <p class="note">この情報は2026年11月時点のものです。</p>

@@ -5,7 +5,7 @@ category: "スーパー"
 city: "Schaumburg"
 address: "2501 W Schaumburg Rd, Schaumburg, IL 60194"
 hours: "毎日 6:00〜24:00（公式サイトの店舗ページ、2026年11月）。薬局は 月〜金 8:00〜22:00、土・日 9:00〜17:00。感謝祭・クリスマスなどは時間が変わります"
-parking: "公式サイトで確認できませんでした（店舗に確認してください）"
+parking: "敷地内の駐車場（無料）"
 payment: "現金、Visa・Mastercard・American Express・Discover、デビットカード、Apple Pay、PayPal、EBT（SNAP）、WIC、個人の小切手など（公式サイト）"
 website: "https://local.jewelosco.com/il/schaumburg/2501-schaumburg-rd.html"
 order: 23
@@ -57,7 +57,7 @@ Jewel-Osco は、シカゴ周辺に多い大手のスーパーのチェーンで
 
 ### 駐車場
 
-公式サイトで確認できませんでした。店舗に確認してください。
+敷地内の駐車場（無料）。
 
 ### 支払い方法
 

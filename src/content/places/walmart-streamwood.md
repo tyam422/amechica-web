@@ -5,7 +5,7 @@ category: "ディスカウントストア"
 city: "Streamwood"
 address: "850 S Barrington Rd, Streamwood, IL 60107"
 hours: "毎日 6:00〜23:00（公式サイトの店舗ページ、2026年11月）。感謝祭（11月26日）とクリスマス（12月25日）は休み"
-parking: "公式サイトで確認できませんでした（店舗に確認してください）"
+parking: "敷地内の駐車場（無料）"
 payment: "現金、クレジットカード、小切手、Walmart Pay（アプリ）、SNAP EBT など（公式サイト）。タッチ決済（Apple Pay など）は 2026年末までに全店に広げる予定"
 website: "https://www.walmart.com/store/1420-streamwood-il"
 order: 24
@@ -70,7 +70,7 @@ Walmart Supercenter は、食品、日用品、服、家電、おもちゃ、薬
 
 ### 駐車場
 
-公式サイトで確認できませんでした。店舗に確認してください。
+敷地内の駐車場（無料）。
 
 ### 支払い方法
 

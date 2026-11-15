@@ -5,7 +5,7 @@ category: "ディスカウントストア"
 city: "Schaumburg"
 address: "2621 W Schaumburg Rd, Schaumburg, IL 60194"
 hours: "毎日 7:00〜22:00（公式サイトの店舗ページ、2026年11月）。感謝祭は休み、11月29日〜12月23日は時間が変わる場合があります"
-parking: "Drive Up 専用の駐車スペースがあります（公式サイト）。一般の駐車場の台数・料金は公式サイトで確認できませんでした（店舗に確認してください）"
+parking: "敷地内の駐車場（無料）。Drive Up 専用の駐車スペースもあります（公式サイト）"
 payment: "現金、Visa・Mastercard・American Express・Discover・JCB、デビットカード、Apple Pay・Google Pay などのスマホ決済、EBT（SNAP）、WIC など（公式サイト）。小切手は使えません"
 website: "https://www.target.com/sl/west-schaumburg/835"
 order: 22
@@ -64,7 +64,9 @@ Target の会社のサイトの「2026 Holiday Shopping at Target」（2026年11
 
 ### 駐車場
 
-公式サイトによると、Drive Up（下の「受け取り・配達」）を使うときは、店の Drive Up 専用の駐車スペースに停めます。一般の駐車場の台数・料金について、公式の記載は見つかりませんでした（店舗に確認してください）。
+敷地内の駐車場（無料）。
+
+公式サイトによると、Drive Up（下の「受け取り・配達」）を使うときは、店の Drive Up 専用の駐車スペースに停めます。
 
 ### 支払い方法
 
