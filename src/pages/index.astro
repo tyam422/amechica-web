@@ -24,6 +24,12 @@ const places = PLACES_ENABLED
       )
       .slice(0, 6)
   : [];
+
+// 最近の更新: topics and places merged, newest `updated` first.
+const updates = [
+  ...topics.map((topic) => ({ kind: "topic" as const, topic, date: topic.data.updated })),
+  ...places.map((place) => ({ kind: "place" as const, place, date: place.data.updated })),
+].sort((a, b) => b.date.getTime() - a.date.getTime());
 ---
 
 <BaseLayout
@@ -64,7 +70,9 @@ const places = PLACES_ENABLED
       <h2 id="recent-updates">最近の更新</h2>
     </div>
     <ul class="topic-list">
-      {topics.map((topic) => (
+      {updates.map((u) =>
+        u.kind === "topic" ? (
+          (() => { const topic = u.topic; return (
         <li>
           <a href={topicPath(topic.id)}>
             <span class="topic-list__title">{topic.data.title}</span>
@@ -73,8 +81,9 @@ const places = PLACES_ENABLED
             </span>
           </a>
         </li>
-      ))}
-      {places.map((place) => (
+          ); })()
+        ) : (
+          (() => { const place = u.place; return (
         <li>
           <a href={placePath(place.id)}>
             <span class="topic-list__title">
@@ -85,7 +94,9 @@ const places = PLACES_ENABLED
             </span>
           </a>
         </li>
-      ))}
+          ); })()
+        ),
+      )}
     </ul>
   </section>
 </BaseLayout>
