@@ -5,7 +5,7 @@ category: "スポーツ用品"
 city: "Schaumburg"
 address: "601 N Martingale Road, Schaumburg, IL 60173"
 hours: "月〜土 9:00〜21:00、日 10:00〜19:00（公式サイト、2026年11月14日に確認）"
-parking: "公式サイトに駐車場の案内はありません"
+parking: "敷地内の駐車場（無料）"
 payment: "店で使える支払い方法の公式の一覧はありません。オンラインは Visa・Mastercard・American Express・Discover、ギフトカード、PayPal（公式サイト）"
 website: "https://stores.dickssportinggoods.com/il/schaumburg/1660/"
 order: 36
@@ -73,7 +73,7 @@ DICK'S Sporting Goods は、スポーツ用品、スポーツウェア、靴、�
 
 ### 駐車場
 
-公式サイトに駐車場の案内はありません（2026年11月14日）。
+敷地内の駐車場（無料）。
 
 ### 支払い方法
 

@@ -5,7 +5,7 @@ category: "家電・PC"
 city: "Schaumburg"
 address: "900 E Golf Rd, Schaumburg, IL 60173"
 hours: "月〜木 10:00〜21:00、金・土 9:00〜21:00、日 10:00〜20:00（公式サイト、2026年11月14日に確認）"
-parking: "公式サイトに駐車場の案内はありません"
+parking: "敷地内の駐車場（無料）"
 payment: "Visa・Mastercard・American Express・Discover・Diners Club・JCB、Apple Pay、PayPal、現金、小切手など（公式のヘルプページ）"
 website: "https://stores.bestbuy.com/il/schaumburg/900-e-golf-rd-305.html"
 order: 35
@@ -50,7 +50,7 @@ Best Buy は、テレビ、パソコン、スマホ、ゲーム、家電など�
 
 ### 駐車場
 
-公式サイトに駐車場の案内はありません（2026年11月14日）。
+敷地内の駐車場（無料）。
 
 ### 支払い方法
 
