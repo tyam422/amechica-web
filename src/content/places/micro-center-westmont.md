@@ -14,11 +14,13 @@ draft: true
 ---
 
 <!-- 事実のみを書く（感想・評価・おすすめは書かない）。 -->
-<!-- microcenter.com は curl では Cloudflare の確認画面（403）。店舗ページ・PriorityCare+ のページは 2026-11-14 に WebFetch で確認。返品・値段合わせ・支払い・会員価格・営業時間などは公式のヘルプセンター（microcenter.zendesk.com）の記事を同じ日に公開の API で確認（記事ごとの更新日を書いています）。組み立てサービスの値段は検索結果に表示された公式ページの内容。 -->
+<!-- microcenter.com は curl では Cloudflare の確認画面（403）。店舗ページ・PriorityCare+ のページは 2026-11-14 に WebFetch で確認。返品・値段合わせ・支払い・会員価格・営業時間などは公式のヘルプセンター（microcenter.zendesk.com）の記事を同じ日に公開の API で確認（記事ごとの更新日を書いています）。店舗ページ（Westmont を選んだ状態）・組み立てサービス・Build & Learn・Black Friday・PriorityCare+（Westmont を選んだ状態）のページは 2026-11-14 にボックスのブラウザでも確認（foldins/micro-center-browser-2026-11-14.md）。 -->
 
 ## 概要
 
 Micro Center は、パソコン・パソコンの部品・家電の専門店のチェーンです。Westmont の店は 1999年に開店しました。公式サイトの店舗ページによると、25,000 点以上の商品（ノートパソコン、デスクトップ、パソコンの部品、ネットワーク機器、3D プリンター、Apple の製品、ゲーム用のアクセサリーなど）があり、修理や PC の組み立てのサービスもしています。
+
+公式サイトの店舗ページには「Also Serving: Downers Grove, Lombard, Villa Park, Lisle, Darien」と書かれています。
 
 シカゴの近くには、Westmont のほかに Chicago（2645 N Elston Ave, Chicago, IL 60647）の店もあります（公式のヘルプセンターの店舗一覧、2026年11月13日更新）。
 
@@ -44,6 +46,8 @@ Micro Center は、パソコン・パソコンの部品・家電の専門店の�
 | 日 | 11:00〜18:00 |
 
 Knowledge Bar（修理・相談の窓口）も、店の時間と同じです。
+
+公式サイトの店舗ページの FAQ によると、天気が悪い日は時間が変わることがあります。休日の時間は別のページで案内されています。
 
 ### 休日の時間
 
@@ -73,7 +77,7 @@ Knowledge Bar（修理・相談の窓口）も、店の時間と同じです。
 
 | 支払い | 内容 |
 | --- | --- |
-| クレジット・デビットカード | Visa、Mastercard、Discover、Diners Club、デビットカード。写真つきの身分証明書を求められることがあります |
+| クレジット・デビットカード | Visa、Mastercard、Discover、American Express（店舗ページの FAQ）、Diners Club、デビットカード。写真つきの身分証明書を求められることがあります |
 | スマホ決済 | Apple Pay、Google Pay、Samsung Pay（すべての店） |
 | 現金 | 店で使えます |
 | 小切手 | 個人・会社の小切手（身分証明書が必要）。外国の口座の小切手は使えません |
@@ -83,7 +87,7 @@ Knowledge Bar（修理・相談の窓口）も、店の時間と同じです。
 | PayPal | 使えません（PayPal の Mastercard のカードを除く） |
 | 複数の支払い方法 | 店では分けて払えます（オンラインはできません） |
 
-公式サイトの店舗ページの FAQ には American Express も書かれていますが、ヘルプセンターの記事には American Express がありません。使えるかどうか店舗に確認してください。
+公式サイトの店舗ページの FAQ（2026年11月14日に確認）では、店で使えるカードは Visa、MasterCard、Discover、American Express です。
 
 ### 公式サイト
 
@@ -102,6 +106,19 @@ Knowledge Bar（修理・相談の窓口）も、店の時間と同じです。
 
 ## サービス
 
+公式サイトの店舗ページ（2026年11月14日に確認）に書かれている Westmont の店のサービス：
+
+| サービス | 内容 |
+| --- | --- |
+| Computer Repair | パソコンの修理 |
+| Virus Removal | ウイルスの除去 |
+| Data Recovery | データの復旧 |
+| Laptop Screen Replacement・Laptop Battery Replacement | ノートパソコンの画面・バッテリーの交換 |
+| Custom PC Building | PC の組み立て（店舗ページでは、ふつうその日か次の日に完成） |
+| Apple Repair | Apple の製品の修理 |
+| GPU Trade In Program | グラフィックカードの下取り |
+| Recycling Program | リサイクル |
+
 ### Knowledge Bar（修理・相談）
 
 公式のヘルプセンター（「Micro Center Service/Repair Information」2026年8月17日更新、「Do I need an appointment…」2026年11月5日更新）によります。
@@ -115,17 +132,29 @@ Knowledge Bar（修理・相談の窓口）も、店の時間と同じです。
 
 ### PC の組み立て（Custom PC Build）
 
-公式サイトの組み立てサービスのページ（検索結果に表示された内容、2026年11月14日）によります。部品の値段は別です。
+公式サイトの組み立てサービスのページ（2026年11月14日にブラウザで確認）によります。部品の値段は別です。
 
 | サービス | 値段 | 内容 |
 | --- | --- | --- |
 | Express Pro Build | $249.99 | 店で組み立て。閉店の 4 時間前までに頼むと、その日に受け取れます |
 | Soft Tube Pro Build | $399.99 | 水冷（やわらかいチューブ） |
 | Hard Tube Pro Build | $899.99 | 水冷（かたいチューブ）。ふつう 3〜5 日 |
-| Build and Learn | $349.99 | 技術者と一緒に自分で組み立てます（2〜3 時間）。先に無料の相談をして、日を決めます。ドライバー（iFixit）がもらえます |
+| Build and Learn | $349.99 | 技術者と一緒に自分で組み立てます（下の「Build & Learn」） |
 
 - 組み立てには、OCCT の安定性のテスト、BIOS・ドライバーの更新、ESET NOD32 Antivirus 1 年、90日の作業の保証が含まれます（ヘルプセンターの Custom Build Service FAQ、2026年8月19日更新）。
 - ほかの店で買った新しい部品でも組み立ててもらえます（店に持っていきます）。使った部品は「Rebuild」の扱いになります。
+
+#### Build & Learn
+
+公式サイトの PC Build & Learn Service のページ（2026年11月14日にブラウザで確認）によります。
+
+| 項目 | 内容 |
+| --- | --- |
+| 値段 | $349.99（部品は別） |
+| 内容 | 技術者と一緒に組み立てます。部品の相性の確認、CPU・メモリ・GPU・ストレージ・冷却・電源の取り付け、配線の整理、BIOS の更新、動作のテスト、Windows のセットアップ（買った場合）、ドライバーの更新 |
+| ついてくるもの | ESET NOD32 Antivirus 1 年、iFixit Narwhal 6-in-1 のドライバー（持ち帰り）、部品の箱 |
+| 保証 | 作業の保証 90 日 |
+| 時間 | 2〜3 時間（ヘルプセンターの Custom Build Service FAQ）。先に無料の相談をして、日を決めます |
 
 ### そのほかのサービス
 
@@ -148,7 +177,7 @@ Knowledge Bar（修理・相談の窓口）も、店の時間と同じです。
 | 申し込み | 店、または電話（1-800-207-3434） |
 | 返金 | 買ってから 30日以内で、特典を使っていなければ返金 |
 
-公式サイトのページには「PriorityCare+ is coming soon to your store」とも表示されていました（店を選ばずに見たため、Westmont で使えるかどうかは店舗に確認してください）。
+公式サイトのページを Westmont の店を選んで見ると、PriorityCare+ は店で申し込めます（「Purchase in-store」「Walk-ins are welcome」、2026年11月14日に確認）。
 
 ## 値段のきまり
 
@@ -223,9 +252,9 @@ Pace の時刻表のデータ（GTFS、2026年6月からのもの）によると
 
 - [Micro Center – Westmont](https://www.microcenter.com/site/stores/westmont.aspx)
 - [Micro Center – PriorityCare+](https://www.microcenter.com/site/service/priority-care.aspx)
-- [Micro Center – Custom Build PCs（検索結果に表示された内容）](https://www.microcenter.com/site/service/instore-service-complete-build.aspx)
-- [Micro Center – PC Build & Learn Service（検索結果に表示された内容）](https://www.microcenter.com/site/service/pc-build-and-learn-service.aspx)
-- [Micro Center – Black Friday 2026 Schedule（検索結果に表示された内容）](https://www.microcenter.com/site/mc-news/article/micro-center-black-friday-schedule.aspx)
+- [Micro Center – Custom Build PCs](https://www.microcenter.com/site/service/instore-service-complete-build.aspx)
+- [Micro Center – PC Build & Learn Service](https://www.microcenter.com/site/service/pc-build-and-learn-service.aspx)
+- [Micro Center – Black Friday 2026 Schedule](https://www.microcenter.com/site/mc-news/article/micro-center-black-friday-schedule.aspx)
 - [Micro Center ヘルプセンター – In-Store Hours](https://microcenter.zendesk.com/hc/en-us/articles/24427466400663-In-Store-Hours)
 - [Micro Center ヘルプセンター – Return Policy](https://microcenter.zendesk.com/hc/en-us/articles/24785269712023-What-is-the-return-policy)
 - [Micro Center ヘルプセンター – Holiday Extended Return Policy](https://microcenter.zendesk.com/hc/en-us/articles/360059340013-Holiday-Extended-Return-Policy)
