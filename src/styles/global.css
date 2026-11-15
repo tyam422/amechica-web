@@ -141,10 +141,22 @@ p {
 
 .wordmark {
   display: flex;
-  flex-direction: column;
+  align-items: center;
+  gap: 0.6rem;
   text-decoration: none;
   color: var(--ink);
   line-height: 1.25;
+}
+
+.wordmark picture {
+  display: block;
+  flex: none;
+}
+
+.wordmark__logo {
+  display: block;
+  height: 52px;
+  width: auto;
 }
 
 .wordmark:hover {
@@ -563,6 +575,14 @@ main {
 
   .site-header__inner {
     min-height: 3.6rem;
+  }
+
+  .wordmark__logo {
+    height: 44px;
+  }
+
+  .wordmark__tag {
+    display: none;
   }
 
   main {
