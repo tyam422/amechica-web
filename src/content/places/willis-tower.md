@@ -14,7 +14,7 @@ draft: true
 ---
 
 <!-- 事実のみを書く（感想・評価・おすすめは書かない）。 -->
-<!-- 公式：theskydeck.com の Tickets・Plan a Visit・Parking・Ways to Save・The Ledge・The Chicago Museum・Accessibility・Visitor Inside Tips・Printable Guide・Holidays @ Skydeck・Group FAQs・From the North/South/West/Southwest・Pie in the Sky・Golden Hour・Color Factory・Special Events・Photos・Contact を 2026-11-14 に curl で確認。tickets.theskydeck.com（購入画面）はスクリプトで動くため日ごとの値段は読めず。 -->
+<!-- 公式：theskydeck.com の Tickets・Plan a Visit・Parking・Ways to Save・The Ledge・The Chicago Museum・Accessibility・Visitor Inside Tips・Printable Guide・Holidays @ Skydeck・Group FAQs・From the North/South/West/Southwest・Pie in the Sky・Golden Hour・Color Factory・Special Events・Photos・Contact を 2026-11-14 に curl で確認。tickets.theskydeck.com（購入画面）と Terms は 2026-11-14 にボックスのブラウザで確認（foldins/skydeck-tickets-browser-2026-11-14.md）。 -->
 
 ## 概要
 
@@ -101,7 +101,22 @@ Willis Tower（以前の Sears Tower）は、シカゴのダウンタウン（Lo
 | Expedited Entry | General Admission の内容＋エレベーターまでの優先レーン、The Ledge の専用レーン | $55〜（3 歳以上） | $55〜（3 歳以上） | 無料 |
 | Chicago CityPASS | スカイデッキの Expedited Entry ＋ほかの 4 か所（9 日間） | $144（$287 相当） | $114（$239 相当） | — |
 
-- 公式サイトの Printable Guide では、子ども（3〜11 歳）が「$24 から」と書かれていて、Plan a Visit のページ（$22 から）と違います。
+- 上の「〜」の値段は、公式サイトの各ページに「Starting at（から）」と書かれている値段です。実際の値段は日によって違います（下の例）。
+
+### 値段の例（公式のチケットサイト、2026年11月14日に確認）
+
+公式のチケットサイト（tickets.theskydeck.com）で 2026年11月14日に見た値段の例です。値段は日によって違い、週末は高めでした。見た日の中では、時間による違いはありませんでした。
+
+| チケット | 2026年11月18日（水） | 2026年11月21日（土） |
+| --- | --- | --- |
+| General Admission 大人（12 歳以上） | $33.00 | $37.00 |
+| General Admission 子ども（3〜11 歳） | $25.00 | $28.00 |
+| General Admission 3 歳未満 | $0.00 | $0.00 |
+| Expedited Entry（全年齢） | $55.00 | $56.50 |
+
+- カレンダーに出ていた大人の一番安い値段は、日によって $32.00〜$48.50 でした（例：11月14日（土）$48.50、11月17日〜19日（火〜木）$33.00、11月24日〜26日（火〜木）$32.00、11月27日〜29日（金〜日）$36.00）。
+- オンラインで買うと、1 回の購入ごとに $5 の手数料（Service Fee、返金なし）がかかります。
+- チケットサイトで売っているのは General Admission、Expedited Entry、City Pass の 3 種類でした。
 - Expedited Entry は、エレベーターまで「たいてい 2〜4 回のエレベーターの待ち」と書かれています。Expedited Entry の販売は、時間によって止まることがあります（公式の Tickets のページ）。
 - 20 人以上の団体は割引があり、20 枚ごとに 1 枚無料です。団体の割引は、14 営業日前までの予約が必要です（公式の Group FAQs）。
 
@@ -127,10 +142,11 @@ Willis Tower（以前の Sears Tower）は、シカゴのダウンタウン（Lo
 ## 時間指定・予約
 
 - チケットは日と入場時間を選んで買います。時間は 30 分ごとの枠で、枠ごとに数が決まっていて、売り切れることがあります（公式サイト）。
+- 公式のチケットサイト（2026年11月14日に確認）では、枠は 9:00 から 30 分ごとで、最後の枠は 11月18日（水）が 19:00、11月21日（土）が 20:00 でした（Expedited Entry も同じ）。
 - 予約の時間の 15 分前に着くよう案内されています（公式の FAQ）。
 - 予約なしでも、空きがあれば入れます。
 - The Ledge にいられる時間は、公式サイトの Plan a Visit のページでは「混む日は、5 人以下のグループは 2 組で一緒に最大 90 秒、6 人以上は 1 組で最大 90 秒」です。Visitor Inside Tips と Printable Guide のページには「3 人以下は最大 60 秒、4 人以上は最大 90 秒」と書かれていました。
-- 返金・日時の変更のルールは、公式サイトのページに見つかりませんでした（2026年11月14日）。
+- 公式サイトの Terms（利用規約）の返金のルールには「All sales are final. No refunds.」（販売したチケットの返金はありません）と書かれています。日時の変更のルールは見つかりませんでした（2026年11月14日）。
 
 ## 食事
 
@@ -156,6 +172,7 @@ Willis Tower（以前の Sears Tower）は、シカゴのダウンタウン（Lo
 ## 持ち物・セキュリティ
 
 - 公式サイトによると、ロッカーはありません。三脚は使えません（一脚は使えます）。
+- 公式のチケットサイトによると、ベビーカーは無料で預けられます。預けないベビーカーは、大きさによって入場券が必要です。
 - 第三者の情報（Go City のページ、2026年11月14日に確認）では、入る人はみんなセキュリティの検査を受けます。リュックは持ち込めると書かれています。公式サイトで、検査やバッグの大きさの決まりは見つかりませんでした。
 
 ## 写真
@@ -224,6 +241,8 @@ Pace の時刻表のデータ（2026年11月1日〜12月19日）によると、P
 
 - [Skydeck Chicago](https://theskydeck.com/)
 - [Skydeck Chicago – Tickets](https://theskydeck.com/tickets-shop/)
+- [Skydeck Chicago – チケットサイト（General Admission）](https://tickets.theskydeck.com/ticketSale/details?child=WEB3PARENT&sellItemCode=W3TE100)
+- [Skydeck Chicago – Terms & Conditions](https://theskydeck.com/terms-conditions/)
 - [Skydeck Chicago – Plan a Visit](https://theskydeck.com/plan-a-visit/)
 - [Skydeck Chicago – Parking](https://theskydeck.com/parking/)
 - [Skydeck Chicago – Ways to Save](https://theskydeck.com/plan-a-visit/ways-to-save/)
