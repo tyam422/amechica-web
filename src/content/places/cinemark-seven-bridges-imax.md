@@ -20,7 +20,7 @@ draft: false
 
 Cinemark Seven Bridges and IMAX は、Woodridge の Seven Bridges の地区（Route 53 と Hobson Road の近く）にある映画館です。Cinemark（本社はテキサス州 Plano）が運営しています。公式サイトの劇場ページによると、IMAX の上映とゲームコーナー（Arcade）があります。
 
-IMAX 70mmフィルム上映に対応した数少ない映画館の一つです。Cinemark の公式サイトの 70mm のページでは、Cinemark の IMAX 70mm の劇場は Dallas（TX）、Rochester（NY）とこの劇場の 3 か所です。IMAX の公式サイトの「The Odyssey」（2026年）の IMAX 70mm の上映館の一覧では、アメリカで 25 館、イリノイ州ではこの劇場だけでした。
+IMAX 70mmフィルム上映に対応した数少ない映画館の一つです。IMAX の公式サイトの「The Odyssey」（2026年）の IMAX 70mm の上映館の一覧では、IMAX 70mm で上映できる映画館はアメリカで 25 館、イリノイ州ではこの劇場だけでした。そのうち Cinemark の劇場は、Cinemark の公式サイトの 70mm のページによると Dallas（TX）、Rochester（NY）とこの劇場の 3 館です。
 
 ## 基本情報
 
