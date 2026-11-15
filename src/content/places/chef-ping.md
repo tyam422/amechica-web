@@ -1,7 +1,7 @@
 ---
 name: "Chef Ping"
 nameJa: ""
-category: "中華料理"
+category: "レストラン"
 city: "Rolling Meadows"
 address: "1755 W Algonquin Rd, Rolling Meadows, IL 60008"
 hours: "火〜金 11:30〜14:30・16:00〜21:00／土 11:30〜15:00・16:00〜21:00／日 11:00〜21:00／月 定休"
