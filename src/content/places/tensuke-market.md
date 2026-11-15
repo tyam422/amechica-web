@@ -1,7 +1,7 @@
 ---
 name: "Tensuke Market"
 nameJa: "天助市場"
-category: "日系スーパー"
+category: "スーパー・日系"
 city: "Elk Grove Village"
 address: "115 E Higgins Rd, Elk Grove Village, IL 60007"
 hours: "毎日 9:00〜20:00（フードコートは 11:00〜15:00・16:00〜19:30）"

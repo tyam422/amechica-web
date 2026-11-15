@@ -1,7 +1,7 @@
 ---
 name: "Joong Boo Market Schaumburg"
 nameJa: ""
-category: "韓国系スーパー"
+category: "スーパー・韓国系"
 city: "Schaumburg"
 address: "1111 E Golf Rd, Schaumburg, IL 60173"
 hours: "毎日 8:00〜21:00（年中無休。祝日は変わる場合あり）"

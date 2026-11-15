@@ -1,7 +1,7 @@
 ---
 name: "Mitsuwa (Arlington Heights)"
 nameJa: ""
-category: "日系スーパー"
+category: "スーパー・日系"
 city: "Arlington Heights"
 address: "100 E Algonquin Rd, Arlington Heights, IL 60005"
 hours: "毎日 9:00〜20:00（店内の各店は店ごとに異なる）"

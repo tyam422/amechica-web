@@ -1,7 +1,7 @@
 ---
 name: "H Mart Schaumburg"
 nameJa: ""
-category: "韓国系スーパー"
+category: "スーパー・韓国系"
 city: "Schaumburg"
 address: "420 E Golf Rd, Schaumburg, IL 60173"
 hours: "毎日 9:00〜22:00"
