@@ -5,7 +5,7 @@ category: "映画館"
 city: "Woodridge"
 address: "6500 IL-53, Woodridge, IL 60517"
 hours: "上映の時間によって毎日変わります（例：2026年11月14日は 8:40〜23:35。公式サイトのデータ）"
-parking: "無料の駐車場あり（第三者の情報：PlugShare・Family Action、2026年11月14日）"
+parking: "敷地内の駐車場（無料）"
 payment: "クレジットカード、Cinemark のギフトカード、Apple Pay（公式サイトの FAQ）"
 website: "https://www.cinemark.com/theatres/il-woodridge/cinemark-seven-bridges-and-imax"
 order: 30
@@ -19,6 +19,8 @@ draft: true
 ## 概要
 
 Cinemark Seven Bridges and IMAX は、Woodridge の Seven Bridges の地区（Route 53 と Hobson Road の近く）にある映画館です。Cinemark（本社はテキサス州 Plano）が運営しています。公式サイトの劇場ページによると、IMAX の上映とゲームコーナー（Arcade）があります。
+
+IMAX 70mmフィルム上映に対応した数少ない映画館の一つです。Cinemark の公式サイトの 70mm のページでは、Cinemark の IMAX 70mm の劇場は Dallas（TX）、Rochester（NY）とこの劇場の 3 か所です。IMAX の公式サイトの「The Odyssey」（2026年）の IMAX 70mm の上映館の一覧では、アメリカで 25 館、イリノイ州ではこの劇場だけでした。
 
 ## 基本情報
 
@@ -47,7 +49,7 @@ Cinemark Seven Bridges and IMAX は、Woodridge の Seven Bridges の地区（Ro
 
 ### 駐車場
 
-公式サイトで駐車場の情報は見つかりませんでした。第三者の情報（PlugShare・Family Action、2026年11月14日）では、無料の駐車場があります。PlugShare では、電気自動車の急速充電器が「Coming Soon（準備中）」と書かれています。
+敷地内の駐車場（無料）。
 
 ### 支払い方法
 
@@ -203,6 +205,8 @@ Pace の時刻表のデータ（GTFS、2026年8月からのもの）によると
 ## 参考リンク
 
 - [Cinemark – Seven Bridges and IMAX](https://www.cinemark.com/theatres/il-woodridge/cinemark-seven-bridges-and-imax)
+- [Cinemark – 70mm Projection](https://www.cinemark.com/theatre-technology/70mm-projection)
+- [IMAX – THE ODYSSEY in IMAX 70mm Film（上映館の一覧）](https://www.imax.com/news/the-odyssey-in-imax-70mm-film)
 - [Cinemark – FAQ](https://www.cinemark.com/faq)
 - [Cinemark – Movie Rewards](https://www.cinemark.com/movie-rewards)
 - [Cinemark – Movie Club](https://www.cinemark.com/movie-club)
@@ -211,8 +215,6 @@ Pace の時刻表のデータ（GTFS、2026年8月からのもの）によると
 - [Cinemark – Food & Drink](https://www.cinemark.com/food-and-drink)
 - [Cinemark – Accessibility](https://www.cinemark.com/accessibility-at-cinemark)
 - [Daily Herald – IMAX 70 mm の記事（2026年7月24日、第三者の情報）](https://www.dailyherald.com/20260724/movies/woodridge-draws-thousands-of-film-enthusiasts-from-across-the-country-to-see-the-odyssey-in-imax-7/)
-- [PlugShare – Cinemark Seven Bridges and IMAX（第三者の情報）](https://www.plugshare.com/location/1659458)
-- [Family Action – Cinemark Seven Bridges and IMAX（第三者の情報）](https://www.familyaction.com/activity/cinemark-seven-bridges-and-imax-chicago)
 - [Pace – Route Timetable Data Services（時刻表データ）](https://www.pacebus.com/route-timetable-data-services)
 
 <p class="note">この情報は2026年11月時点のものです。</p>
