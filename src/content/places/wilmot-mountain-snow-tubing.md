@@ -10,7 +10,7 @@ payment: "チケットはオンライン（公式のチュービングのペー�
 website: "https://www.wilmotmountain.com/explore-the-resort/activities-and-events/snow-tubing.aspx"
 order: 28
 updated: 2026-11-14
-draft: true
+draft: false
 ---
 
 <!-- 事実のみを書く（感想・評価・おすすめは書かない）。 -->

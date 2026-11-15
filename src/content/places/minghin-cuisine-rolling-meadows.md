@@ -10,7 +10,7 @@ payment: "クレジットカード、Apple Pay などのタッチ決済（地図
 website: "https://www.minghincuisine.com/rollingmeadows"
 order: 11
 updated: 2026-11-14
-draft: true
+draft: false
 ---
 
 <!-- 事実のみを書く（感想・評価・おすすめは書かない）。 -->

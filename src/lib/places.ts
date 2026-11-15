@@ -3,9 +3,9 @@ import { SHOW_DRAFTS } from "./drafts";
 
 export type PlaceEntry = CollectionEntry<"places">;
 
-// The places section is unfinished. Until it is ready, it exists only in dev:
-// production builds get no /places/ pages, no sitemap entries, no nav link.
-export const PLACES_ENABLED = SHOW_DRAFTS;
+// The places section is public (Teppei approved publishing on 2026-11-14).
+// Individual places still stay hidden in production while they have draft: true.
+export const PLACES_ENABLED = true;
 
 export function isPlacePublished(place: PlaceEntry, prod = !SHOW_DRAFTS) {
   return prod ? place.data.draft !== true : true;

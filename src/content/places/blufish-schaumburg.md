@@ -10,7 +10,7 @@ payment: "クレジットカード、Apple Pay、タッチ決済（地図サー�
 website: "https://www.blufishsushi.com/locations/schaumburg/"
 order: 6
 updated: 2026-11-14
-draft: true
+draft: false
 ---
 
 <!-- 事実のみを書く（感想・評価・おすすめは書かない）。 -->

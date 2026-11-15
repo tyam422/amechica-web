@@ -10,7 +10,7 @@ payment: "チケットは Visa・Mastercard・Discover・American Express（公�
 website: "https://www.medievaltimes.com/chicago"
 order: 26
 updated: 2026-11-14
-draft: true
+draft: false
 ---
 
 <!-- 事実のみを書く（感想・評価・おすすめは書かない）。 -->

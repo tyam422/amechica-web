@@ -10,7 +10,7 @@ payment: "クレジットカード、Cinemark のギフトカード、Apple Pay�
 website: "https://www.cinemark.com/theatres/il-woodridge/cinemark-seven-bridges-and-imax"
 order: 30
 updated: 2026-11-14
-draft: true
+draft: false
 ---
 
 <!-- 事実のみを書く（感想・評価・おすすめは書かない）。上映中の映画は書かない。 -->

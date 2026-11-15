@@ -10,7 +10,7 @@ payment: "クレジットカード（Visa、Mastercard、American Express、Disc
 website: "https://www.ikea.com/us/en/stores/schaumburg/"
 order: 17
 updated: 2026-11-14
-draft: true
+draft: false
 ---
 
 <!-- 事実のみを書く（感想・評価・おすすめは書かない）。 -->

@@ -10,7 +10,7 @@ payment: "店ごとに違います（各店に確認してください）"
 website: "https://www.fashionoutletsofchicago.com/"
 order: 19
 updated: 2026-11-14
-draft: true
+draft: false
 ---
 
 <!-- 事実のみを書く（感想・評価・おすすめは書かない）。 -->

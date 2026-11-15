@@ -10,7 +10,7 @@ payment: "公式の案内なし（店舗に確認してください）"
 website: "https://mitsuwa.com/ch/"
 order: 1
 updated: 2026-11-14
-draft: true
+draft: false
 ---
 
 <!-- 事実のみを書く（感想・評価・おすすめは書かない）。 -->

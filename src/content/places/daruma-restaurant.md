@@ -10,7 +10,7 @@ payment: "クレジットカード、Apple Pay、タッチ決済（地図サー�
 website: "https://www.facebook.com/DarumaRestaurant/"
 order: 5
 updated: 2026-11-14
-draft: true
+draft: false
 ---
 
 <!-- 事実のみを書く（感想・評価・おすすめは書かない）。 -->

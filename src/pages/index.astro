@@ -14,7 +14,7 @@ const topics = (await getCollection("topics"))
   )
   .slice(0, 6);
 
-// お店・スポット is not public yet: only listed in dev / PREVIEW_DRAFTS=1 builds.
+// お店・スポット: published places with a website filled in.
 const places = PLACES_ENABLED
   ? (await getCollection("places"))
       // Skip still-empty templates (no website filled in yet).

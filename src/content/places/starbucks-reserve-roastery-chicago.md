@@ -10,7 +10,7 @@ payment: "Starbucks のギフトカード・アプリで支払えます。Mobile
 website: "https://www.starbucksreserve.com/locations/chicago-roastery"
 order: 31
 updated: 2026-11-14
-draft: true
+draft: false
 ---
 
 <!-- 事実のみを書く（感想・評価・おすすめは書かない）。 -->

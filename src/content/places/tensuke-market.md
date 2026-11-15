@@ -10,7 +10,7 @@ payment: "現金、クレジットカード・デビットカード、Apple Pay 
 website: "https://www.tensuke.com/"
 order: 2
 updated: 2026-11-14
-draft: true
+draft: false
 ---
 
 <!-- 事実のみを書く（感想・評価・おすすめは書かない）。 -->

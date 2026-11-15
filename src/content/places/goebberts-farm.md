@@ -10,7 +10,7 @@ payment: "現金・クレジットカード（動物のえさの売り場は現�
 website: "https://goebbertspumpkinfarm.com/"
 order: 25
 updated: 2026-11-14
-draft: true
+draft: false
 ---
 
 <!-- 事実のみを書く（感想・評価・おすすめは書かない）。 -->

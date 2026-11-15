@@ -10,7 +10,7 @@ payment: "クレジットカード、Apple Pay などのタッチ決済（地図
 website: "https://bakerycrescent.wixsite.com/my-site-2"
 order: 13
 updated: 2026-11-14
-draft: true
+draft: false
 ---
 
 <!-- 事実のみを書く（感想・評価・おすすめは書かない）。 -->

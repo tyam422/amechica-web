@@ -10,7 +10,7 @@ payment: "店ごとに違います（各店に確認してください）"
 website: "https://www.simon.com/mall/woodfield-mall"
 order: 14
 updated: 2026-11-14
-draft: true
+draft: false
 ---
 
 <!-- 事実のみを書く（感想・評価・おすすめは書かない）。 -->

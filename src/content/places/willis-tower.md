@@ -10,7 +10,7 @@ payment: "個人の入場の支払い方法の案内は公式サイトに見つ�
 website: "https://theskydeck.com/"
 order: 33
 updated: 2026-11-14
-draft: true
+draft: false
 ---
 
 <!-- 事実のみを書く（感想・評価・おすすめは書かない）。 -->

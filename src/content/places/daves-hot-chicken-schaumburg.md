@@ -10,7 +10,7 @@ payment: "店のページでは Apple Pay、Google Pay。オンライン注文�
 website: "https://restaurants.daveshotchicken.com/il/schaumburg/1330-e-golf-rd-unit-a-1471"
 order: 34
 updated: 2026-11-14
-draft: true
+draft: false
 ---
 
 <!-- 事実のみを書く（感想・評価・おすすめは書かない）。 -->
