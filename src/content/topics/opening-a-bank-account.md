@@ -6,7 +6,7 @@ order: 2
 updated: 2026-11-10
 draft: false
 youtubeId: "hue6xaPGGLI"
-youtubeUploadDate: "2026-11-19T09:00:00-06:00"
+youtubeUploadDate: "2026-11-19T08:25:48-08:00"
 ---
 
 給与の振込、家賃、公共料金の引き落としに、現地の銀行口座が必要です。社会保障番号（SSN）や住所の準備状況で開ける時期が変わることがあり、日本の口座だけでは日常の支払いがしづらいです。番号の取り方は「[社会保障番号（SSN）](/topics/social-security-number/)」、渡米前の書類は「[渡米前に揃える書類](/topics/documents-before-move/)」を見てください。この記事では、特定の銀行を勧めません。手数料や必要書類は、その銀行の案内で確認してください。
