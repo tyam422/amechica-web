@@ -1,8 +1,8 @@
 ---
-// にほんブログ村のバナー。設定は src/lib/blogmura.ts。未設定なら何も出力しない。
-import { BLOGMURA_BANNER_HTML } from "../lib/blogmura";
+// にほんブログ村のバナーとブログパーツ。設定は src/lib/blogmura.ts。未設定なら何も出力しない。
+import { BLOGMURA_BANNER_HTML, BLOGMURA_PARTS_HTML } from "../lib/blogmura";
 
-const html = BLOGMURA_BANNER_HTML.trim();
+const html = [BLOGMURA_BANNER_HTML.trim(), BLOGMURA_PARTS_HTML.trim()].filter(Boolean).join("\n");
 ---
 
 {html && <aside class="blogmura-banner" aria-label="にほんブログ村" set:html={html} />}
