@@ -3,6 +3,7 @@ import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { formatDate, getGroupByName, isPublished, topicPath } from "../lib/groups";
 import { PLACES_ENABLED, isPlacePublished, placePath } from "../lib/places";
+import { blogPath, isBlogPublished, lastModified, sortBlogPosts } from "../lib/blog";
 
 // Latest topics: newest `updated` first; ties broken by the newest video.
 const topics = (await getCollection("topics"))
@@ -25,10 +26,14 @@ const places = PLACES_ENABLED
       .slice(0, 6)
   : [];
 
-// 最近の更新: topics and places merged, newest `updated` first.
+// ブログ: newest posts (by last change: updated, else publish date).
+const posts = sortBlogPosts((await getCollection("blog")).filter((post) => isBlogPublished(post))).slice(0, 6);
+
+// 最近の更新: topics, places and blog posts merged, newest date first.
 const updates = [
   ...topics.map((topic) => ({ kind: "topic" as const, topic, date: topic.data.updated })),
   ...places.map((place) => ({ kind: "place" as const, place, date: place.data.updated })),
+  ...posts.map((post) => ({ kind: "blog" as const, post, date: lastModified(post) })),
 ].sort((a, b) => b.date.getTime() - a.date.getTime());
 ---
 
@@ -48,7 +53,7 @@ const updates = [
     </p>
   </section>
 
-  <div class={`home-cards${PLACES_ENABLED ? "" : " home-cards--single"}`}>
+  <div class="home-cards">
     <a class="home-card" href="/guide/">
       <span class="home-card__title">渡米ガイド</span>
       <span class="home-card__desc">引っ越し前後の手続き・生活情報</span>
@@ -63,6 +68,11 @@ const updates = [
         </a>
       )
     }
+    <a class="home-card" href="/blog/">
+      <span class="home-card__title">ブログ</span>
+      <span class="home-card__desc">シカゴ郊外での暮らしの体験談</span>
+      <span class="home-card__more" aria-hidden="true">見る →</span>
+    </a>
   </div>
 
   <section class="group-block" aria-labelledby="recent-updates">
@@ -71,7 +81,18 @@ const updates = [
     </div>
     <ul class="topic-list">
       {updates.map((u) =>
-        u.kind === "topic" ? (
+        u.kind === "blog" ? (
+          (() => { const post = u.post; return (
+        <li>
+          <a href={blogPath(post.id)}>
+            <span class="topic-list__title">{post.data.title}</span>
+            <span class="topic-list__desc">
+              ブログ　{post.data.updated ? "更新日" : "公開日"}：{formatDate(lastModified(post))}
+            </span>
+          </a>
+        </li>
+          ); })()
+        ) : u.kind === "topic" ? (
           (() => { const topic = u.topic; return (
         <li>
           <a href={topicPath(topic.id)}>

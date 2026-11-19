@@ -50,4 +50,18 @@ const places = defineCollection({
   }),
 });
 
-export const collections = { topics, places };
+// ブログ（blog）: Teppei's own experience, backed by research and fact-checking.
+// First-person voice is fine here (unlike topics/places, which are neutral facts).
+// draft: true posts are shown only in `npm run dev` / PREVIEW_DRAFTS builds.
+const blog = defineCollection({
+  loader: glob({ base: "./src/content/blog", pattern: "**/*.md" }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    pubDate: z.coerce.date(),
+    updated: z.coerce.date().optional(),
+    draft: z.boolean().default(false),
+  }),
+});
+
+export const collections = { topics, places, blog };

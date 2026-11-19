@@ -6,7 +6,7 @@ import "../styles/global.css";
 interface Props {
   title: string;
   description: string;
-  current?: "home" | "guide" | "places" | "about" | "other";
+  current?: "home" | "guide" | "places" | "blog" | "about" | "other";
   ogType?: "website" | "article";
   ogImage?: string;
 }
@@ -73,6 +73,7 @@ const gaId =
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={ogImageUrl} />
     {current === "home" && <script type="application/ld+json" set:html={siteJsonLd} />}
+    <slot name="head" />
     {
       gaId && (
         <>

@@ -2,7 +2,7 @@
 import { PLACES_ENABLED } from "../lib/places";
 
 interface Props {
-  current?: "home" | "guide" | "places" | "about" | "other";
+  current?: "home" | "guide" | "places" | "blog" | "about" | "other";
 }
 
 const { current = "other" } = Astro.props;
@@ -24,6 +24,7 @@ const placesEnabled = PLACES_ENABLED;
       {placesEnabled && (
         <a href="/places/" aria-current={current === "places" ? "page" : undefined}>お店・スポット</a>
       )}
+      <a href="/blog/" aria-current={current === "blog" ? "page" : undefined}>ブログ</a>
     </nav>
   </div>
 </header>

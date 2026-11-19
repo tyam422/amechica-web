@@ -1,0 +1,64 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import BlogmuraBanner from "../components/BlogmuraBanner.astro";
+import { formatDate } from "../lib/groups";
+import { BLOG_RSS_PATH, BLOG_TITLE, blogPath, type BlogEntry } from "../lib/blog";
+
+interface Props {
+  post: BlogEntry;
+}
+
+const { post } = Astro.props;
+const d = post.data;
+const title = `${d.title} — amechica ブログ`;
+const url = new URL(blogPath(post.id), Astro.site).href;
+const siteUrl = new URL("/", Astro.site).href;
+const showUpdated = d.updated && d.updated.getTime() !== d.pubDate.getTime();
+const toDay = (date: Date) => date.toISOString().slice(0, 10);
+const jsonLd = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  headline: d.title,
+  description: d.description,
+  datePublished: toDay(d.pubDate),
+  dateModified: toDay(d.updated ?? d.pubDate),
+  inLanguage: "ja",
+  mainEntityOfPage: { "@type": "WebPage", "@id": url },
+  url,
+  author: { "@type": "Person", name: "amechica 管理人", url: new URL("/about/", Astro.site).href },
+  publisher: {
+    "@type": "Organization",
+    "@id": `${siteUrl}#organization`,
+    name: "amechica",
+    logo: { "@type": "ImageObject", url: new URL("/icon-512.png", Astro.site).href },
+  },
+  image: new URL("/og-default.jpg", Astro.site).href,
+  isPartOf: { "@type": "Blog", name: BLOG_TITLE, url: new URL("/blog/", Astro.site).href },
+});
+---
+
+<BaseLayout title={title} description={d.description} ogType="article" current="blog">
+  <link slot="head" rel="alternate" type="application/rss+xml" title={BLOG_TITLE} href={BLOG_RSS_PATH} />
+  <script slot="head" type="application/ld+json" set:html={jsonLd} />
+  <article class="article">
+    <nav class="crumb" aria-label="パンくずリスト">
+      <ol>
+        <li><a href="/">ホーム</a></li>
+        <li><a href="/blog/">ブログ</a></li>
+        <li aria-current="page">{d.title}</li>
+      </ol>
+    </nav>
+    <h1>{d.title}</h1>
+    <p class="meta">
+      公開日：<time datetime={toDay(d.pubDate)}>{formatDate(d.pubDate)}</time>
+      {showUpdated && d.updated && (
+        <>　更新日：<time datetime={toDay(d.updated)}>{formatDate(d.updated)}</time></>
+      )}
+    </p>
+    <div class="prose">
+      <slot />
+    </div>
+    <BlogmuraBanner />
+    <p class="blog-back"><a href="/blog/">← ブログの記事一覧へ</a></p>
+  </article>
+</BaseLayout>

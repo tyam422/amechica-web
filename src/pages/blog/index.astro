@@ -1,0 +1,77 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import BlogmuraBanner from "../../components/BlogmuraBanner.astro";
+import { formatDate } from "../../lib/groups";
+import {
+  BLOG_DESCRIPTION,
+  BLOG_RSS_PATH,
+  BLOG_TITLE,
+  blogPath,
+  isBlogPublished,
+  sortBlogPosts,
+} from "../../lib/blog";
+
+// Newest first by publish date.
+const posts = sortBlogPosts((await getCollection("blog")).filter((post) => isBlogPublished(post)));
+const listUrl = new URL("/blog/", Astro.site).href;
+const siteUrl = new URL("/", Astro.site).href;
+const jsonLd = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  name: BLOG_TITLE,
+  description: BLOG_DESCRIPTION,
+  url: listUrl,
+  inLanguage: "ja",
+  publisher: { "@type": "Organization", "@id": `${siteUrl}#organization`, name: "amechica" },
+  blogPost: posts.map((post) => ({
+    "@type": "BlogPosting",
+    headline: post.data.title,
+    url: new URL(blogPath(post.id), Astro.site).href,
+    datePublished: post.data.pubDate.toISOString().slice(0, 10),
+  })),
+});
+---
+
+<BaseLayout title={`ブログ — amechica`} description={BLOG_DESCRIPTION} current="blog">
+  <link slot="head" rel="alternate" type="application/rss+xml" title={BLOG_TITLE} href={BLOG_RSS_PATH} />
+  <script slot="head" type="application/ld+json" set:html={jsonLd} />
+  <nav class="crumb" aria-label="パンくずリスト">
+    <ol>
+      <li><a href="/">ホーム</a></li>
+      <li aria-current="page">ブログ</li>
+    </ol>
+  </nav>
+  <section class="group-block" aria-labelledby="blog-heading">
+    <div class="group-block__head">
+      <h1 id="blog-heading">ブログ</h1>
+      <p>{BLOG_DESCRIPTION}</p>
+    </div>
+    {
+      posts.length > 0 ? (
+        <ul class="topic-list">
+          {posts.map((post) => (
+            <li>
+              <a href={blogPath(post.id)}>
+                <span class="topic-list__title">{post.data.title}</span>
+                <span class="topic-list__desc">
+                  公開日：{formatDate(post.data.pubDate)}
+                  {post.data.updated && post.data.updated.getTime() !== post.data.pubDate.getTime()
+                    ? `　更新日：${formatDate(post.data.updated)}`
+                    : ""}
+                </span>
+                <span class="topic-list__desc">{post.data.description}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      ) : (
+        <p class="note">記事は準備中です。</p>
+      )
+    }
+  </section>
+  <p class="note">
+    更新情報は <a href={BLOG_RSS_PATH}>RSS（{BLOG_RSS_PATH}）</a> でも受け取れます。
+  </p>
+  <BlogmuraBanner />
+</BaseLayout>
