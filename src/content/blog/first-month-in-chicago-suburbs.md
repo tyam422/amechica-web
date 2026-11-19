@@ -47,6 +47,26 @@ draft: false
 
 こちらに着いてからは、家の購入手続きが終わるまでホテルに泊まりました。購入が完了して、ようやく銀行口座の開設と、学校への申込みを始めることができました。息子が学校に通い始めたのは、到着して5日ほど後のことです。
 
+### インターネットは、入居したその日から使えた
+
+インターネットは、引っ越す前に自分で設置する機器のセット（self install kit）を注文しておきました。家の引き渡しを受けた日には、もうそのキットが届いていたので、その日のうちにインターネットを使い始めることができました（「[インターネットと携帯電話](/topics/internet-and-phone/)」）。
+
+### ガスと電気は……正直、何をしたか覚えていません
+
+<!-- Teppei が思い出したら、この見出しと下の段落を、実際にしたことに書き換える。下の「本来の手続き」の囲みは残してもよい。 -->
+
+ガス（Nicor Gas）と電気（ComEd）については、正直なところ、自分で何か手続きをした記憶がありません。思い出したら追記します。そこで、本来は入居のときにどうする必要があるのかを調べてまとめておきます。
+
+<div class="callout">
+<p class="callout__title">本来の手続き：ガス（Nicor Gas）と電気（ComEd）（2026年11月時点の公式案内）</p>
+<p><strong>自分の名義で「開始（start service）」を申し込む。</strong>前の住人や売り主の契約を引き継ぐのではなく、新しく住む人が自分の名前で申し込みます。ComEd は、ほかの人に切り替えるときは「今の契約者が停止し、相手が新しく開始を申し込む」と案内しています。前の持ち主が契約を止めたあとも、ガスや電気が実際に止まらずに使えるかどうかは、公式には一律の説明がありません。入居日を開始日にして、事前に申し込んでおくのが確実です。</p>
+<p><strong>ガス（Nicor Gas）</strong>：公式サイトの「Start Service」フォームか、電話 888-642-6748（888.Nicor4u）で申し込みます。フォームでは、開始日、支払う人、請求書の送り先を入力します。処理には最大48時間かかることがあり、当日の申し込みや過去の日付は受け付けない、とされています。メーターが開いていれば立ち入りは不要で、開いているかわからないときは、家の中のガス機器を開栓できるよう、入り方を伝えます。申込の際は簡易的な信用調査があり、社会保障番号（SSN）を出さないと、預かり金（deposit）が自動で請求される、とフォームに書かれています。すでに別の住所で Nicor Gas を使っている人は「Transfer Service」フォームを使います。</p>
+<p><strong>電気（ComEd）</strong>：ComEd.com の My Account の「Start Stop Move」から「Start Service」を選ぶか、電話 1-800-334-7661（1-800-EDISON-1）で申し込みます。住宅の場合は、SSN か運転免許証の番号、電話番号、メールアドレス、前の住所が必要です。本人確認には、政府発行の写真付き身分証を含む2点の書類が求められます。預かり金が必要かどうかは、州の規則（イリノイ州商業委員会、ICC）に沿って決まります。</p>
+<p><strong>開通までの日数</strong>：州の規則では、必要な情報がそろってから原則2営業日以内に承認か却下が知らされ、承認後、希望日の指定がなければ電気は原則4日以内、ガスは原則7日以内に開通します。</p>
+<p><strong>電気の「供給」は村がまとめて契約していることも</strong>：電気は、家まで届ける「配送」と、電気そのものの「供給」が分かれています。イリノイ州には、自治体が住民の分の供給をまとめて契約する制度（municipal aggregation）があり、シカゴ郊外にも取り入れている村や市があります。州の消費者向けサイト Plug In Illinois によると、opt-out 方式の自治体では、何もしなければ自動的に加入し、加入したくない人は届く通知に従って外れます。aggregation 以外に、ComEd の供給のままにする、別の供給事業者を選ぶ、という選択肢もあります。どの供給を選んでも、電線の維持や停電の対応、請求は ComEd が続けます。玄関先や電話での電気の供給の勧誘には、その場で契約しないなど注意が必要です。</p>
+<p>くわしくは「<a href="/topics/setting-up-utilities/">水道・電気・ガスの開通</a>」へ。</p>
+</div>
+
 ### ごみの日は、村役場に電話して聞いた
 
 ごみをどうすればいいのかまったくわからなかったので、村（village）に電話して、ごみの収集日を教えてもらいました。収集日は住所ごとに違い、村のサイトで調べられることもあります（「[ごみの収集日の調べ方](/topics/garbage-pickup-days/)」）。
@@ -61,7 +81,7 @@ draft: false
 
 <div class="callout">
 <p class="callout__title">いまの制度は</p>
-<p>イリノイ州務省（Secretary of State）の2026年4月30日の案内では、新しく州の住民になった人は、他州の有効な免許で最大90日間運転でき、その後は窓口で前の免許を返納し、視力検査に合格して書類を出す、とされています。「有効な免許をすでに持っている場合の試験は視力検査のみ」とも書かれています。日本の免許だけの場合は扱いが違います。くわしくは「<a href="/topics/illinois-drivers-license/">イリノイ州の運転免許証</a>」と、州務省の最新の案内を確認してください。</p>
+<p>イリノイ州務省（Secretary of State）の新住民向けの案内と2026年4月30日の発表では、ほかの州から移ってきた人は、有効な免許で最大90日間運転でき、その後は窓口で前の免許を引き渡し、視力検査に合格して書類を出す、とされています。試験は「視力検査のみ」で、筆記試験はありません。一方、ほかの国から移ってきた人（日本の免許だけの人など）は、視力・筆記・実技の試験を受けます。くわしくは「<a href="/topics/illinois-drivers-license/">イリノイ州の運転免許証</a>」と、州務省の最新の案内を確認してください。</p>
 </div>
 
 ### 車が届いたら、州の窓口で登録してナンバーを取得
@@ -145,6 +165,8 @@ draft: false
 <li>学校に事前連絡（申込みは住所の証明ができてから）</li>
 <li>地元の銀行を解約し、到着後に新しく口座を開いた</li>
 <li>荷物は10〜15箱。車は1台売って1台は輸送（1か月ちょっと）</li>
+<li>インターネットは事前に機器のセットを注文し、入居日から使えた</li>
+<li>ガスと電気は……覚えていない（本来の手続きは上の囲みのとおり）</li>
 <li>ごみの収集日を村に電話して確認</li>
 <li>車をリース、筆記試験を受けてイリノイ州の免許を取得</li>
 <li>届いた車を州務省の窓口で登録し、イリノイ州のナンバーを取得</li>
@@ -161,11 +183,19 @@ draft: false
 
 ## 参考にした公式情報
 
+- [New to Illinois Driving（イリノイ州務省、新住民向け）](https://www.ilsos.gov/services/newresidents.html)
 - [Moving Day Is Here: Giannoulias Reminds Illinoisans to Update Address, Stay Road Ready（イリノイ州務省、2026年4月30日）](https://www.ilsos.gov/news/2026/april-30-2026-moving-day-is-here-giannoulias-reminds-illinoisans-update-address-stay-road-ready.html)
 - [Vehicle Titles and License Plates for New Illinois Residents（イリノイ州務省）](https://www.ilsos.gov/services/newresidents/vehicle-titles-and-license-plates-for-new-illinois-residents.html)
 - [625 ILCS 5/3-801（新住民の車両登録）](https://www.ilga.gov/documents/legislation/ilcs/documents/062500050K3-801.htm)
 - [About I-PASS（Illinois Tollway）](https://agency.illinoistollway.com/about-ipass)
 - [Customer Service FAQs（Illinois Tollway）](https://agency.illinoistollway.com/customer-service-faqs)
+- [Start/Stop/Transfer Service（Nicor Gas）](https://www.nicorgas.com/residential/manageyouraccount/start-stop-transfer-service.html)
+- [Start Service Form（Nicor Gas）](https://www.nicorgas.com/business/manage-your-business-account/start-stop-transfer/start-services.html)
+- [Iniciar Servicio Formar（Nicor Gas、開始フォームのスペイン語版。SSN と預かり金の説明）](https://www.nicorgas.com/es/residencial/mudandose/iniciar-servicio-formar.html)
+- [FAQs: Moving/New Service（ComEd）](https://www.comed.com/my-account/customer-support/customer-support-faqs)
+- [ComEd Start Service Guide（ComEd、PDF）](https://www.comed.com/cdn/assets/v3/assets/blt3ebb3fed6084be2a/blted4d433575daa54a/64ad8520440d584c7f3619a4/ComEd_Start_Service_Guide.pdf?branch=prod_alias)
+- [83 Ill. Adm. Code 280.30（申込と開通の期限、ICC の規則）](https://www.ilga.gov/commission/jcar/admincode/083/083002800B00300R.html)
+- [Municipal Aggregation（Plug In Illinois、ICC）](https://plugin.illinois.gov/municipal-aggregation.html)
 - [All Children Across Illinois to Receive Blood Lead Testing（IDPH、2026年6月25日）](https://dph.illinois.gov/resource-center/news/2026/june/release-20260625.html)
 - [Lead Service Line Information（Illinois EPA）](https://epa.illinois.gov/topics/drinking-water/public-water-users/lead-service-line-information.html)
 - [What is EPA's Action Level for Radon（EPA）](https://www.epa.gov/radon/what-epas-action-level-radon-and-what-does-it-mean)
