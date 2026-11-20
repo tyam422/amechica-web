@@ -5,7 +5,7 @@ group: "買い物・日常生活"
 order: 3
 updated: 2026-11-10
 draft: false
-youtubeId: "CumnAB8tAxk"
+youtubeId: "rRxtSR79OEQ"
 youtubeUploadDate: "2026-11-19T08:25:39-08:00"
 ---
 

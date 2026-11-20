@@ -5,7 +5,7 @@ group: "車・運転"
 order: 3
 updated: 2026-11-10
 draft: false
-youtubeId: "_7JhAu0WQRo"
+youtubeId: "GsuHM6qjy0Y"
 youtubeUploadDate: "2026-11-19T08:25:44-08:00"
 ---
 

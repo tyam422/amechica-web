@@ -5,7 +5,7 @@ group: "到着後すぐ（最初の1か月）"
 order: 2
 updated: 2026-11-10
 draft: false
-youtubeId: "hue6xaPGGLI"
+youtubeId: "YnxdP2Ks7dU"
 youtubeUploadDate: "2026-11-19T08:25:48-08:00"
 ---
 

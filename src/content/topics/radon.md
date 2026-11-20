@@ -5,7 +5,7 @@ group: "住まい・家のメンテナンス"
 order: 5
 updated: 2026-11-10
 draft: false
-youtubeId: "ilpGqFUACfA"
+youtubeId: "32uoELAvlmo"
 youtubeUploadDate: "2026-11-19T08:25:48-08:00"
 ---
 

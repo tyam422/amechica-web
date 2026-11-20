@@ -5,7 +5,7 @@ group: "子ども・学校"
 order: 2
 updated: 2026-11-10
 draft: false
-youtubeId: "xu_BgKAM3vc"
+youtubeId: "kagNDVVhxN4"
 youtubeUploadDate: "2026-11-19T08:25:56-08:00"
 ---
 

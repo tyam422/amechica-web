@@ -5,7 +5,7 @@ group: "渡米前"
 order: 2
 updated: 2026-11-10
 draft: false
-youtubeId: "zw1kafBh1SE"
+youtubeId: "eHMSKK4jmUE"
 youtubeUploadDate: "2026-11-19T08:25:55-08:00"
 ---
 

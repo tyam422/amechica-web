@@ -5,7 +5,7 @@ group: "医療"
 order: 4
 updated: 2026-11-10
 draft: false
-youtubeId: "l19SO8Xrc3M"
+youtubeId: "M8-l1XncuZk"
 youtubeUploadDate: "2026-11-19T08:25:51-08:00"
 ---
 

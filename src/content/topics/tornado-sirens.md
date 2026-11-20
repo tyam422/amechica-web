@@ -5,7 +5,7 @@ group: "冬の生活・悪天候"
 order: 3
 updated: 2026-11-10
 draft: false
-youtubeId: "aq2RY7_Fe6E"
+youtubeId: "Dvijlfnv4Zc"
 youtubeUploadDate: "2026-11-19T08:25:48-08:00"
 ---
 
