@@ -34,7 +34,6 @@ const jsonLd = JSON.stringify({
 ---
 
 <BaseLayout title={`ブログ — amechica`} description={BLOG_DESCRIPTION} current="blog">
-  <link slot="head" rel="alternate" type="application/rss+xml" title={BLOG_TITLE} href={BLOG_RSS_PATH} />
   <script slot="head" type="application/ld+json" set:html={jsonLd} />
   <nav class="crumb" aria-label="パンくずリスト">
     <ol>
