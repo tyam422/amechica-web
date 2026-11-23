@@ -60,6 +60,9 @@ const blog = defineCollection({
     description: z.string(),
     pubDate: z.coerce.date(),
     updated: z.coerce.date().optional(),
+    // Long-form YouTube version of the post (never a Short). Upload date from the watch page's uploadDate.
+    youtubeId: z.string().optional(),
+    youtubeUploadDate: z.string().optional(),
     draft: z.boolean().default(false),
   }),
 });
