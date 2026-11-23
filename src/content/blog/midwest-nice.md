@@ -2,6 +2,8 @@
 title: "「Midwest Nice（ミッドウェスト・ナイス）」って何？ご近所さんの親切に戸惑った話"
 description: "近所から届いた手紙、季節ごとのプレゼント、頼んでいないのに業者を呼んでくれたお隣さん、夕食への招待。初めての中西部で戸惑った親切の正体は「Midwest Nice」でした。意味や由来、裏側の面、日本から来た人向けのコツをまとめます。"
 pubDate: 2026-11-20
+youtubeId: "zHYuJyhJ2zw"
+youtubeUploadDate: "2026-11-23T11:43:37-08:00"
 draft: false
 ---
 
