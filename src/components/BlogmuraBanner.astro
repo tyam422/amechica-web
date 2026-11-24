@@ -1,8 +1,22 @@
 ---
-// にほんブログ村のバナーとブログパーツ。設定は src/lib/blogmura.ts。未設定なら何も出力しない。
+// ブログランキングのバナー（にほんブログ村 ＋ 人気ブログランキング）とブログ村のブログパーツ。
+// 設定は src/lib/blogmura.ts と src/lib/with2.ts。どちらも未設定なら何も出力しない。
 import { BLOGMURA_BANNER_HTML, BLOGMURA_PARTS_HTML } from "../lib/blogmura";
+import { WITH2_BANNER_HTML } from "../lib/with2";
 
-const html = [BLOGMURA_BANNER_HTML.trim(), BLOGMURA_PARTS_HTML.trim()].filter(Boolean).join("\n");
+const banners = [BLOGMURA_BANNER_HTML.trim(), WITH2_BANNER_HTML.trim()].filter(Boolean);
+const parts = BLOGMURA_PARTS_HTML.trim();
 ---
 
-{html && <aside class="blogmura-banner" aria-label="にほんブログ村" set:html={html} />}
+{
+  (banners.length > 0 || parts) && (
+    <aside class="blogmura-banner" aria-label="ブログランキング">
+      {banners.length > 0 && (
+        <div class="ranking-banners">
+          {banners.map((html) => <div class="ranking-banners__item" set:html={html} />)}
+        </div>
+      )}
+      {parts && <Fragment set:html={parts} />}
+    </aside>
+  )
+}
