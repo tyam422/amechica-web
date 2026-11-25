@@ -5,7 +5,7 @@ pubDate: 2026-11-25
 draft: true
 ---
 
-<!-- ブログ：Teppei 本人の体験（一人称）。息子の免許と Top Driver の案内は本人提供の受講案内（2025年9月版）による。家族の名前・住所・口座番号・電話・メールは書かない。制度の説明はイリノイ州務省の Graduated Driver Licensing と『Rules of the Road』、日本側は警視庁の案内で確認し、下の「参考にした情報」に出典を置く。受講案内の PDF は公開・git に置かない。 -->
+<!-- ブログ：Teppei 本人の体験（一人称）。息子の免許と Top Driver の案内は本人提供の受講案内（2025年9月版）による。保険の話は本人と加入先代理店のやりとり（2026-11-24）による。家族の名前・住所・口座番号・証券番号・電話・メール、代理店の個人名は書かない。制度の説明はイリノイ州務省の Graduated Driver Licensing と『Rules of the Road』、保険は州保険庁・州務省・III、日本側は警視庁の案内で確認し、下の「参考にした情報」に出典を置く。受講案内の PDF と私信は公開・git に置かない。 -->
 
 日本では、普通自動車の免許は18歳になってから交付されます。ところがイリノイ州では、15歳から仮免許で運転の練習を始め、条件を満たせば16歳で免許が取れます。初めて知ったときは、正直なところ「そんなに早くていいのか」と思いました。
 
@@ -99,6 +99,20 @@ Top Driver の案内では、仮免許を取り、支払いを終えてから、
 
 制限の内容は変わることがあるので、申請の前に州務省の案内で確認してください。
 
+## 仮免許と自動車保険
+
+息子が15歳で仮免許を取り、これから約9か月、家の車2台で練習することになりました。そのとき、いまのうちに息子を自動車保険の証券に入れなければいけないのか、本免許を取ってからでよいのか、わからなかったので、僕たちが入っている保険会社（State Farm）の代理店に聞きました。
+
+代理店の答えは、仮免許のあいだは証券に追加する必要はない、ということでした。保護者のどちらかが一緒に乗っているときに何か起きても、補償の対象になる、とのことでした。本免許を取ったら連絡してほしい、そのときに証券へ追加する、とも言われました。
+
+これは、うちが加入している保険会社の代理店から聞いた話です。会社や証券の内容によって扱いが違うことがあるので、ほかの家庭でも同じとは限りません。自分の保険の担当者に確認するのが確実です。補償の種類や、イリノイ州で法律上必要な保険については、「[自動車保険（car insurance）](/topics/car-insurance/)」にもまとめています。
+
+イリノイ州では、登録して走らせる車に、対人・対物の賠償責任保険（liability）が法律で求められます（625 ILCS 5/7-601、州務省、州保険庁）。法律で求められる最低額などは、自動車保険のページを見てください。
+
+州保険庁は、子どもを保護者の証券に追加すると保険料は上がる、と案内しています。本免許を取ったあとに追加する場合、額は契約や会社で違いますが、上がることが多い、と考えておいた方がよさそうです。具体的な金額はここでは書きません。
+
+割引については、州保険庁の案内では、若い運転者が成績を「B」平均以上に保っていると、割引がある会社がある、とされています。保険情報協会（Insurance Information Institute）も、成績がよい学生や、公認の運転教習を修了したティーンエイジャー向けの割引を挙げる会社がある、と案内しています。種類と額は会社で違うので、本免許を追加するときに、自分の担当者へ聞くとよいと思います。
+
 ## 日本から来た人へ
 
 ここからは、調べてみて知っておくとよいと思ったことです。
@@ -110,7 +124,7 @@ Top Driver の案内では、仮免許を取り、支払いを終えてから、
 <p><strong>50時間は、教習とは別</strong>：教官との実車6時間とは別に、保護者などと50時間（うち夜間10時間）乗る必要があります。記録用紙は、州務省のサイトにあります。</p>
 <p><strong>「9か月」が2つある</strong>：仮免許を9か月持つことと、教習を開始から9か月以内に終えること（Top Driver の案内）は、別の期限です。</p>
 <p><strong>大人の切替とは別の話</strong>：すでに日本やほかの州の免許を持っている大人が、イリノイ州の免許に切り替える手続きは、「<a href="/topics/illinois-drivers-license/">イリノイ州の運転免許証</a>」を見てください。</p>
-<p><strong>保険のことも、早めに聞いておく</strong>：子どもが自分で運転するようになると、家族の自動車保険にも関わってきます。金額は契約によるので、保険の担当者に確認するのが確実です（「<a href="/topics/car-insurance/">自動車保険（car insurance）</a>」）。</p>
+<p><strong>保険は、仮免許の段階で自分の担当者に聞いておく</strong>：うちが聞いた話は、上の「仮免許と自動車保険」に書きました。会社によって違うので、自分の証券で確認するのが確実です。補償の種類は「<a href="/topics/car-insurance/">自動車保険（car insurance）</a>」も参考にしてください。</p>
 </div>
 
 思い出したことや、実際に進めてみてわかったことがあれば、この記事に追記していきます。
@@ -131,3 +145,10 @@ Top Driver の案内では、仮免許を取り、支払いを終えてから、
 - [625 ILCS 5/6-118（手数料）](https://www.ilga.gov/documents/legislation/ilcs/documents/062500050K6-118.htm)
 - [受験資格に係る年齢要件の引き下げ（警視庁。普通免許の交付は18歳、2026年4月から受験は17歳6か月）](https://www.keishicho.metro.tokyo.lg.jp/menkyo/oshirase/exam_age.html)
 - Top Driver の受講案内（Terms & Conditions および "STEPS TO OBTAIN A DRIVER LICENSE AT THE AGE OF 16"、2025年9月版。個人向けに届いた資料のため、リンクは置かない）
+- [Mandatory Vehicle Insurance（イリノイ州務省、VSD 361、PDF）](https://www.ilsos.gov/publications/pdf_publications/vsd361.pdf)
+- [Vehicles FAQ（イリノイ州務省。Mandatory Insurance）](https://www.ilsos.gov/departments/vehicles/faq.html)
+- [625 ILCS 5/7-601（賠償責任保険の義務）](https://www.ilga.gov/documents/legislation/ilcs/documents/062500050K7-601.htm)
+- [Teen Drivers（イリノイ州保険庁）](https://idoi.illinois.gov/consumers/consumerinsurance/teen-drivers.html)
+- [Auto Insurance Shopping Guide（イリノイ州保険庁。Good student などの割引）](https://idoi.illinois.gov/consumers/consumerinsurance/auto-insurance-shopping-guide.html)
+- [9 Ways to Lower Your Auto Insurance Costs（Insurance Information Institute、PDF。Good Student / Drivers Ed の割引）](https://www.iii.org/sites/default/files/docs/pdf/9Ways1.pdf)
+- 僕たちが入っている保険会社（State Farm）の代理店とのやりとり（2026年11月24日。個人のやり取りのため、リンクは置かない）
