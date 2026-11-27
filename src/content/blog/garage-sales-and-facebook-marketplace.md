@@ -1,7 +1,7 @@
 ---
 title: "アメリカのガレージセールとFacebook Marketplace｜買い方、売り方、注意点"
 description: "シカゴ郊外では、ガレージセールや Facebook Marketplace で家具や子どもの用品を売買することがよくあります。種類と探し方、村のルール、受け渡しの安全な場所、よくある詐欺への注意をまとめます。"
-pubDate: 2026-11-27
+pubDate: 2026-11-28
 draft: true
 ---
 
